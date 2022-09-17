@@ -1,0 +1,3033 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "SKINS-MOD":
+  [
+    {
+      "title": "20210311111918_Original File Aldous",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210311111918_Original File Aldous.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210311111918_Original File Aldous.zip",
+      "size_skins": "4716k",
+      "coins": 100
+    },
+{
+      "title": "20210311125417_Chou KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210311125417_Chou KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210311125417_Chou KOF.zip",
+      "size_skins": "11080k",
+      "coins": 100
+    },
+{
+      "title": "20210311125553_Gusion KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210311125553_Gusion KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210311125553_Gusion KOF.zip",
+      "size_skins": "9052k",
+      "coins": 100
+    },
+{
+      "title": "20210311125738_Guinevere KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210311125738_Guinevere KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210311125738_Guinevere KOF.zip",
+      "size_skins": "11964k",
+      "coins": 100
+    },
+{
+      "title": "20210311125828_Dyroth KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210311125828_Dyroth KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210311125828_Dyroth KOF.zip",
+      "size_skins": "5640k",
+      "coins": 100
+    },
+{
+      "title": "20210311125901_Karina KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210311125901_Karina KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210311125901_Karina KOF.zip",
+      "size_skins": "4024k",
+      "coins": 100
+    },
+{
+      "title": "20210311125951_Aurora KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210311125951_Aurora KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210311125951_Aurora KOF.zip",
+      "size_skins": "8272k",
+      "coins": 100
+    },
+{
+      "title": "20210311135554_Silvanna Starlight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210311135554_Silvanna Starlight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210311135554_Silvanna Starlight.zip",
+      "size_skins": "6424k",
+      "coins": 100
+    },
+{
+      "title": "20210311135756_Balmond Special",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210311135756_Balmond Special.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210311135756_Balmond Special.zip",
+      "size_skins": "4304k",
+      "coins": 100
+    },
+{
+      "title": "20210311135949_Yuzhong Starlight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210311135949_Yuzhong Starlight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210311135949_Yuzhong Starlight.zip",
+      "size_skins": "7744k",
+      "coins": 100
+    },
+{
+      "title": "20210311140049_Luoyi Special",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210311140049_Luoyi Special.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210311140049_Luoyi Special.zip",
+      "size_skins": "10012k",
+      "coins": 100
+    },
+{
+      "title": "20210312024106_Original File Aldous",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210312024106_Original File Aldous.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210312024106_Original File Aldous.zip",
+      "size_skins": "4716k",
+      "coins": 100
+    },
+{
+      "title": "20210314003133_Granger Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210314003133_Granger Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210314003133_Granger Collector.zip",
+      "size_skins": "13088k",
+      "coins": 100
+    },
+{
+      "title": "20210314004437_Original File Granger",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210314004437_Original File Granger.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210314004437_Original File Granger.zip",
+      "size_skins": "12180k",
+      "coins": 100
+    },
+{
+      "title": "20210314005545_Roger Cyborg",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210314005545_Roger Cyborg.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210314005545_Roger Cyborg.zip",
+      "size_skins": "7656k",
+      "coins": 100
+    },
+{
+      "title": "20210314005746_Original File Roger",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210314005746_Original File Roger.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210314005746_Original File Roger.zip",
+      "size_skins": "12224k",
+      "coins": 100
+    },
+{
+      "title": "20210316015745_Pharsa Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210316015745_Pharsa Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210316015745_Pharsa Collector.zip",
+      "size_skins": "7332k",
+      "coins": 100
+    },
+{
+      "title": "20210316015832_Original File Pharsa",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210316015832_Original File Pharsa.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210316015832_Original File Pharsa.zip",
+      "size_skins": "4680k",
+      "coins": 100
+    },
+{
+      "title": "20210316020730_Original File Wanwan",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210316020730_Original File Wanwan.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210316020730_Original File Wanwan.zip",
+      "size_skins": "7856k",
+      "coins": 100
+    },
+{
+      "title": "20210316021253_Wanwan Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210316021253_Wanwan Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210316021253_Wanwan Collector.zip",
+      "size_skins": "5076k",
+      "coins": 100
+    },
+{
+      "title": "20210316234131_Guinevere KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210316234131_Guinevere KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210316234131_Guinevere KOF.zip",
+      "size_skins": "7640k",
+      "coins": 100
+    },
+{
+      "title": "20210316234145_Gusion KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210316234145_Gusion KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210316234145_Gusion KOF.zip",
+      "size_skins": "4776k",
+      "coins": 100
+    },
+{
+      "title": "20210316234224_Chou KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210316234224_Chou KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210316234224_Chou KOF.zip",
+      "size_skins": "5800k",
+      "coins": 100
+    },
+{
+      "title": "20210316234254_Aurora KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210316234254_Aurora KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210316234254_Aurora KOF.zip",
+      "size_skins": "4412k",
+      "coins": 100
+    },
+{
+      "title": "20210317000139_Original File Chou",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317000139_Original File Chou.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317000139_Original File Chou.zip",
+      "size_skins": "9548k",
+      "coins": 100
+    },
+{
+      "title": "20210317000331_Gusion Nightowl",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317000331_Gusion Nightowl.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317000331_Gusion Nightowl.zip",
+      "size_skins": "6376k",
+      "coins": 100
+    },
+{
+      "title": "20210317002456_Original File Gusion",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317002456_Original File Gusion.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317002456_Original File Gusion.zip",
+      "size_skins": "41648k",
+      "coins": 100
+    },
+{
+      "title": "20210317003119_Original File Gusion",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317003119_Original File Gusion.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317003119_Original File Gusion.zip",
+      "size_skins": "41648k",
+      "coins": 100
+    },
+{
+      "title": "20210317003245_Original File Chou",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317003245_Original File Chou.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317003245_Original File Chou.zip",
+      "size_skins": "9548k",
+      "coins": 100
+    },
+{
+      "title": "20210317003516_Granger Lightborn",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317003516_Granger Lightborn.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317003516_Granger Lightborn.zip",
+      "size_skins": "7212k",
+      "coins": 100
+    },
+{
+      "title": "20210317004820_Original File Chou",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317004820_Original File Chou.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317004820_Original File Chou.zip",
+      "size_skins": "32116k",
+      "coins": 100
+    },
+{
+      "title": "20210317005017_Original File Gusion",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317005017_Original File Gusion.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317005017_Original File Gusion.zip",
+      "size_skins": "41712k",
+      "coins": 100
+    },
+{
+      "title": "20210317072513_Claude Blazing",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317072513_Claude Blazing.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317072513_Claude Blazing.zip",
+      "size_skins": "14092k",
+      "coins": 100
+    },
+{
+      "title": "20210317073913_Esmeralda Blazing",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317073913_Esmeralda Blazing.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317073913_Esmeralda Blazing.zip",
+      "size_skins": "7072k",
+      "coins": 100
+    },
+{
+      "title": "20210317091236_Claude Mecha",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317091236_Claude Mecha.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317091236_Claude Mecha.zip",
+      "size_skins": "5732k",
+      "coins": 100
+    },
+{
+      "title": "20210317091739_Original File Claude",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317091739_Original File Claude.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317091739_Original File Claude.zip",
+      "size_skins": "24812k",
+      "coins": 100
+    },
+{
+      "title": "20210317092545_Franco Ruler",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317092545_Franco Ruler.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317092545_Franco Ruler.zip",
+      "size_skins": "7604k",
+      "coins": 100
+    },
+{
+      "title": "20210317092619_Original File Franco",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317092619_Original File Franco.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317092619_Original File Franco.zip",
+      "size_skins": "6536k",
+      "coins": 100
+    },
+{
+      "title": "20210317092958_Franco Blazing",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317092958_Franco Blazing.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317092958_Franco Blazing.zip",
+      "size_skins": "7376k",
+      "coins": 100
+    },
+{
+      "title": "20210317101032_Layla Blazing",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317101032_Layla Blazing.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317101032_Layla Blazing.zip",
+      "size_skins": "4328k",
+      "coins": 100
+    },
+{
+      "title": "20210318101107_Original File Uranus",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210318101107_Original File Uranus.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210318101107_Original File Uranus.zip",
+      "size_skins": "4292k",
+      "coins": 100
+    },
+{
+      "title": "20210318101119_Original File Uranus",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210318101119_Original File Uranus.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210318101119_Original File Uranus.zip",
+      "size_skins": "4292k",
+      "coins": 100
+    },
+{
+      "title": "20210318101130_Uranus Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210318101130_Uranus Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210318101130_Uranus Epic.zip",
+      "size_skins": "3408k",
+      "coins": 100
+    },
+{
+      "title": "20210318102247_Jawhead Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210318102247_Jawhead Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210318102247_Jawhead Collector.zip",
+      "size_skins": "8452k",
+      "coins": 100
+    },
+{
+      "title": "20210318102316_Original File Jawhead",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210318102316_Original File Jawhead.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210318102316_Original File Jawhead.zip",
+      "size_skins": "5064k",
+      "coins": 100
+    },
+{
+      "title": "20210323102555_Hanabi Venom",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323102555_Hanabi Venom.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323102555_Hanabi Venom.zip",
+      "size_skins": "7408k",
+      "coins": 100
+    },
+{
+      "title": "20210323102816_Angela Venom",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323102816_Angela Venom.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323102816_Angela Venom.zip",
+      "size_skins": "5948k",
+      "coins": 100
+    },
+{
+      "title": "20210323103426_Original File Angela",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323103426_Original File Angela.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323103426_Original File Angela.zip",
+      "size_skins": "17408k",
+      "coins": 100
+    },
+{
+      "title": "20210323103932_Wanwan Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323103932_Wanwan Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323103932_Wanwan Collector.zip",
+      "size_skins": "3820k",
+      "coins": 100
+    },
+{
+      "title": "20210323104534_Original File Wanwan",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323104534_Original File Wanwan.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323104534_Original File Wanwan.zip",
+      "size_skins": "19268k",
+      "coins": 100
+    },
+{
+      "title": "20210323105033_Alucard Legend",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323105033_Alucard Legend.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323105033_Alucard Legend.zip",
+      "size_skins": "8648k",
+      "coins": 100
+    },
+{
+      "title": "20210323110209_Original File Alucard",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323110209_Original File Alucard.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323110209_Original File Alucard.zip",
+      "size_skins": "36876k",
+      "coins": 100
+    },
+{
+      "title": "20210323112621_Vale Hero",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323112621_Vale Hero.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323112621_Vale Hero.zip",
+      "size_skins": "9344k",
+      "coins": 100
+    },
+{
+      "title": "20210323112730_Bruno Hero",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323112730_Bruno Hero.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323112730_Bruno Hero.zip",
+      "size_skins": "6588k",
+      "coins": 100
+    },
+{
+      "title": "20210323114401_Miya Legend",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323114401_Miya Legend.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323114401_Miya Legend.zip",
+      "size_skins": "11588k",
+      "coins": 100
+    },
+{
+      "title": "20210323114628_Original File Miya",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323114628_Original File Miya.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323114628_Original File Miya.zip",
+      "size_skins": "30004k",
+      "coins": 100
+    },
+{
+      "title": "20210324015139_Gord Legend",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210324015139_Gord Legend.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210324015139_Gord Legend.zip",
+      "size_skins": "7472k",
+      "coins": 100
+    },
+{
+      "title": "20210327040029_Recall Blazing to Seal",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210327040029_Recall Blazing to Seal.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210327040029_Recall Blazing to Seal.zip",
+      "size_skins": "252k",
+      "coins": 100
+    },
+{
+      "title": "20210327040550_Original File Recall",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210327040550_Original File Recall.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210327040550_Original File Recall.zip",
+      "size_skins": "6176k",
+      "coins": 100
+    },
+{
+      "title": "20210327044443_Lancelot Zodiac",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210327044443_Lancelot Zodiac.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210327044443_Lancelot Zodiac.zip",
+      "size_skins": "4672k",
+      "coins": 100
+    },
+{
+      "title": "20210327050235_Fanny Skylark",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210327050235_Fanny Skylark.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210327050235_Fanny Skylark.zip",
+      "size_skins": "6556k",
+      "coins": 100
+    },
+{
+      "title": "20210331045212_Config Skin 30 Maret",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210331045212_Config Skin 30 Maret.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210331045212_Config Skin 30 Maret.zip",
+      "size_skins": "864k",
+      "coins": 100
+    },
+{
+      "title": "20210331045600_Original Config FF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210331045600_Original Config FF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210331045600_Original Config FF.zip",
+      "size_skins": "424k",
+      "coins": 100
+    },
+{
+      "title": "20210331073834_Moskov Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210331073834_Moskov Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210331073834_Moskov Epic.zip",
+      "size_skins": "6544k",
+      "coins": 100
+    },
+{
+      "title": "20210331104941_Config Skin VVIP V 101",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210331104941_Config Skin VVIP V 101.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210331104941_Config Skin VVIP V 101.zip",
+      "size_skins": "1880k",
+      "coins": 100
+    },
+{
+      "title": "Aldous Akainu",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Aldous Akainu.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Aldous Akainu.zip",
+      "size_skins": "7136k",
+      "coins": 100
+    },
+{
+      "title": "Aldous M1",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Aldous M1.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Aldous M1.zip",
+      "size_skins": "10528k",
+      "coins": 100
+    },
+{
+      "title": "Aldous Starlight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Aldous Starlight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Aldous Starlight.zip",
+      "size_skins": "2408k",
+      "coins": 100
+    },
+{
+      "title": "Alice Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Alice Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Alice Epic.zip",
+      "size_skins": "6064k",
+      "coins": 100
+    },
+{
+      "title": "Alucard Legend",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Alucard Legend.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Alucard Legend.zip",
+      "size_skins": "12540k",
+      "coins": 100
+    },
+{
+      "title": "Alucard Lightborn",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Alucard Lightborn.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Alucard Lightborn.zip",
+      "size_skins": "11308k",
+      "coins": 100
+    },
+{
+      "title": "Alucard Rengoku",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Alucard Rengoku.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Alucard Rengoku.zip",
+      "size_skins": "3520k",
+      "coins": 100
+    },
+{
+      "title": "Angela Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Angela Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Angela Collector.zip",
+      "size_skins": "7044k",
+      "coins": 100
+    },
+{
+      "title": "Argus Sasuke",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Argus Sasuke.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Argus Sasuke.zip",
+      "size_skins": "5432k",
+      "coins": 100
+    },
+{
+      "title": "Argus Starlight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Argus Starlight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Argus Starlight.zip",
+      "size_skins": "3768k",
+      "coins": 100
+    },
+{
+      "title": "Badang Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Badang Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Badang Collector.zip",
+      "size_skins": "6068k",
+      "coins": 100
+    },
+{
+      "title": "Badang Katakuri",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Badang Katakuri.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Badang Katakuri.zip",
+      "size_skins": "4852k",
+      "coins": 100
+    },
+{
+      "title": "Badang Luffy",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Badang Luffy.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Badang Luffy.zip",
+      "size_skins": "4132k",
+      "coins": 100
+    },
+{
+      "title": "Badang Zodiac",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Badang Zodiac.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Badang Zodiac.zip",
+      "size_skins": "5764k",
+      "coins": 100
+    },
+{
+      "title": "Bane Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Bane Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Bane Epic.zip",
+      "size_skins": "3940k",
+      "coins": 100
+    },
+{
+      "title": "Bapakau smp s3",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Bapakau smp s3.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Bapakau smp s3.zip",
+      "size_skins": "64936k",
+      "coins": 100
+    },
+{
+      "title": "Barats Toy Rex",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Barats Toy Rex.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Barats Toy Rex.zip",
+      "size_skins": "5064k",
+      "coins": 100
+    },
+{
+      "title": "Batman Skin Pack",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Batman Skin Pack.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Batman Skin Pack.zip",
+      "size_skins": "52k",
+      "coins": 100
+    },
+{
+      "title": "Baxia Special",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Baxia Special.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Baxia Special.zip",
+      "size_skins": "5076k",
+      "coins": 100
+    },
+{
+      "title": "Benedetta Starlight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Benedetta Starlight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Benedetta Starlight.zip",
+      "size_skins": "9032k",
+      "coins": 100
+    },
+{
+      "title": "Brody Stun",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Brody Stun.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Brody Stun.zip",
+      "size_skins": "5092k",
+      "coins": 100
+    },
+{
+      "title": "Bruno Hero",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Bruno Hero.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Bruno Hero.zip",
+      "size_skins": "11016k",
+      "coins": 100
+    },
+{
+      "title": "Cecilion Special",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Cecilion Special.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Cecilion Special.zip",
+      "size_skins": "8968k",
+      "coins": 100
+    },
+{
+      "title": "Change Epic Lunar",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Change Epic Lunar.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Change Epic Lunar.zip",
+      "size_skins": "13640k",
+      "coins": 100
+    },
+{
+      "title": "Chou Draken",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Chou Draken.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Chou Draken.zip",
+      "size_skins": "23476k",
+      "coins": 100
+    },
+{
+      "title": "Chou Elite",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Chou Elite.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Chou Elite.zip",
+      "size_skins": "4660k",
+      "coins": 100
+    },
+{
+      "title": "Chou Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Chou Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Chou Epic.zip",
+      "size_skins": "10340k",
+      "coins": 100
+    },
+{
+      "title": "Chou Hero",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Chou Hero.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Chou Hero.zip",
+      "size_skins": "14256k",
+      "coins": 100
+    },
+{
+      "title": "Chou KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Chou KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Chou KOF.zip",
+      "size_skins": "6096k",
+      "coins": 100
+    },
+{
+      "title": "Chou Sabo",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Chou Sabo.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Chou Sabo.zip",
+      "size_skins": "8480k",
+      "coins": 100
+    },
+{
+      "title": "Chou Sanji",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Chou Sanji.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Chou Sanji.zip",
+      "size_skins": "6168k",
+      "coins": 100
+    },
+{
+      "title": "Chou Stun",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Chou Stun.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Chou Stun.zip",
+      "size_skins": "22424k",
+      "coins": 100
+    },
+{
+      "title": "Claude Special",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Claude Special.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Claude Special.zip",
+      "size_skins": "15856k",
+      "coins": 100
+    },
+{
+      "title": "Clint m2",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Clint m2.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Clint m2.zip",
+      "size_skins": "9728k",
+      "coins": 100
+    },
+{
+      "title": "Config Bundle V10",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Bundle V10.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Bundle V10.zip",
+      "size_skins": "15320k",
+      "coins": 100
+    },
+{
+      "title": "Config Bundle V14",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Bundle V14.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Bundle V14.zip",
+      "size_skins": "800k",
+      "coins": 100
+    },
+{
+      "title": "Config Bundle V9",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Bundle V9.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Bundle V9.zip",
+      "size_skins": "2668k",
+      "coins": 100
+    },
+{
+      "title": "Config Skin by Jeff jr",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Skin by Jeff jr.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Skin by Jeff jr.zip",
+      "size_skins": "428k",
+      "coins": 100
+    },
+{
+      "title": "Config Skin VVIP Maintenance",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP Maintenance.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP Maintenance.zip",
+      "size_skins": "452k",
+      "coins": 100
+    },
+{
+      "title": "Config Skin VVIP MT2",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP MT2.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP MT2.zip",
+      "size_skins": "428k",
+      "coins": 100
+    },
+{
+      "title": "Config Skin VVIP MT3",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP MT3.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP MT3.zip",
+      "size_skins": "1456k",
+      "coins": 100
+    },
+{
+      "title": "Config Skin VVIP V 102",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP V 102.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP V 102.zip",
+      "size_skins": "1876k",
+      "coins": 100
+    },
+{
+      "title": "Config Skin VVIP V 103",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP V 103.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP V 103.zip",
+      "size_skins": "420k",
+      "coins": 100
+    },
+{
+      "title": "Config Skin VVIP V 104",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP V 104.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP V 104.zip",
+      "size_skins": "1876k",
+      "coins": 100
+    },
+{
+      "title": "Config Skin VVIP V 105",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP V 105.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP V 105.zip",
+      "size_skins": "420k",
+      "coins": 100
+    },
+{
+      "title": "Config Skin VVIP V 106",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP V 106.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP V 106.zip",
+      "size_skins": "420k",
+      "coins": 100
+    },
+{
+      "title": "Config Skin VVIP V 107",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP V 107.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Config Skin VVIP V 107.zip",
+      "size_skins": "1572k",
+      "coins": 100
+    },
+{
+      "title": "Dyroth KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Dyroth KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Dyroth KOF.zip",
+      "size_skins": "8372k",
+      "coins": 100
+    },
+{
+      "title": "Dyroth Starlight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Dyroth Starlight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Dyroth Starlight.zip",
+      "size_skins": "4136k",
+      "coins": 100
+    },
+{
+      "title": "Emote AE",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Emote AE.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Emote AE.zip",
+      "size_skins": "724k",
+      "coins": 100
+    },
+{
+      "title": "Emote Aura",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Emote Aura.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Emote Aura.zip",
+      "size_skins": "708k",
+      "coins": 100
+    },
+{
+      "title": "Emote BTR",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Emote BTR.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Emote BTR.zip",
+      "size_skins": "716k",
+      "coins": 100
+    },
+{
+      "title": "Emote Evos",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Emote Evos.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Emote Evos.zip",
+      "size_skins": "704k",
+      "coins": 100
+    },
+{
+      "title": "Emote Geekfam",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Emote Geekfam.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Emote Geekfam.zip",
+      "size_skins": "704k",
+      "coins": 100
+    },
+{
+      "title": "Emote Genflix",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Emote Genflix.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Emote Genflix.zip",
+      "size_skins": "728k",
+      "coins": 100
+    },
+{
+      "title": "Emote Onic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Emote Onic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Emote Onic.zip",
+      "size_skins": "708k",
+      "coins": 100
+    },
+{
+      "title": "Emote RRQ",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Emote RRQ.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Emote RRQ.zip",
+      "size_skins": "696k",
+      "coins": 100
+    },
+{
+      "title": "Estes Dragon Tamer",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Estes Dragon Tamer.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Estes Dragon Tamer.zip",
+      "size_skins": "10872k",
+      "coins": 100
+    },
+{
+      "title": "Fanny Christmas",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Fanny Christmas.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Fanny Christmas.zip",
+      "size_skins": "3688k",
+      "coins": 100
+    },
+{
+      "title": "Fanny Lightborn",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Fanny Lightborn.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Fanny Lightborn.zip",
+      "size_skins": "6880k",
+      "coins": 100
+    },
+{
+      "title": "Fanny Skylark",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Fanny Skylark.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Fanny Skylark.zip",
+      "size_skins": "5380k",
+      "coins": 100
+    },
+{
+      "title": "Fanny Special",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Fanny Special.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Fanny Special.zip",
+      "size_skins": "4320k",
+      "coins": 100
+    },
+{
+      "title": "Franco Ruler",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Franco Ruler.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Franco Ruler.zip",
+      "size_skins": "6064k",
+      "coins": 100
+    },
+{
+      "title": "Free Fire Skin Pack",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Free Fire Skin Pack.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Free Fire Skin Pack.zip",
+      "size_skins": "36k",
+      "coins": 100
+    },
+{
+      "title": "Freya Epic Shogun",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Freya Epic Shogun.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Freya Epic Shogun.zip",
+      "size_skins": "7560k",
+      "coins": 100
+    },
+{
+      "title": "Gatotkaca Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Gatotkaca Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Gatotkaca Epic.zip",
+      "size_skins": "3772k",
+      "coins": 100
+    },
+{
+      "title": "Granger Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Granger Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Granger Collector.zip",
+      "size_skins": "7128k",
+      "coins": 100
+    },
+{
+      "title": "Granger Legend",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Granger Legend.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Granger Legend.zip",
+      "size_skins": "15604k",
+      "coins": 100
+    },
+{
+      "title": "Granger Lightborn",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Granger Lightborn.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Granger Lightborn.zip",
+      "size_skins": "11332k",
+      "coins": 100
+    },
+{
+      "title": "Guinevere Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Guinevere Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Guinevere Epic.zip",
+      "size_skins": "5632k",
+      "coins": 100
+    },
+{
+      "title": "Guinevere KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Guinevere KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Guinevere KOF.zip",
+      "size_skins": "5196k",
+      "coins": 100
+    },
+{
+      "title": "Gusion KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Gusion KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Gusion KOF.zip",
+      "size_skins": "4796k",
+      "coins": 100
+    },
+{
+      "title": "Gusion Legend",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Gusion Legend.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Gusion Legend.zip",
+      "size_skins": "14252k",
+      "coins": 100
+    },
+{
+      "title": "Gusion Nightowl",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Gusion Nightowl.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Gusion Nightowl.zip",
+      "size_skins": "10084k",
+      "coins": 100
+    },
+{
+      "title": "Gusion Starlight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Gusion Starlight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Gusion Starlight.zip",
+      "size_skins": "4128k",
+      "coins": 100
+    },
+{
+      "title": "Hanabi Special",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Hanabi Special.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Hanabi Special.zip",
+      "size_skins": "4780k",
+      "coins": 100
+    },
+{
+      "title": "Hanzo Special",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Hanzo Special.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Hanzo Special.zip",
+      "size_skins": "6444k",
+      "coins": 100
+    },
+{
+      "title": "Harith Evos",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Harith Evos.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Harith Evos.zip",
+      "size_skins": "5684k",
+      "coins": 100
+    },
+{
+      "title": "Harith Lightborn",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Harith Lightborn.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Harith Lightborn.zip",
+      "size_skins": "5548k",
+      "coins": 100
+    },
+{
+      "title": "Hayabusa Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Hayabusa Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Hayabusa Epic.zip",
+      "size_skins": "7480k",
+      "coins": 100
+    },
+{
+      "title": "Hayabusa Star",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Hayabusa Star.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Hayabusa Star.zip",
+      "size_skins": "5100k",
+      "coins": 100
+    },
+{
+      "title": "Helcurt Zodiac",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Helcurt Zodiac.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Helcurt Zodiac.zip",
+      "size_skins": "5696k",
+      "coins": 100
+    },
+{
+      "title": "Hilda Zodiac",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Hilda Zodiac.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Hilda Zodiac.zip",
+      "size_skins": "7508k",
+      "coins": 100
+    },
+{
+      "title": "Irithel Zodiac",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Irithel Zodiac.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Irithel Zodiac.zip",
+      "size_skins": "3384k",
+      "coins": 100
+    },
+{
+      "title": "Ironman Skin Pack",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Ironman Skin Pack.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Ironman Skin Pack.zip",
+      "size_skins": "164k",
+      "coins": 100
+    },
+{
+      "title": "Jawhead Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Jawhead Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Jawhead Collector.zip",
+      "size_skins": "8452k",
+      "coins": 100
+    },
+{
+      "title": "Jawhead Starlight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Jawhead Starlight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Jawhead Starlight.zip",
+      "size_skins": "5852k",
+      "coins": 100
+    },
+{
+      "title": "Johnson Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Johnson Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Johnson Epic.zip",
+      "size_skins": "4544k",
+      "coins": 100
+    },
+{
+      "title": "Johnson Saber",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Johnson Saber.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Johnson Saber.zip",
+      "size_skins": "5752k",
+      "coins": 100
+    },
+{
+      "title": "Kadita White",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Kadita White.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Kadita White.zip",
+      "size_skins": "4276k",
+      "coins": 100
+    },
+{
+      "title": "Kagura Starlight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Kagura Starlight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Kagura Starlight.zip",
+      "size_skins": "6196k",
+      "coins": 100
+    },
+{
+      "title": "Kaja Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Kaja Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Kaja Epic.zip",
+      "size_skins": "4868k",
+      "coins": 100
+    },
+{
+      "title": "Karrie Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Karrie Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Karrie Epic.zip",
+      "size_skins": "3880k",
+      "coins": 100
+    },
+{
+      "title": "Karrie Star",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Karrie Star.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Karrie Star.zip",
+      "size_skins": "6816k",
+      "coins": 100
+    },
+{
+      "title": "Khufra Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Khufra Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Khufra Collector.zip",
+      "size_skins": "7436k",
+      "coins": 100
+    },
+{
+      "title": "Kimmy Astrocat",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Kimmy Astrocat.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Kimmy Astrocat.zip",
+      "size_skins": "4228k",
+      "coins": 100
+    },
+{
+      "title": "Kimmy Dragon Tamer",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Kimmy Dragon Tamer.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Kimmy Dragon Tamer.zip",
+      "size_skins": "5292k",
+      "coins": 100
+    },
+{
+      "title": "Lancelot Floral Knight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Lancelot Floral Knight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Lancelot Floral Knight.zip",
+      "size_skins": "5944k",
+      "coins": 100
+    },
+{
+      "title": "Lancelot Hero",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Lancelot Hero.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Lancelot Hero.zip",
+      "size_skins": "10760k",
+      "coins": 100
+    },
+{
+      "title": "Lancelot Royal Matador",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Lancelot Royal Matador.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Lancelot Royal Matador.zip",
+      "size_skins": "7860k",
+      "coins": 100
+    },
+{
+      "title": "Lancelot Zodiac",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Lancelot Zodiac.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Lancelot Zodiac.zip",
+      "size_skins": "4672k",
+      "coins": 100
+    },
+{
+      "title": "Lapu Starlight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Lapu Starlight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Lapu Starlight.zip",
+      "size_skins": "4196k",
+      "coins": 100
+    },
+{
+      "title": "Layla Saber",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Layla Saber.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Layla Saber.zip",
+      "size_skins": "7204k",
+      "coins": 100
+    },
+{
+      "title": "Leomord Special",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Leomord Special.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Leomord Special.zip",
+      "size_skins": "4716k",
+      "coins": 100
+    },
+{
+      "title": "Lesley Legend",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Lesley Legend.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Lesley Legend.zip",
+      "size_skins": "8916k",
+      "coins": 100
+    },
+{
+      "title": "Ling Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Ling Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Ling Collector.zip",
+      "size_skins": "11112k",
+      "coins": 100
+    },
+{
+      "title": "Ling Cosmo",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Ling Cosmo.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Ling Cosmo.zip",
+      "size_skins": "5720k",
+      "coins": 100
+    },
+{
+      "title": "Ling Dragon Tamer",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Ling Dragon Tamer.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Ling Dragon Tamer.zip",
+      "size_skins": "14856k",
+      "coins": 100
+    },
+{
+      "title": "Ling Starlight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Ling Starlight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Ling Starlight.zip",
+      "size_skins": "4624k",
+      "coins": 100
+    },
+{
+      "title": "Lunox Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Lunox Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Lunox Epic.zip",
+      "size_skins": "8712k",
+      "coins": 100
+    },
+{
+      "title": "Lunox Zodiac",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Lunox Zodiac.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Lunox Zodiac.zip",
+      "size_skins": "6264k",
+      "coins": 100
+    },
+{
+      "title": "Martis Zodiac",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Martis Zodiac.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Martis Zodiac.zip",
+      "size_skins": "5896k",
+      "coins": 100
+    },
+{
+      "title": "Masha Dragon Tamer",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Masha Dragon Tamer.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Masha Dragon Tamer.zip",
+      "size_skins": "6524k",
+      "coins": 100
+    },
+{
+      "title": "Miya Legend",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Miya Legend.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Miya Legend.zip",
+      "size_skins": "11520k",
+      "coins": 100
+    },
+{
+      "title": "Miya Suzuhime",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Miya Suzuhime.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Miya Suzuhime.zip",
+      "size_skins": "5748k",
+      "coins": 100
+    },
+{
+      "title": "Moskov Twillight Dragon",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Moskov Twillight Dragon.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Moskov Twillight Dragon.zip",
+      "size_skins": "4832k",
+      "coins": 100
+    },
+{
+      "title": "Natalia Special",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Natalia Special.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Natalia Special.zip",
+      "size_skins": "4920k",
+      "coins": 100
+    },
+{
+      "title": "Odette Mermaid",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Odette Mermaid.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Odette Mermaid.zip",
+      "size_skins": "4256k",
+      "coins": 100
+    },
+{
+      "title": "Original Config FF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original Config FF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original Config FF.zip",
+      "size_skins": "800k",
+      "coins": 100
+    },
+{
+      "title": "Original Config V10",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original Config V10.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original Config V10.zip",
+      "size_skins": "15344k",
+      "coins": 100
+    },
+{
+      "title": "Original Config V9",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original Config V9.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original Config V9.zip",
+      "size_skins": "412k",
+      "coins": 100
+    },
+{
+      "title": "Original File Aldous",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Aldous.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Aldous.zip",
+      "size_skins": "4736k",
+      "coins": 100
+    },
+{
+      "title": "Original File Alucard",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Alucard.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Alucard.zip",
+      "size_skins": "8140k",
+      "coins": 100
+    },
+{
+      "title": "Original File Angela",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Angela.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Angela.zip",
+      "size_skins": "25696k",
+      "coins": 100
+    },
+{
+      "title": "Original File Argus",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Argus.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Argus.zip",
+      "size_skins": "18020k",
+      "coins": 100
+    },
+{
+      "title": "Original File Aurora",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Aurora.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Aurora.zip",
+      "size_skins": "17856k",
+      "coins": 100
+    },
+{
+      "title": "Original File Badang",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Badang.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Badang.zip",
+      "size_skins": "9540k",
+      "coins": 100
+    },
+{
+      "title": "Original File Balmond",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Balmond.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Balmond.zip",
+      "size_skins": "12984k",
+      "coins": 100
+    },
+{
+      "title": "Original File Barats",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Barats.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Barats.zip",
+      "size_skins": "12884k",
+      "coins": 100
+    },
+{
+      "title": "Original File Baxia",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Baxia.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Baxia.zip",
+      "size_skins": "3288k",
+      "coins": 100
+    },
+{
+      "title": "Original File Benedetta",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Benedetta.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Benedetta.zip",
+      "size_skins": "17372k",
+      "coins": 100
+    },
+{
+      "title": "Original File Brody",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Brody.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Brody.zip",
+      "size_skins": "12508k",
+      "coins": 100
+    },
+{
+      "title": "Original File Bruno",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Bruno.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Bruno.zip",
+      "size_skins": "17528k",
+      "coins": 100
+    },
+{
+      "title": "Original File Cecilion",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Cecilion.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Cecilion.zip",
+      "size_skins": "5880k",
+      "coins": 100
+    },
+{
+      "title": "Original File Change",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Change.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Change.zip",
+      "size_skins": "5556k",
+      "coins": 100
+    },
+{
+      "title": "Original File Chou",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Chou.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Chou.zip",
+      "size_skins": "31108k",
+      "coins": 100
+    },
+{
+      "title": "Original File Clint",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Clint.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Clint.zip",
+      "size_skins": "21632k",
+      "coins": 100
+    },
+{
+      "title": "Original File Dyroth",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Dyroth.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Dyroth.zip",
+      "size_skins": "14164k",
+      "coins": 100
+    },
+{
+      "title": "Original File Emote",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Emote.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Emote.zip",
+      "size_skins": "404k",
+      "coins": 100
+    },
+{
+      "title": "Original File Esmeralda",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Esmeralda.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Esmeralda.zip",
+      "size_skins": "5180k",
+      "coins": 100
+    },
+{
+      "title": "Original File Estes",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Estes.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Estes.zip",
+      "size_skins": "4936k",
+      "coins": 100
+    },
+{
+      "title": "Original File Fanny",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Fanny.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Fanny.zip",
+      "size_skins": "22820k",
+      "coins": 100
+    },
+{
+      "title": "Original File Freya",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Freya.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Freya.zip",
+      "size_skins": "34768k",
+      "coins": 100
+    },
+{
+      "title": "Original File Gatotkaca",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Gatotkaca.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Gatotkaca.zip",
+      "size_skins": "2964k",
+      "coins": 100
+    },
+{
+      "title": "Original File Gord",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Gord.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Gord.zip",
+      "size_skins": "19668k",
+      "coins": 100
+    },
+{
+      "title": "Original File Granger",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Granger.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Granger.zip",
+      "size_skins": "14476k",
+      "coins": 100
+    },
+{
+      "title": "Original File Guinevere",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Guinevere.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Guinevere.zip",
+      "size_skins": "27540k",
+      "coins": 100
+    },
+{
+      "title": "Original File Gusion",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Gusion.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Gusion.zip",
+      "size_skins": "4712k",
+      "coins": 100
+    },
+{
+      "title": "Original File Hanabi",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Hanabi.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Hanabi.zip",
+      "size_skins": "4320k",
+      "coins": 100
+    },
+{
+      "title": "Original File Hanzo",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Hanzo.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Hanzo.zip",
+      "size_skins": "6316k",
+      "coins": 100
+    },
+{
+      "title": "Original File Harith",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Harith.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Harith.zip",
+      "size_skins": "19268k",
+      "coins": 100
+    },
+{
+      "title": "Original File Hayabusa",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Hayabusa.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Hayabusa.zip",
+      "size_skins": "6424k",
+      "coins": 100
+    },
+{
+      "title": "Original File Helcurt",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Helcurt.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Helcurt.zip",
+      "size_skins": "4020k",
+      "coins": 100
+    },
+{
+      "title": "Original File Johnson",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Johnson.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Johnson.zip",
+      "size_skins": "6896k",
+      "coins": 100
+    },
+{
+      "title": "Original File Kadita",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Kadita.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Kadita.zip",
+      "size_skins": "15016k",
+      "coins": 100
+    },
+{
+      "title": "Original File Kagura",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Kagura.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Kagura.zip",
+      "size_skins": "3196k",
+      "coins": 100
+    },
+{
+      "title": "Original File Kaja",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Kaja.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Kaja.zip",
+      "size_skins": "3212k",
+      "coins": 100
+    },
+{
+      "title": "Original File Karrie",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Karrie.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Karrie.zip",
+      "size_skins": "3928k",
+      "coins": 100
+    },
+{
+      "title": "Original File Khufra",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Khufra.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Khufra.zip",
+      "size_skins": "3688k",
+      "coins": 100
+    },
+{
+      "title": "Original File Lancelot",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Lancelot.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Lancelot.zip",
+      "size_skins": "33036k",
+      "coins": 100
+    },
+{
+      "title": "Original File Lapu",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Lapu.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Lapu.zip",
+      "size_skins": "7352k",
+      "coins": 100
+    },
+{
+      "title": "Original File Layla",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Layla.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Layla.zip",
+      "size_skins": "6216k",
+      "coins": 100
+    },
+{
+      "title": "Original File Leomord",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Leomord.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Leomord.zip",
+      "size_skins": "9164k",
+      "coins": 100
+    },
+{
+      "title": "Original File Lesley",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Lesley.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Lesley.zip",
+      "size_skins": "36364k",
+      "coins": 100
+    },
+{
+      "title": "Original File Ling",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Ling.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Ling.zip",
+      "size_skins": "18504k",
+      "coins": 100
+    },
+{
+      "title": "Original File Lunox",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Lunox.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Lunox.zip",
+      "size_skins": "5832k",
+      "coins": 100
+    },
+{
+      "title": "Original File Martis",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Martis.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Martis.zip",
+      "size_skins": "6216k",
+      "coins": 100
+    },
+{
+      "title": "Original File Masha",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Masha.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Masha.zip",
+      "size_skins": "15572k",
+      "coins": 100
+    },
+{
+      "title": "Original File Miya",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Miya.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Miya.zip",
+      "size_skins": "5848k",
+      "coins": 100
+    },
+{
+      "title": "Original File Moskov",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Moskov.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Moskov.zip",
+      "size_skins": "32216k",
+      "coins": 100
+    },
+{
+      "title": "Original File Natalia",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Natalia.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Natalia.zip",
+      "size_skins": "2976k",
+      "coins": 100
+    },
+{
+      "title": "Original File Paquito",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Paquito.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Paquito.zip",
+      "size_skins": "20648k",
+      "coins": 100
+    },
+{
+      "title": "Original File Saber",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Saber.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Saber.zip",
+      "size_skins": "23264k",
+      "coins": 100
+    },
+{
+      "title": "Original File Selena",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Selena.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Selena.zip",
+      "size_skins": "5696k",
+      "coins": 100
+    },
+{
+      "title": "Original File Tigreal",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Tigreal.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Tigreal.zip",
+      "size_skins": "25600k",
+      "coins": 100
+    },
+{
+      "title": "Original File Vale",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Vale.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Vale.zip",
+      "size_skins": "9992k",
+      "coins": 100
+    },
+{
+      "title": "Original File Valir",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Valir.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Valir.zip",
+      "size_skins": "20608k",
+      "coins": 100
+    },
+{
+      "title": "Original File YSS",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File YSS.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File YSS.zip",
+      "size_skins": "31120k",
+      "coins": 100
+    },
+{
+      "title": "Original File Yuzhong",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Yuzhong.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Yuzhong.zip",
+      "size_skins": "20384k",
+      "coins": 100
+    },
+{
+      "title": "Original File Zhask",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Zhask.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Zhask.zip",
+      "size_skins": "18220k",
+      "coins": 100
+    },
+{
+      "title": "Original File Zilong",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Zilong.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Zilong.zip",
+      "size_skins": "26384k",
+      "coins": 100
+    },
+{
+      "title": "Paquito Manny Pacquiao",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Paquito Manny Pacquiao.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Paquito Manny Pacquiao.zip",
+      "size_skins": "21876k",
+      "coins": 100
+    },
+{
+      "title": "Recall 515 ke FireCrown",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Recall 515 ke FireCrown.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Recall 515 ke FireCrown.zip",
+      "size_skins": "252k",
+      "coins": 100
+    },
+{
+      "title": "Recall 515 ke KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Recall 515 ke KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Recall 515 ke KOF.zip",
+      "size_skins": "212k",
+      "coins": 100
+    },
+{
+      "title": "Recall Classic ke Firecrown",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Recall Classic ke Firecrown.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Recall Classic ke Firecrown.zip",
+      "size_skins": "568k",
+      "coins": 100
+    },
+{
+      "title": "Recall Halloween To Seal",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Recall Halloween To Seal.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Recall Halloween To Seal.zip",
+      "size_skins": "252k",
+      "coins": 100
+    },
+{
+      "title": "Recall Light Dark ke KOF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Recall Light Dark ke KOF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Recall Light Dark ke KOF.zip",
+      "size_skins": "292k",
+      "coins": 100
+    },
+{
+      "title": "Recall Light Dark to Seal",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Recall Light Dark to Seal.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Recall Light Dark to Seal.zip",
+      "size_skins": "248k",
+      "coins": 100
+    },
+{
+      "title": "Recall LightDark ke FireCrown",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Recall LightDark ke FireCrown.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Recall LightDark ke FireCrown.zip",
+      "size_skins": "236k",
+      "coins": 100
+    },
+{
+      "title": "RGB PVP Skin Pack",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/RGB PVP Skin Pack.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/RGB PVP Skin Pack.zip",
+      "size_skins": "104k",
+      "coins": 100
+    },
+{
+      "title": "Roger Cyborg",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Roger Cyborg.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Roger Cyborg.zip",
+      "size_skins": "12644k",
+      "coins": 100
+    },
+{
+      "title": "Saber Legend",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Saber Legend.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Saber Legend.zip",
+      "size_skins": "5500k",
+      "coins": 100
+    },
+{
+      "title": "Selena Epic Thunderflash",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Selena Epic Thunderflash.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Selena Epic Thunderflash.zip",
+      "size_skins": "13996k",
+      "coins": 100
+    },
+{
+      "title": "Selena Stun",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Selena Stun.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Selena Stun.zip",
+      "size_skins": "12372k",
+      "coins": 100
+    },
+{
+      "title": "Spiderman Skin Pack",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Spiderman Skin Pack.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Spiderman Skin Pack.zip",
+      "size_skins": "48k",
+      "coins": 100
+    },
+{
+      "title": "Super Mega Skin Pack",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Super Mega Skin Pack.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Super Mega Skin Pack.zip",
+      "size_skins": "3556k",
+      "coins": 100
+    },
+{
+      "title": "tes",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/tes.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/tes.zip",
+      "size_skins": "41128k",
+      "coins": 100
+    },
+{
+      "title": "Tigreal Lightborn",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Tigreal Lightborn.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Tigreal Lightborn.zip",
+      "size_skins": "13116k",
+      "coins": 100
+    },
+{
+      "title": "Vale Hero",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Vale Hero.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Vale Hero.zip",
+      "size_skins": "8356k",
+      "coins": 100
+    },
+{
+      "title": "Valir Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Valir Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Valir Collector.zip",
+      "size_skins": "5080k",
+      "coins": 100
+    },
+{
+      "title": "Valir Dragon Tamer",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Valir Dragon Tamer.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Valir Dragon Tamer.zip",
+      "size_skins": "13104k",
+      "coins": 100
+    },
+{
+      "title": "Valorant",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Valorant.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Valorant.zip",
+      "size_skins": "116k",
+      "coins": 100
+    },
+{
+      "title": "Wanwan Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Wanwan Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Wanwan Collector.zip",
+      "size_skins": "3820k",
+      "coins": 100
+    },
+{
+      "title": "YSS Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/YSS Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/YSS Collector.zip",
+      "size_skins": "10944k",
+      "coins": 100
+    },
+{
+      "title": "YSS Starlight",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/YSS Starlight.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/YSS Starlight.zip",
+      "size_skins": "10676k",
+      "coins": 100
+    },
+{
+      "title": "Yu Zhong Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Yu Zhong Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Yu Zhong Collector.zip",
+      "size_skins": "10744k",
+      "coins": 100
+    },
+{
+      "title": "Yuzhong Collector",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Yuzhong Collector.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Yuzhong Collector.zip",
+      "size_skins": "17416k",
+      "coins": 100
+    },
+{
+      "title": "Zhask Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Zhask Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Zhask Epic.zip",
+      "size_skins": "6728k",
+      "coins": 100
+    },
+{
+      "title": "Zilong Epic",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Zilong Epic.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Zilong Epic.zip",
+      "size_skins": "16060k",
+      "coins": 100
+    },
+    {
+      "title": "Akai",
+      "image": "file:///android_asset/images/akai.jpg",
+      "url_skins": "null",
+      "alterntif_url_skin": "null",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+    {
+      "title":"Chou",
+      "image":"file:///android_asset/images/chou.jpg",
+      "url_skins":"null",
+      "alterntif_url_skin":"null",
+      "size_skins": "12 MB",
+      "coins":200
+    },
+    {
+      "title":"Saber Legend",
+      "image":"https://aliendro.id/uploads/demo/ml/saber.jpg",
+      "url_skins":"null",
+      "alterntif_url_skin":"null",
+      "size_skins": "20 MB",
+      "coins":100
+    }
+  ,
+    {
+      "title":"Bruno Special",
+      "image":"file:///android_asset/images/bruno.jpg",
+      "url_skins":"https://aliendro.id/uploads/demo/ml/Bruno Special.zip",
+      "alterntif_url_skin":"https://www.mediafire.com/file/uxp39qflfn0ui83/Bruno_Special.zip/file",
+      "size_skins": "4.3 MB",
+      "coins":250
+    }
+  ,
+    {
+      "title":"Cloude",
+      "image":"file:///android_asset/images/cloude.jpg",
+      "url_skins":"null",
+      "alterntif_url_skin":"null",
+      "size_skins": "10 MB",
+      "coins":100
+    },
+    {
+      "title":"Zilong 515",
+      "image":"file:///android_asset/images/zilong.jpg",
+      "url_skins":"https://aliendro.id/uploads/demo/ml/Zilong 515.zip",
+      "alterntif_url_skin":"https://www.mediafire.com/file/kvd95quk60efzzo/Zilong_515.zip/file",
+      "size_skins": "8.4 MB",
+      "coins":100
+    },
+    {
+      "title":"Hayabusa",
+      "image":"file:///android_asset/images/hayabusa.jpg",
+      "url_skins":"null",
+      "alterntif_url_skin":"null",
+      "size_skins": "10 MB",
+      "coins":100
+    },
+    {
+      "title":"Clint",
+      "image":"file:///android_asset/images/clint.jpg",
+      "url_skins":"null",
+      "alterntif_url_skin":"null",
+      "size_skins": "24 MB",
+      "coins":100
+    },
+    {
+      "title":"Aldous",
+      "image":"file:///android_asset/images/aldous.jpg",
+      "url_skins":"null",
+      "alterntif_url_skin":"null",
+      "size_skins": "7 MB",
+      "coins":100
+    },
+    {
+      "title":"Grager",
+      "image":"file:///android_asset/images/grager.jpg",
+      "url_skins":"null",
+      "alterntif_url_skin":"null",
+      "size_skins": "10 MB",
+      "coins":100
+    }
+  ],
+  "SKINS-ORIGINAL":
+  [
+    {
+      "title": "20210311111918_Original File Aldous",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210311111918_Original File Aldous.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210311111918_Original File Aldous.zip",
+      "size_skins": "4716k",
+      "coins": 100
+    },
+{
+      "title": "20210312024106_Original File Aldous",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210312024106_Original File Aldous.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210312024106_Original File Aldous.zip",
+      "size_skins": "4716k",
+      "coins": 100
+    },
+{
+      "title": "20210314004437_Original File Granger",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210314004437_Original File Granger.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210314004437_Original File Granger.zip",
+      "size_skins": "12180k",
+      "coins": 100
+    },
+{
+      "title": "20210314005746_Original File Roger",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210314005746_Original File Roger.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210314005746_Original File Roger.zip",
+      "size_skins": "12224k",
+      "coins": 100
+    },
+{
+      "title": "20210316015832_Original File Pharsa",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210316015832_Original File Pharsa.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210316015832_Original File Pharsa.zip",
+      "size_skins": "4680k",
+      "coins": 100
+    },
+{
+      "title": "20210316020730_Original File Wanwan",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210316020730_Original File Wanwan.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210316020730_Original File Wanwan.zip",
+      "size_skins": "7856k",
+      "coins": 100
+    },
+{
+      "title": "20210317000139_Original File Chou",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317000139_Original File Chou.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317000139_Original File Chou.zip",
+      "size_skins": "9548k",
+      "coins": 100
+    },
+{
+      "title": "20210317002456_Original File Gusion",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317002456_Original File Gusion.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317002456_Original File Gusion.zip",
+      "size_skins": "41648k",
+      "coins": 100
+    },
+{
+      "title": "20210317003119_Original File Gusion",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317003119_Original File Gusion.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317003119_Original File Gusion.zip",
+      "size_skins": "41648k",
+      "coins": 100
+    },
+{
+      "title": "20210317003245_Original File Chou",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317003245_Original File Chou.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317003245_Original File Chou.zip",
+      "size_skins": "9548k",
+      "coins": 100
+    },
+{
+      "title": "20210317004820_Original File Chou",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317004820_Original File Chou.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317004820_Original File Chou.zip",
+      "size_skins": "32116k",
+      "coins": 100
+    },
+{
+      "title": "20210317005017_Original File Gusion",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317005017_Original File Gusion.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317005017_Original File Gusion.zip",
+      "size_skins": "41712k",
+      "coins": 100
+    },
+{
+      "title": "20210317091739_Original File Claude",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317091739_Original File Claude.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317091739_Original File Claude.zip",
+      "size_skins": "24812k",
+      "coins": 100
+    },
+{
+      "title": "20210317092619_Original File Franco",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210317092619_Original File Franco.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210317092619_Original File Franco.zip",
+      "size_skins": "6536k",
+      "coins": 100
+    },
+{
+      "title": "20210318101107_Original File Uranus",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210318101107_Original File Uranus.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210318101107_Original File Uranus.zip",
+      "size_skins": "4292k",
+      "coins": 100
+    },
+{
+      "title": "20210318101119_Original File Uranus",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210318101119_Original File Uranus.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210318101119_Original File Uranus.zip",
+      "size_skins": "4292k",
+      "coins": 100
+    },
+{
+      "title": "20210318102316_Original File Jawhead",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210318102316_Original File Jawhead.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210318102316_Original File Jawhead.zip",
+      "size_skins": "5064k",
+      "coins": 100
+    },
+{
+      "title": "20210323103426_Original File Angela",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323103426_Original File Angela.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323103426_Original File Angela.zip",
+      "size_skins": "17408k",
+      "coins": 100
+    },
+{
+      "title": "20210323104534_Original File Wanwan",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323104534_Original File Wanwan.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323104534_Original File Wanwan.zip",
+      "size_skins": "19268k",
+      "coins": 100
+    },
+{
+      "title": "20210323110209_Original File Alucard",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323110209_Original File Alucard.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323110209_Original File Alucard.zip",
+      "size_skins": "36876k",
+      "coins": 100
+    },
+{
+      "title": "20210323114628_Original File Miya",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210323114628_Original File Miya.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210323114628_Original File Miya.zip",
+      "size_skins": "30004k",
+      "coins": 100
+    },
+{
+      "title": "20210327040550_Original File Recall",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210327040550_Original File Recall.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210327040550_Original File Recall.zip",
+      "size_skins": "6176k",
+      "coins": 100
+    },
+{
+      "title": "20210331045600_Original Config FF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/20210331045600_Original Config FF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/20210331045600_Original Config FF.zip",
+      "size_skins": "424k",
+      "coins": 100
+    },
+{
+      "title": "Original Config FF",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original Config FF.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original Config FF.zip",
+      "size_skins": "800k",
+      "coins": 100
+    },
+{
+      "title": "Original Config V10",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original Config V10.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original Config V10.zip",
+      "size_skins": "15344k",
+      "coins": 100
+    },
+{
+      "title": "Original Config V9",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original Config V9.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original Config V9.zip",
+      "size_skins": "412k",
+      "coins": 100
+    },
+{
+      "title": "Original File Aldous",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Aldous.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Aldous.zip",
+      "size_skins": "4736k",
+      "coins": 100
+    },
+{
+      "title": "Original File Alucard",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Alucard.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Alucard.zip",
+      "size_skins": "8140k",
+      "coins": 100
+    },
+{
+      "title": "Original File Angela",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Angela.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Angela.zip",
+      "size_skins": "25696k",
+      "coins": 100
+    },
+{
+      "title": "Original File Argus",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Argus.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Argus.zip",
+      "size_skins": "18020k",
+      "coins": 100
+    },
+{
+      "title": "Original File Aurora",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Aurora.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Aurora.zip",
+      "size_skins": "17856k",
+      "coins": 100
+    },
+{
+      "title": "Original File Badang",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Badang.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Badang.zip",
+      "size_skins": "9540k",
+      "coins": 100
+    },
+{
+      "title": "Original File Balmond",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Balmond.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Balmond.zip",
+      "size_skins": "12984k",
+      "coins": 100
+    },
+{
+      "title": "Original File Barats",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Barats.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Barats.zip",
+      "size_skins": "12884k",
+      "coins": 100
+    },
+{
+      "title": "Original File Baxia",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Baxia.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Baxia.zip",
+      "size_skins": "3288k",
+      "coins": 100
+    },
+{
+      "title": "Original File Benedetta",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Benedetta.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Benedetta.zip",
+      "size_skins": "17372k",
+      "coins": 100
+    },
+{
+      "title": "Original File Brody",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Brody.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Brody.zip",
+      "size_skins": "12508k",
+      "coins": 100
+    },
+{
+      "title": "Original File Bruno",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Bruno.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Bruno.zip",
+      "size_skins": "17528k",
+      "coins": 100
+    },
+{
+      "title": "Original File Cecilion",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Cecilion.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Cecilion.zip",
+      "size_skins": "5880k",
+      "coins": 100
+    },
+{
+      "title": "Original File Change",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Change.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Change.zip",
+      "size_skins": "5556k",
+      "coins": 100
+    },
+{
+      "title": "Original File Chou",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Chou.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Chou.zip",
+      "size_skins": "31108k",
+      "coins": 100
+    },
+{
+      "title": "Original File Clint",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Clint.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Clint.zip",
+      "size_skins": "21632k",
+      "coins": 100
+    },
+{
+      "title": "Original File Dyroth",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Dyroth.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Dyroth.zip",
+      "size_skins": "14164k",
+      "coins": 100
+    },
+{
+      "title": "Original File Emote",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Emote.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Emote.zip",
+      "size_skins": "404k",
+      "coins": 100
+    },
+{
+      "title": "Original File Esmeralda",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Esmeralda.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Esmeralda.zip",
+      "size_skins": "5180k",
+      "coins": 100
+    },
+{
+      "title": "Original File Estes",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Estes.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Estes.zip",
+      "size_skins": "4936k",
+      "coins": 100
+    },
+{
+      "title": "Original File Fanny",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Fanny.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Fanny.zip",
+      "size_skins": "22820k",
+      "coins": 100
+    },
+{
+      "title": "Original File Freya",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Freya.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Freya.zip",
+      "size_skins": "34768k",
+      "coins": 100
+    },
+{
+      "title": "Original File Gatotkaca",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Gatotkaca.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Gatotkaca.zip",
+      "size_skins": "2964k",
+      "coins": 100
+    },
+{
+      "title": "Original File Gord",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Gord.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Gord.zip",
+      "size_skins": "19668k",
+      "coins": 100
+    },
+{
+      "title": "Original File Granger",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Granger.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Granger.zip",
+      "size_skins": "14476k",
+      "coins": 100
+    },
+{
+      "title": "Original File Guinevere",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Guinevere.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Guinevere.zip",
+      "size_skins": "27540k",
+      "coins": 100
+    },
+{
+      "title": "Original File Gusion",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Gusion.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Gusion.zip",
+      "size_skins": "4712k",
+      "coins": 100
+    },
+{
+      "title": "Original File Hanabi",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Hanabi.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Hanabi.zip",
+      "size_skins": "4320k",
+      "coins": 100
+    },
+{
+      "title": "Original File Hanzo",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Hanzo.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Hanzo.zip",
+      "size_skins": "6316k",
+      "coins": 100
+    },
+{
+      "title": "Original File Harith",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Harith.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Harith.zip",
+      "size_skins": "19268k",
+      "coins": 100
+    },
+{
+      "title": "Original File Hayabusa",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Hayabusa.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Hayabusa.zip",
+      "size_skins": "6424k",
+      "coins": 100
+    },
+{
+      "title": "Original File Helcurt",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Helcurt.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Helcurt.zip",
+      "size_skins": "4020k",
+      "coins": 100
+    },
+{
+      "title": "Original File Johnson",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Johnson.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Johnson.zip",
+      "size_skins": "6896k",
+      "coins": 100
+    },
+{
+      "title": "Original File Kadita",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Kadita.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Kadita.zip",
+      "size_skins": "15016k",
+      "coins": 100
+    },
+{
+      "title": "Original File Kagura",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Kagura.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Kagura.zip",
+      "size_skins": "3196k",
+      "coins": 100
+    },
+{
+      "title": "Original File Kaja",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Kaja.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Kaja.zip",
+      "size_skins": "3212k",
+      "coins": 100
+    },
+{
+      "title": "Original File Karrie",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Karrie.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Karrie.zip",
+      "size_skins": "3928k",
+      "coins": 100
+    },
+{
+      "title": "Original File Khufra",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Khufra.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Khufra.zip",
+      "size_skins": "3688k",
+      "coins": 100
+    },
+{
+      "title": "Original File Lancelot",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Lancelot.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Lancelot.zip",
+      "size_skins": "33036k",
+      "coins": 100
+    },
+{
+      "title": "Original File Lapu",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Lapu.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Lapu.zip",
+      "size_skins": "7352k",
+      "coins": 100
+    },
+{
+      "title": "Original File Layla",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Layla.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Layla.zip",
+      "size_skins": "6216k",
+      "coins": 100
+    },
+{
+      "title": "Original File Leomord",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Leomord.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Leomord.zip",
+      "size_skins": "9164k",
+      "coins": 100
+    },
+{
+      "title": "Original File Lesley",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Lesley.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Lesley.zip",
+      "size_skins": "36364k",
+      "coins": 100
+    },
+{
+      "title": "Original File Ling",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Ling.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Ling.zip",
+      "size_skins": "18504k",
+      "coins": 100
+    },
+{
+      "title": "Original File Lunox",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Lunox.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Lunox.zip",
+      "size_skins": "5832k",
+      "coins": 100
+    },
+{
+      "title": "Original File Martis",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Martis.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Martis.zip",
+      "size_skins": "6216k",
+      "coins": 100
+    },
+{
+      "title": "Original File Masha",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Masha.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Masha.zip",
+      "size_skins": "15572k",
+      "coins": 100
+    },
+{
+      "title": "Original File Miya",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Miya.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Miya.zip",
+      "size_skins": "5848k",
+      "coins": 100
+    },
+{
+      "title": "Original File Moskov",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Moskov.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Moskov.zip",
+      "size_skins": "32216k",
+      "coins": 100
+    },
+{
+      "title": "Original File Natalia",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Natalia.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Natalia.zip",
+      "size_skins": "2976k",
+      "coins": 100
+    },
+{
+      "title": "Original File Paquito",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Paquito.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Paquito.zip",
+      "size_skins": "20648k",
+      "coins": 100
+    },
+{
+      "title": "Original File Saber",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Saber.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Saber.zip",
+      "size_skins": "23264k",
+      "coins": 100
+    },
+{
+      "title": "Original File Selena",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Selena.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Selena.zip",
+      "size_skins": "5696k",
+      "coins": 100
+    },
+{
+      "title": "Original File Tigreal",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Tigreal.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Tigreal.zip",
+      "size_skins": "25600k",
+      "coins": 100
+    },
+{
+      "title": "Original File Vale",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Vale.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Vale.zip",
+      "size_skins": "9992k",
+      "coins": 100
+    },
+{
+      "title": "Original File Valir",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Valir.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Valir.zip",
+      "size_skins": "20608k",
+      "coins": 100
+    },
+{
+      "title": "Original File YSS",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File YSS.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File YSS.zip",
+      "size_skins": "31120k",
+      "coins": 100
+    },
+{
+      "title": "Original File Yuzhong",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Yuzhong.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Yuzhong.zip",
+      "size_skins": "20384k",
+      "coins": 100
+    },
+{
+      "title": "Original File Zhask",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Zhask.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Zhask.zip",
+      "size_skins": "18220k",
+      "coins": 100
+    },
+{
+      "title": "Original File Zilong",
+      "image": "",
+      "url_skins": "https://skintools.oneaimdeveloper.com/upload/Original File Zilong.zip",
+      "alterntif_url_skin": "https://skintools.oneaimdeveloper.com/upload/Original File Zilong.zip",
+      "size_skins": "26384k",
+      "coins": 100
+    },
+
+
+
+    {
+      "title": "Hero Akai Original",
+      "image": "file:///android_asset/images/akai.jpg",
+      "url_skins": "null",
+      "alterntif_url_skin": "null",
+      "size_skins": "15 MB",
+      "coins": 100
+    }
+  ],
+  "GUIDE":
+  [
+    {
+      "title":"Mengubah Tampilan Hero Akai",
+      "image":"file:///android_asset/images/akai.jpg",
+      "description":"<p>Akai adalah salah satu <em>hero Tank</em> yang sangat mematikan di Mobile Legends, <em>hero</em> ini memiliki <em>skill</em> yang bisa bikin lawan kocar-kacir. Kemampuan Akai dalam melindungi <em>hero core</em> dan men-<em>lock</em> pergerakan lawan memang sangat baik, hal ini dikarenakan <em>hero</em> ini punya <em>skill blink</em> yang jauh dan <em>skill crowd control</em> yang sangat lama. Akai adalah pilihan yang tepat apabila kamu bertemu dengan lawan yang memiliki kelincahan tingkat tinggi, <em>hero</em> ini bisa dengan mudah men-<em>lock</em> pergerakan mereka.</p>\n<p>Buat kamu yang sedang mempelajari <em>hero</em> ini, berikut ini ada lima tips yang bisa kamu ikuti agar menjadi <em>GG.</em> Penasaran apa saja? Yuk cek selengkapnya di bawah.</p>\n<div class=\"show-page\">&nbsp;</div>\n<div class=\"split-page split-page1 open\" data-target=\"1\">\n<div class=\"embed-image\"><img class=\" lazyloaded\" src=\"https://cdn.idntimes.com/content-images/community/2020/12/status-me-status-img-20201201-wa0010-c45e3157aca7c65a451dd5611d30a941.jpg\" alt=\"5 Tips GG Menggunakan Hero Akai, Jangan Sayang Skill Ultimate!\" width=\"455\" height=\"227\" data-src=\"https://cdn.idntimes.com/content-images/community/2020/12/status-me-status-img-20201201-wa0010-c45e3157aca7c65a451dd5611d30a941.jpg\" /></div>\n<div class=\"embed-image\"><span class=\"main-article-source\">Dok.Pribadi/Sumahir Hidayanto</span></div>\n<ol>\n<li><em>Skill</em> pasif (<em>Tak Chi</em>) Setiap kali Akai menggunakan <em>skill,</em> dia akan mendapatkan <em>shield</em> yang dapat menyerap <em>damage</em> hingga 6% dari maksimal <em>HP</em>-nya. <em>Shield</em> ini aktif selama dua detik dan memiliki <em>cooldown</em> selama 2.5 detik.</li>\n<li><em>Skill</em> satu (<em>Thousand Pounder</em>) Akai melompat ke lokasi yang ditentukan, memberikan 300(+50% total <em>physical attack</em>), menyebabkan efek <em>slow</em> 30% selama dua detik dan efek <em>stun</em> 1 detik apabila target memiliki <em>Mark.</em></li>\n<li><em>Skill</em> dua (<em>Blender</em>) Akai melemparkan gelombang ke arah yang ditentukan dan memberikan 350(120% <em>ekstra physical attack</em>).</li>\n<li><em>Skill</em> tiga (<em>Hurricane Dance</em>) Akai berputar-putar selama 3.5 detik, target apapun akan terkena efek <em>knockback</em> dan memberikan 180%(+100% <em>ekstra physical attack</em>).</li>\n</ol>\n</div>"
+    },
+    {
+      "title":"Meningkatkan kekuatan Chou",
+      "image":"file:///android_asset/images/chou.jpg",
+      "description":"file:///android_asset/html/chou.html"
+    },
+    {
+      "title":"Mengatur Kecepatan Saber Legend",
+      "image":"https://aliendro.id/uploads/demo/ml/saber.jpg",
+      "description":"https://aliendro.id/uploads/demo/ml/saber.html"
+    }
+  ,
+    {
+      "title":"Sejarah Hero Bruno",
+      "image":"file:///android_asset/images/bruno.jpg",
+      "description":"https://www.youtube.com/watch?v=YSIfH-U_6Lk&list=PL8dcxU4nl7E0RtCZbhcy31CWN6ZxscAon"
+    }
+  ,
+    {
+      "title":"Mengembalikan Skin Original",
+      "image":"file:///android_asset/images/cloude.jpg",
+      "description":"https://aliendro.id/uploads/demo/ml/example.html"
+    }
+  ]
+}
