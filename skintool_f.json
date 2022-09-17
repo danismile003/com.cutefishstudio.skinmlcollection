@@ -1,0 +1,1781 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 4,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "finance",
+      "high_paying_keyword_2": "loan",
+      "high_paying_keyword_3": "insurance",
+      "high_paying_keyword_4": "car insurance",
+      "high_paying_keyword_5": "crypto",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "SKINS-MOD":
+  [
+    {
+      "title": "Akai",
+      "image": "file:///android_asset/images/akai.jpg",
+      "url_skins": "https://google.com",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kgkqk6fiyw8wrz3/BACKUP+AKAI.zip/file",
+      "size_skins": "2.58 MB",
+      "coins": 100
+    },
+    {
+      "title":"Chou",
+      "image":"file:///android_asset/images/chou.jpg",
+      "url_skins":"xxxskinori/chouori.zip",
+      "alterntif_url_skin":"https://www.mediafire.com/file/cnyo0pqxo2fnnei/%25F0%259F%2593%2582FULL_BACKUP_CHOU_KOF_SKIN_SCRIPT_NO_PASSWORD_%2528UQO_Gaming%2529.zip/file",
+      "size_skins": "12 MB",
+      "coins":100
+    }
+    
+  ],
+  "SKINS-ORIGINAL":
+  [
+
+    {
+      "title": "Aldous Blazing Force",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoFS2gC3V3xo9mZrmIEK5V6fbZlXiIxnuU2m7_hp9tNQgtTLnxQ1Scrb-e5J0qnxQqakYovOwf0qWtnA3PPxj_sNArBZTEpm7vDSWw0xs2TD3c_yNwZOpkMtOrJL5z_VvjKvVfO8xRC2PbEvApJsRjSgJkT31a4erUIVvB9pRe8cyWt716NnnUQEM7/s1600/aldusblazing.jpg",
+      "url_skins": "https://skinconfig.com/2022/09/16/script-skin-epic-aldous-blazing-force-full-effect-mobile-legends/",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ojk8up92xdccokr/Aldous+Blazing.zip/file",
+      "size_skins": "11.87 MB",
+      "coins": 200
+    },
+    {
+      "title": "Esmeralda Blazing Shadow",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBulPZJ7zq7hp9TPs7QNzOhgCVwElTqfU8tF-hg8_lOiJgHODcZnMATDNV713Ts3RLh5mrNuD2vAaMF7Ae9hDqS7HhlPBRVDGCiIpObbTyubtnI46r9OWAlMIOMdOrvL-G8YETbP2kmyXiqhpOYznCJL6eaE_F3JWsOkJlhtY65ilkXhXvZyFhBcnN/s1600/esmeblazing.jpg",
+      "url_skins": "https://skinconfig.com/2022/09/16/script-skin-epic-esmeralda-blazing-shadow-full-effect-mobile-legends/",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mfe0hdrdjh1c4ek/Esmeralda_Blazing.zip/file",
+      "size_skins": "6.91 MB",
+      "coins": 200
+    },
+    {
+      "title": "Claude Blazing Trace",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgldrlLnjOT55sOulFCo5VLukBlkCYnvYuOiLM5odByGPER4WiQHBDZ5ejRKKdS7bjDUEOQ1Rse9srZUSjw2kwIcThJoxoTgeeC-KbZOAPLjSw-Kk-Q2KhVK78N0_Pt766lRx215n17dC1bi917oRB0LwTQkL9x-OOe7ACfEgI4IvsY57LU7VXc8Wcp/s1600/MLBB_Claude_BlazingTrace.jpg",
+      "url_skins": "https://skinconfig.com/2022/09/16/script-skin-epic-claude-blazing-trace-full-effect-mobile-legends/",
+      "alterntif_url_skin": "https://www.mediafire.com/file/sb7mikl7bnz9avr/Claude_Epic_Blazing.zip/file",
+      "size_skins": "10.84 MB",
+      "coins": 200
+    },
+    {
+      "title": "Franco Blazing Axe",
+      "image": "https://1.bp.blogspot.com/-BGu7GdGojmQ/X75rlp88CQI/AAAAAAAAFhI/LebmMgcI5xI4-kQTSVlhnRn_uWNYpPLwwCNcBGAsYHQ/w919/franco-blazing-axe-mobile-legends-skin-uhdpaper.com-4K-8.1818-wp.thumbnail.jpg",
+      "url_skins": "xxxblezing/FrancoBlazing.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/e47xmb47am44vct/Franco+Blazing+Axe.zip/file",
+      "size_skins": "11.31 MB",
+      "coins": 200
+    },
+    {
+      "title": "Layla Blazing Gun",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC3j2G9wWxCSObQryVsHeDMTRk15W_7VhTGdOe10oLZbQJa_4J22NgfoPXcv79uLYOm720YgaMyan689_TxEIbLn8oRU-pX4Rk5esvSkNzq7nA3jiuz6n0dxMixofVk5dDjIn-89VzbtRbMXHgeAp7R-AP0J5D1MMCtdOTyo-pHKjy5TEkvdHDlSUm/s1600/laylablazing.jpg",
+      "url_skins": "xxxblezing/LaylaBlazing.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/u5io1ldqeqdpyqu/Layla_Blazing.zip/file",
+      "size_skins": "7.97 MB",
+      "coins": 200
+    },
+    {
+      "title": "Vale Collector : Supernal Tempest",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqVKOAXskIhrxvDjHv27yO2PGdCQrxvabOKw-Hf7XZl-CMy_f8DWf-G8UPVwdz39T3TtlCtodQ1n4OXlxgifsVUUemLtSgtgVeG6gw7DGkfahIdmdK1xPs0xMQj0oT6I6wIbbF6my9XrPQobc6bYOFDD_9S0sJ90hX0HEMoUQ2EHKnI_u82cydAFHZ/s1600/valekolektor.jpg",
+      "url_skins": "xxxkolektor/ValeCollectorSupernalTempest.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/31f29yo4hfleo5g/Vale+Collector+(Fukazee+ML).zip/file",
+      "size_skins": "14.73 MB",
+      "coins": 250
+    },
+    {
+      "title": "Aldous Collector : Realm Watcher",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPLMbyoWI75j-aTnqtreaJIhcGBfnNjWDW-GEXPn5wZ4AT0RE6RAc1RGbZp5VKqN1DCmvhu_j0Bwfo_NOS2YIkK7GUzkcM3Hkyu7loy97I_exi_sM_ZA37_B1cM-bW-n5143Bn85ejnWRAyUFTcxJQWUey0J_CQIdznjYktCHyixubgr-jbZR1is6G/s1600/alduskolektor.jpg",
+      "url_skins": "xxxkolektor/AldousCollectorRealmWatcher.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0kpvtn6iqnohvx6/Aldous_Collector_Realm_Watcher.zip/file",
+      "size_skins": "13.21 MB",
+      "coins": 250
+    },
+    {
+      "title": "Angela Collector : Floral Elf",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj_BVl-xR1g21PD8DcRBj6AXYO86qjVOPSEoECPIsr8yiHsgAta5RE58JxTOwEDhJmNpp3aH_i3X_n8gEIxs3DQThkbBm4XGlbiPg4H2zFcAvEKur9fx8NSd7V9rWSTR7rA7jpBFAzMmjhWHGS5EGlHnVb1ugyM0nmQkJFR46rH5TZeXLZz0Cxkucn/s1600/angelakolektor.jpg",
+      "url_skins": "xxxkolektor/AngelaCollectorFloralElf.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qt0vlgo5obb0irs/Angela_Collector.zip/file",
+      "size_skins": "7.85 MB",
+      "coins": 250
+    },
+    {
+      "title": "Badang Collector : Fist of Zen",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOU2Ce69oYT_Hw4JFNW1uU5dgDxKcpRjwzXtFGJZS8ISmejpEdZCAaQjjbOksl23YQ-qLRshXMmcF74Q6FljAXURiKDzRcpGcF0AgV6tVSa_WU7mU-ywZ_HhEbpPmRMGk7FoMg59mfas3iNnmNOTp2elWGDpJXMazuT2l0zucZ6LHkDNblEQLfou0T/s1600/badangkolektro.jpg",
+      "url_skins": "xxxkolektor/BadangCollectorFistOfZen.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/oej22bxw7avskjd/Badang_Collector.zip/file",
+      "size_skins": "10.32 MB",
+      "coins": 250
+    },
+    {
+      "title": "Balmond Collector : God of Mountain",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuePY8rodxepoHQ_COx7zYdb1dA9mOi0daJhdK8CvotJAKozyyGF7FnHXYAygbyA71Oqwil-8kmeVm4a-cA1EhfRzQ1N-xCIF7YZRAfAuOp8aDlItIX9fEewoAXIe1kQwcil-FI1DFWZKgh7iQ3lXVq-VJaJzpoYdFgEHWN9jAje9FVr_DkecnYyoK/s1600/MLBB_GodofMountainsBalmond.jpg",
+      "url_skins": "xxxkolektor/BalmondCollectorGodOfMountain.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/y3zlvt6ejni8n6c/Balmond+Collector.zip/file",
+      "size_skins": "8.16 MB",
+      "coins": 250
+    },
+    {
+      "title": "Benedeta Collector : Death Oath",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh1t4GwsVSnV_v1-QnQWL_lNByUnMnJIIbOgDZS_crjyNtxJONh234vffj_Lcqipm4Z50jdrRsN6670XZilRgBpdyAEZJ-9VXEvYj3meys5uHxWdFV5VNUp_oaDGOVAkjg_o9eBfXkkX-Ii7kDZ6bS3A9iPnjUiO8XUCeniwaG5INyV-1Y2gcOLTtx/s1600/bendettakol.jpg",
+      "url_skins": "xxxkolektor/BenedettaCollectorDeathOath.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/pdiqo5f49gtn5wg/Benedetta+Collector.zip/file",
+      "size_skins": "17.71 MB",
+      "coins": 250
+    },
+    {
+      "title": "Brody Collector : Ore Chemist",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjueQUZxIdST-QXr28-hPzvvSOZGmyti1rrygA7AUWuQis7TziGSlOBcMKBHIECAqSxzzlvkXGl3d0EhUsJjQgmZI3G8ZDfz15eaYMnzTOa9dS97qZNBI8n-EdG2t3kM9rJ2c0wFtev3R2L4W-XyWXUoiawBkceSiupLZIcVy12NdVj77ehk2NgO_qY/s1600/brdykol.jpg",
+      "url_skins": "xxxkolektor/BrodyCollectorOreChemist.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6eh2tbl4oflyt7q/Brody_Ore_Chemist.zip/file",
+      "size_skins": "6.91 MB",
+      "coins": 250
+    },
+    {
+      "title": "Esme Collector : Light Envoy",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3iZN2CUmNkfP3qbQhmVw0WdBfXEGr8TehQ-K70BMsfUzyCQ_Lf72fO22Jv1OH0S-0mGh3MrHCPL22fsuVRbaE-m6hd1dC5I8rP0_dxvEhunmPnRrtQLYOJTtZtVZIDMI0YLVk7o4LndZM7kjEwjc9gDpJwXNesw0gP4YM6vGT0FQCVVXwGHKbRER1/s1600/esmekol.jpg",
+      "url_skins": "xxxkolektor/EsmeraldaCollectorLightEnvoy.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9keu5l3ne3kq1pz/Esmeralda_Collector.zip/file",
+      "size_skins": "16.26 MB",
+      "coins": 250
+    },
+    {
+      "title": "Granger Collector : Agent Z",
+      "image": "https://1.bp.blogspot.com/-AyOr6caKXJg/X3YHmOKw3xI/AAAAAAAADUw/gyibY31Wmg4ycjugT-yqEgd7cqb_1HmmACNcBGAsYHQ/w919/granger-agent-z-mobile-legends-skin-uhdpaper.com-4K-5.2899-wp.thumbnail.jpg",
+      "url_skins": "xxxkolektor/GrangerCollectorAgentZ.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2u2k6ku7ji9zd7r/Granger+Collector.zip/file",
+      "size_skins": "12.55 MB",
+      "coins": 250
+    },
+    {
+      "title": "Gusion Collector : Agent Z",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAx-ZFH1nA9a188gF-RJw6vXFImLivkZ5ZFmP9OjiYYFTd-0jlyJdn42lJ3gyveSJnFATUTBy7sBYZLWYEJujpn3cbqXyjJFDogBaigCzihR-0UMVcUQwVYrSsVf6YMMHhwWi2onPw0Nb3rSPjH6WleUxGSluJKkcVgVi4yEjKlWEPIslhwBEZwUa7/s1600/gusionkol.jpg",
+      "url_skins": "xxxkolektor/GusionCollectorNightOwl.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/8hpa3bpv3knjls2/Gusion_Night_Owl.zip/file",
+      "size_skins": "6.41 MB",
+      "coins": 250
+    },
+    {
+      "title": "Hanabi Collector : Riverland Phonix",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiji1Ms4TDPOOPEhbp4zue9ZRTs_75jCqTX4mcEADBgg4Xsns9Q782I-OkOPhcWB_p1a3iVncWsQSigUX1U1GJveR3G9K0IInTewXphwvranf8O7ivqecznjUn-6tke9JZpJ3AuNeveLDqzACxzFPj3ORQzwfw_KrW8CT5gjW-Ah6sOmp4xP07WsM4W/s1600/hnabikol.jpg",
+      "url_skins": "xxxkolektor/HanabiCollectorRiverlandPhonix.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kv5sbak838ghbw1/Hanabi_Collector.zip/file",
+      "size_skins": "10.94 MB",
+      "coins": 250
+    },
+    {
+      "title": "Hanzo Collector : Jigoku Shura",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdHu2ajbtjcj-sGdRHhPv2BkChpc6rgDabmifQEYRiKaIlJmOH9ikHYhiBW37l3zs9JkfCYyi7PZLEVtoP4EZ0qP0g46GtC7H5NCd5Y3evX3ecuSh4zEhYZuiFkxb2GyWFdFVxjgdsHSYt5l_4kyVytCLQbjikalnsoT_RDrRYB3c0igtgAl0czsa1/s1600/hnzokol.jpg",
+      "url_skins": "xxxkolektor/HanzoCollectorJigokuShura.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2gy4ii0kwuxkzhk/Hanzo_Collector.zip/file",
+      "size_skins": "8.74 MB",
+      "coins": 250
+    },
+    {
+      "title": "Jawhead Collector : Samurai Mech",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkehC5WrRXcKc3KBG7bWDvKflaHoujnmBetsG0tLogA7BYuHy3M4CIoRHD70tCx3x2zTzoMNH_L1GgkNauBsrgrtyrEhIEapcyaeEPXzti2irJrWS3dkSJSvMb_eRQCYl_JSrpC0e9mHlE69P3QvF0MRHlkEK5A5pSNvALueoMhE0VIKX4sMbk3Kyf/s1600/jawheadkol.jpg",
+      "url_skins": "xxxkolektor/JawheadCollectorSamuraiMech.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/d2nxmsa8ranemms/Jawhead_Collector.zip/file",
+      "size_skins": "13.2 MB",
+      "coins": 250
+    },
+    {
+      "title": "Khufra Collector : Volcanic Overlord",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFQlhShOSzO32gRfOPOLUShJYMffpwOfalaQ0znQ_fA0_nfhzOyIiConmwhxIGghLsuyf5xX1EC-erqkdiVd8mf1ihSrq9O63ZZ9aEY3PqDsWuTxQUN-9XAY0WJVcf8jb-vPZ7p0pYOAvgKiHLagUh0eCfpKRFbv5qR-_AC4GQu2cJ6gv-ai61I7PF/s1600/khufrakol.jpg",
+      "url_skins": "xxxkolektor/KhufraCollectorVolcanicOverlord.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/i35bfhuny35mgqn/Khufra_Collector.zip/file",
+      "size_skins": "7.26 MB",
+      "coins": 250
+    },
+    {
+      "title": "Lesley Collector : Falcon Mistress",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh93saK20JKNnf_K8PfSS6eMh1g507J0nQuaZkxzBHoCuu3AGxQTE85arGhX7Onkmrr789hCVXTuI_cr6giTWvzgQdKyhOtoFCnSU-JZeFal15h7TS0JVtdp7FfKnnodiMm1SedC74CBDGkHPU7JXq6zg9DqdopvrRX1QO2brJ_3oqxdV2Xm6w86LSe/s1600/lesleykol.webp",
+      "url_skins": "xxxkolektor/LesleyCollectorFalconMistress.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/yh4mhejy48sg9k1/Lesley+Collector.zip/file",
+      "size_skins": "8.04 MB",
+      "coins": 250
+    },
+    {
+      "title": "Ling Collector : Serene Plume",
+      "image": "https://1.bp.blogspot.com/-u9BpY8qrmsQ/YLYU03jfChI/AAAAAAAAIdM/VtCbbzIgcmU0SWoFJNxEci42kkJFmxPywCPcBGAsYHg/w919/ling-serene-plume-skin-mobile-legends-4k-uhdpaper.com-383.1_a-thumbnail.jpg",
+      "url_skins": "xxxkolektor/LingCollectorSerenePlume.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/whosbh0bppws46t/Ling_Collector.zip/file",
+      "size_skins": "20.98 MB",
+      "coins": 250
+    },
+    {
+      "title": "Luo Yi Collector : Elysium Guardian",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsGa8rKQjkVKwBvoWCPynp3832-8bdf8fpxycWr1SZYKFWF77-4iQocEPSStE2ofDFtPx3JuEJIwQsVpjcP8NhZssHVjOvQTwxDiLKdYe79QuuQS5Z7mZnD8Ftd5oD-xPbUK4_4vFu5GLU_9GhUr44kK11HIy3cGU1tDRHQQDyWKmm6rqH9ovu-pO8/s1600/luo%20yi%20kol.jpg",
+      "url_skins": "xxxkolektor/LuoyiCollectorElysiumGuardian.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/t4umd4krqhquefq/Luoyi_Collector.zip/file",
+      "size_skins": "11.16 MB",
+      "coins": 250
+    },
+    {
+      "title": "Nana Collector : Aqua Pura",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeMc6dq0ydzoCsIFJrmFuR4O_dPCvxIrcBpOabaQvbE_u59FeKRqMfm_3GCZpHmEK4Jnw1A34f5nDqDr6tbe1KAYkWKF06y6EE_ZrGsTHAJYLh61xiLv4eZxTtByfro-Sofob4QYY-RpUbhd2mNcPGPTYvbIRSeG89Uy33gdQqiBCBi3qkmsT_9Z2B/s1600/nanakol.webp",
+      "url_skins": "xxxkolektor/NanaCollectorAquaPura.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/rwkgsqfpyo0i2fy/Nana_Aqua_Pura_Collector.zip/file",
+      "size_skins": "10.63 MB",
+      "coins": 250
+    },
+    {
+      "title": "Pharsa Collector : Empress Phonix",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPpdIK__5jXWNq-pqUO1XBnVKUI2O8PAitSJF4Qp55Srs8skJK6JLeCSh7uB9mDSSrFyQOsWpuXl8gc_1zUMevCJWGGtXsS_zbhX9tYrjBbyiybFxFC4GbXL-ykBNsNMz1KpPKZWh72fyk6ybeaV6zFcRIKEHj5TJEBj3Tg-f4XTDgxZHHhxc0jwPq/s1600/pharsakol.jpg",
+      "url_skins": "xxxkolektor/PharsaCollectorEmpressPhonix.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7h2wudi7axtzox1/Pharsa+Collector.zip/file",
+      "size_skins": "7.49 MB",
+      "coins": 250
+    },
+    {
+      "title": "Silvanna Collector : Queen Frost",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijv0mmlXB1qj1I7yEPqKfxrkSOLs0OPoNWsmxgh5awKDwNbCIhJiTU7q6EOESGQbz_5MintTpZGwPnlh3Z9Ok77IPIs_Vx_8FBB647OCCxRF0TJzqbt2XRNPxUqHgW8MYQhgC49uHIQHGbq08kObWgtOWEv1c-ViFE9iQ9RCkSpH-tNo0Az028KI2D/s1600/silvanna.jpg",
+      "url_skins": "xxxkolektor/SilvannaCollectorQueenFrost.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/hwyr41f594yi0b6/Silvanna+Collector.zip/file",
+      "size_skins": "6.86 MB",
+      "coins": 250
+    },
+    {
+      "title": "Sun Collector : Monkey King",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7M86Y2avtmzr5GeQziCgDJrP2gr1sA9CGwTtcrBYSmd4rhbidLBiwAw7tS50Bc3a7Mb2NlNWcI4-uzLubaqsWOtZ5omFyUdgKQXx9pou8EJiGaXtSRlUOJcW3mAw_3J8mhfuzTuxHcaW1XC0Zw0heJ9NytNdZg-PY7cjFQYZI8cvBNXciqjkv-TDz/s1600/skol.jpg",
+      "url_skins": "xxxkolektor/SunCollectorMonkeyKing.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/omuyisw4t2ctv8i/Sun_Collector.zip/file",
+      "size_skins": "17.24 MB",
+      "coins": 250
+    },
+    {
+      "title": "Valir Collector : Demon Lord",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmTwAn5F-FfheODcS-JjJZ9EQSAh44ey8XzyzudYzCp-RzUn8CgfRihhHi--0LdEUlfWUG4K7kLSJgM1q0FHgJJ6nNeQqqys4tuzDkl7NTv9T9c3zSbCpBqzr-TWMituJk7oQG5i-1bCurrBfleuhTQa9DqHTH5FYEtcFizWWs7Trk7dT4g6PZ7WTC/s1600/valir.jpg",
+      "url_skins": "xxxkolektor/ValirCollectorDemonLord.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/hvh0prpd4huq2a6/Valir+Collector.zip/file",
+      "size_skins": "5.76 MB",
+      "coins": 250
+    },
+    {
+      "title": "Wan Wan Collector : Pixel Blast",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKA37Zzt4anZCB05zik_5dkeD94GeQGOQMWZiSyJ-bh3p3fAg6ZzXJc9TP5s-7La-goD81rGUO7essN-auUTn5-anEMtbofWnvzHAlObupekEWkquL2SiYxWp0gb74t4J8hso22zKvkL46BmsdHl4MER2Tvk1wdNmZjE6zfowmX2yRs9RgUL7lZXx1/s1600/wanwankol.webp",
+      "url_skins": "xxxkolektor/WanwanCollectorPixelBlast.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/m9ev9zlp8amwd4t/Wanwan+Collector+Pixel+Blast.zip/file",
+      "size_skins": "4.44 MB",
+      "coins": 250
+    },
+    {
+      "title": "Yi Sun Shin Collector : Lone Destructor",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoOS4ASg_oZRyM0u0GvZ54VwfBkMoEqb1al-ICuBE2-b-G1JgcyVaLRXkx3sABUlnaLrKZkbYF4dxigj7G-BZRjbFesGuTlP7kNECvpZm92cnozoRWhB-MMGpig28ZpIW3Vs649DY3Ck4cPSgJq3mID3LxJSiSoFTPfrKe846Vzr7EMzlrlgWlUcXs/s1600/yss%20kol.jpg",
+      "url_skins": "xxxkolektor/YSSCollectorLoneDestrctor.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/091xp5jpk0ozidv/YSS_Collector.zip/file",
+      "size_skins": "18.11 MB",
+      "coins": 250
+    },
+    {
+      "title": "Yu Zong Collector : Blood Serpent",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoW9UMJOHOaMMub7RWYi_VhgFi1Um_FbmYoURg2_g7o6A7RyPSx3Amt6pTTVEPDTw5_g1YLLo-YvlkpI54Mjkmd2M8Xr2N8LY_FcG4QCV4k2fWeCZTxjguVHqHeeFDY4a_ETGK04L7LIPVFHuX05SpJ4Tv5YWWGfOmlxCSUleeBpSQj6e8z-wcQhD-/s1600/yzkol.jpg",
+      "url_skins": "xxxkolektor/YuzhongCollectorBloodSerpent.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qq1mf5to96uf79a/Yuzhong+Blood+Serpent.zip/file",
+      "size_skins": "17.36 MB",
+      "coins": 250
+    },
+    {
+      "title": "Zilong Collector : Empyriant Paladin",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2UEcyDKyEzMhNDY5tPl-R2crR4O-2g_X9iCgPGi_kqJApt2-B5QDsBrZpQ7g7im-nSX9-AY0f8FAF3z2SHGa_AivJuHKxNMCnGejgHkCeCRyDqTJSkR40f7WQpwUlL6SxF_5EyIOu6X68iu7M-GV3Ts9-mxpIyyWQoWp5W5QmoNqj-sFEnp7RFOcu/s1600/jlongkol.jpg",
+      "url_skins": "xxxkolektor/ZilongCollectorEmpyriantPaladin.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/f2hx2e6e4w71c4g/Zilong+Collector.zip/file",
+      "size_skins": "24.51 MB",
+      "coins": 250
+    },
+    {
+      "title": "Estes Dragon Tamer : Rattan Dragon",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0hvzpLz5Eueth53eJV-cBE7Ghmj88QMGExB8NAi-1wK2VFRQ1Pif4XSOToZZfe2fc063r_TC8t1aFG4HLez_boQScvRFVaNRVkb8_mbUNMCmZX2EFlL1inCkdAR0GZPBOqvx25mQ6XOp8Ikb--9ev-62mIfz6DRoWCIQduV4oiNuKOA3nYPGD_ZhK/s1600/estesdragon.jpg",
+      "url_skins": "xxxdragon/EstesDragonTamer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/8upx2mtp0oi3q77/Estes_Dragon_Tamer.zip/file",
+      "size_skins": "10.62 MB",
+      "coins": 200
+    },
+    {
+      "title": "Kimmy Dragon Tamer : Frost Wing",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-mUidi8g9MzGt98S7hp4uXShd8vvXsOgzrHP-f5lNy7fj7nHODb6tzklDwBU5Y8W6qEaUifmcuGCHekf12lDN-gxsIKhII9aFmhbY7LYuTMSV9SxMwUHITaTO37L2CdUvuEcI6RdoVby4SiLuakCtDW1CAq0jhqC2c8HT9Pp7DU5gfMwsLZLqXQDz/s1600/kimmydragon.jpg",
+      "url_skins": "xxxdragon/KimmyDragonTamer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/f7szud636uj0j2a/Kimmy_Dragon_Tamer.zip/file",
+      "size_skins": "9.75 MB",
+      "coins": 200
+    },
+    {
+      "title": "Ling Dragon Tamer : Night Shade",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrPMljcq2J7VccSmpM1mWNpUpKElcLUQqhydicfDwJ4fMtpSyb_PNE-b4r1anlsrcSiA8t7sAaUTg5qf5cN0Hye4RE9eGFISuYUzzxWwwhbyEJ6mMKc3sTR0zdFNl-V4sIsksT27nyj0KlYAlRGJt_OUN4AXUwlCP716GqEFJU_EZ2gI3Rm60t4INV/s1600/lingdragon.jpg",
+      "url_skins": "xxxdragon/LingDragonTamer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/t0v2uw6bbt2232m/Ling_Dragon_Tamer.zip/file",
+      "size_skins": "17.42 MB",
+      "coins": 200
+    },
+    {
+      "title": "Masha Dragon Tamer : Dragon Armor",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKywRi6P5H68mWyxURx1BSBaiqZeN7ZZtra5xYL7_R97-S6xUEQBnyqkc9lfEji7sl2awQ1LtzFNn1SVAQUMNVxpqDYus_G8xtHKuVTXyvb2qLd8byYCxu-LeR_El6LTdad4VmNGXAP9ZNiJJFJseUptjtX0DXyfR7fTeny0Imr1Vy_j0NqChf95bc/s1600/mashadragon.jpg",
+      "url_skins": "xxxdragon/MashaDragonTamer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/zv917istkv24b8w/Masha_Dragon_Tamer.zip/file",
+      "size_skins": "6.37 MB",
+      "coins": 200
+    },
+    {
+      "title": "Valir Dragon Tamer : Draconic Flame",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIsw8AgDQpF2_ZLFd9MEhlKH2xJC5uQW_A9ZDSdCz7cSym0iS7QXJeRNujaiwCNl3O2RdvrEJvapKWzD2C_AJMP2xpSEIGSNUsOmUbPS69K80kiG3Jr7Ogstja4mLj7xPig35fl9oDGCG5M2uG8kw2OXD4zr8SWEP_eVsW3Swe5hYhg8x8HzYiAbg3/s1600/valirdragon.jpg",
+      "url_skins": "xxxdragon/ValirDragonTamer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uvit6tmvge5imhm/Valir_Dragon_Tamer.zip/file",
+      "size_skins": "12.79 MB",
+      "coins": 200
+    },
+    {
+      "title": "Bruno Hero : Fire Bolt",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKIUq8BOcJmlyf85UAqP1Tx1W3ax9k2P6RTSzzQ2u0yLmMbAwUZKzixdd1JQrIk5HacV-6WMHQFq5P1CHiMC1zoRbhXmkGR46UJlqdPni9lvTCnknC8On7YDALO4atMTV5MArQQmaqiIEeKqtsR_DugyyxZV9w2I3kc-vWKfuYQePS63Xt3W-n5i9R/s1600/brunohero.jpg",
+      "url_skins": "xxxhero/BrunoHeroFireBolt.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/xkldsazkgm52krp/Bruno_Hero.zip/file",
+      "size_skins": "10.75 MB",
+      "coins": 300
+    },
+    {
+      "title": "Chou Hero : Thunderfist",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin1T8vvj6-bAl6WA4t8p-yG0qmJx8I2REcEH6Cwzp6FtOKQNWYymz1U6VlgqfY9AS8pGKHrEse7wA58aaZEVOfJbPcLZKroiisHA89lFpzpVyUeWn-8KTQl1_4K5BVxnncTbjRKvMrU9sA4YQOpSH8aRslAnNdJPiyjlC8fZ3kwA2baueSSE-9ucuL/s1600/chuhero.jpg",
+      "url_skins": "xxxhero/ChouHeroThunderfist.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0mflwe2x26bz15w/Chou_Hero.zip/file",
+      "size_skins": "7.96 MB",
+      "coins": 300
+    },
+    {
+      "title": "Esmeralda Hero : The Foreseer",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKTA83WvGfgKUuaTVRq0I9PtQ3HBbGFbKM2Dz7ub-l7KYFw5SxEA5Prh61SviZuOZ0MKZpU4SS7obmBQhFzHOM_M2reNg5sJXIQSHJM6DcLYiPHUpItqkm_PLmUUsoa5Hxm1O8C-DeRJvbX722xnbl1dqLxb_eWLb6VvMwrRxJPthZjS-X98yBJkZS/s1600/esmehero.webp",
+      "url_skins": "xxxhero/EsmeraldaHeroTheForeseer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6t3yhuz7kun1cz4/Esmeralda+Hero.zip/file",
+      "size_skins": "9.52 MB",
+      "coins": 300
+    },
+    {
+      "title": "Lancelot Hero : Parfumed Knight",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzSW18Qyi_lYWsD_glsbhOGHeQgBWq-MZ-twcBSwvusnbnxlLRJeZOVOkYyq3M_Nzb5V8t57LG2502kUbYOKm__pCnKG2lX-ectCr8X-nBvqMIz1RyDKjc1e-k6UWKCOhA-aQX0AzIiWgd6xFT239KywuWD_QML46KQumZhewNb50T5mIjeyK220tO/s1600/lancehero.jpg",
+      "url_skins": "xxxhero/LancelotHeroParfumedKnight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ccqzq3x8tqvx359/Lancelot_Hero_Revamp.zip/file",
+      "size_skins": "11.61 MB",
+      "coins": 300
+    },
+    {
+      "title": "Vale Hero : Blizzard Storm",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiJhp00rhuCy68tbIocJDUT35T4Gp2-WzpNpi-sxaTGsDjsVM_OIQq9QlItC0TbAKO-S3Vd5NLvszSEt5LKhIAEVQCyQh_LwZ5GoTz6jjHSNbr4lGnL2oprRVFcRF2VhhuzzNcC6NTT9oytrID_C9H--K4rDAW51wDfnPrF7InXBnvITYOQahE6hAI/s1600/valehero.jpg",
+      "url_skins": "xxxhero/ValeHeroBlizzardStorm.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/q5hl2f1ns2nd5c4/Vale_Hero.zip/file",
+      "size_skins": "9.12 MB",
+      "coins": 300
+    },
+    {
+      "title": "Aurora KOF : Kula Diamond",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvexMj9mWvSGnL76AAJH17BZV4zgLhtneIzIcD7WvYCJsUuYiW52w--wmAiVelxoTtnP7tOxQa9ACumETW-qLmwM8WfLL71hlpKv58eobWsrXKb9Hns0IUEloNeaUlDwouO0_D-p-jG_CcjRephI4-mCtfcQHqS_fS5lWcoKoXtjPIkiUvC3XMyzOy/s1600/aurorakof.jpg",
+      "url_skins": "xxxkof/AuroraKOF.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/3p5v6qrkrisr9v5/Aurora+KOF.zip/file",
+      "size_skins": "6.72 MB",
+      "coins": 350
+    },
+    {
+      "title": "Chou KOF : Iori Yagami",
+      "image": "https://4.bp.blogspot.com/-W3o3XDPLNeA/XSelicK0a3I/AAAAAAAAAyc/2qSmxptt8W8WLqRVThGqdEPmMox8lgnOQCKgBGAs/w2880-h1800-c/chou-iori-skin-mobile-legends-uhdpaper.com-4K-48.jpg",
+      "url_skins": "xxxkof/ChouKOF.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/eja6s0sx52wzor1/Chou+KOF.zip/file",
+      "size_skins": "10.32 MB",
+      "coins": 350
+    },
+    {
+      "title": "Dyroth KOF : Orochi Criss",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ0x953YJLA3uOfK9WrPS4Fm0pocRcSra3BNWxicOihiplWk4NONJl8iX02k9ksK-oGzvH2-ECXk8JZS8u2Q6ypbr8FDWuJrJCHuf8C6_ObKxnYVJP6JpPlMlyJDZhB8emOpjjeFH8pGiGSkMUKoxMPyjsmnlLIaZOKe2pfE_tA3G4bhw4Imk7FsFh/s1600/dyrothkof.jpg",
+      "url_skins": "xxxkof/DyrothKOF.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/62m111yppnv3cf8/Dyroth_KOF.zip/file",
+      "size_skins": "8.17 MB",
+      "coins": 350
+    },
+    {
+      "title": "Guinevere KOF : Athena Asamiah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjh5FjwFfD6SEs0422GpcCNZh5xbXeXdebMZysArGxF8oHn0HtVlyoqI486oTJMyYlQfiseH1ubDxLAVgxycmsL5dbiU1SV1HEXa6Gl0KryBri9ghGfjIIkgUoFTBi12KEHAwTrCmzf2IA1r5mjbapzQ2Iyi-UlvA2LM3_j1heeT36paB3C2snmVh_/s1600/guinkof.jpg",
+      "url_skins": "xxxkof/GuinevereKOF.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6nccgddm7pthmld/Guinevere+KOF+Revamp.zip/file",
+      "size_skins": "8.74 MB",
+      "coins": 350
+    },
+    {
+      "title": "Gusion KOF : K",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhauBvy2cJjH_d7Azf32_LPo4i9iA5syweLm-RE4uv4rPXlllOiE-1merzqJRZyH6YhxZ9OBSyFLxxL-nw93gunC6voXe3Y_RVhjB1UojB1Xesfw5Wsqm8YlW8e194LP8bdqAzzsZzLr1xNvtF3iyfO9bO-rztOMYQjnRJwEOmZlaLLs1I6dG-29Ony/s1600/gusionkof.jpg",
+      "url_skins": "xxxkof/GusionKOF.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/g20wxsatio0bcv9/Gusion+KOF.zip/file",
+      "size_skins": "5.08 MB",
+      "coins": 350
+    },
+    {
+      "title": "Karina KOF : Leona",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-Q_tLxejuDW48eY28xxXqQkJ_p_lDtHwC9osDG_Y5GmRGVKQ6df4mVbsnRSDl3900po2DyRrMbS2ninGA6fjE0yTDBB2Vx24M5-oUgC54cSxzoezidkivo_41aNAZe6aWXaNNGvMpw6jK35BPobWJTJkMJzs0AmXlecBR2CG3Ak3pK0LtXBkeVx3t/s1600/karinakof.jpg",
+      "url_skins": "xxxkof/KarinaKOF.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/i2t0o7g35nim95f/Karina_Leona.zip/file",
+      "size_skins": "7.81 MB",
+      "coins": 350
+    },
+    {
+      "title": "Alucard Lightborn : Lightborn Striker",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKJPeCEfWbFKqPWJKb4NuYFP_Ns50_o2C14T90x5vl8IATMqtY4CIm1hyCvwApxmUANTFWKmPx0qUqhrjNWUgHxt0csofVeamRVAmVvr9OJGcUyQaYIiExwXG18sdu5J84bx4qqez76Js4ZKF1c7XT-1L7iKU9IX5b1NXjzBzVoyARo_twbT8RF0SJ/s1600/alulight.png",
+      "url_skins": "xxxlightborn/AlucardLightborn.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/y9smogj3a882npi/Alucard+Lightborn.zip/file",
+      "size_skins": "10.86 MB",
+      "coins": 300
+    },
+    {
+      "title": "Fanny Lightborn : Lightborn Ranger",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFclcldwfjV7MR3l4t0Gjct2ElNq0zpozgqkasnKNxX1mxuV33tgLZuiw4oluAaBc2Ro7EMvyAXaCaoZQusR2hItQBC64q_DbwWQnHWiyAm022WbwP20BllNw8nd4y7TZ9QBMql-5g2317pt2DSahopkj9hvz4a53gt-3Nygn2LJ7fSWEz4d2pqjXP/s1600/fanyligh.jpg",
+      "url_skins": "xxxlightborn/FannyLightborn.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/klp6bdj73tsow36/Fanny_Lightborn.zip/file",
+      "size_skins": "9.45 MB",
+      "coins": 300
+    },
+    {
+      "title": "Granger Lightborn : Lightborn Overrider",
+      "image": "https://1.bp.blogspot.com/-PljsYf1N0zo/XerQku1KeoI/AAAAAAAAR-0/uiuo7gt9NGE39_bcZWK3ctrJMZZ3SnSyQCLcBGAsYHQ/w919/granger-lightborn-overrider-skin-mobile-legends-uhdpaper.com-4K-7.550.jpg",
+      "url_skins": "xxxlightborn/GrangerLightborn.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qk2nu26cisz68nn/Granger+Lightborn.zip/file",
+      "size_skins": "7.37 MB",
+      "coins": 300
+    },
+    {
+      "title": "Harith Lightborn : Lightborn Inspirer",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTo11ed4eloApDeYTgD4OFeVPjiif7VCA-0Lod7DlQwaOGm_WX4ksesanKwbkW_HkrW7DjPoyn9JaUJJ4RXdibmqAN-zjroOK73zRVCtHbLGNsNLMykP-TFuk1HpXjTMlIMvS1Ht1KrNwCTPPpln7PXNsQpQZyKAOzipd7vX1_3MLN-agjnfbp8rrk/s1600/harithligh.png",
+      "url_skins": "xxxlightborn/HarithLightborn.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/lyv0im75e25do0j/Harith+Lightborn.zip/file",
+      "size_skins": "5.42 MB",
+      "coins": 300
+    },
+    {
+      "title": "Cyclops Saber : Saber Exploder",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjus5-EBoHlPR80wqpSWPsSbU2AF5s7Rf-E4Jqd6y7GPRaazuq2akgR3MHfKG3hOfn5QKljhima6kTnzsL8zENIJOOru4Wmo-EyCXYO6u6VaL3GmBOAmhMF9elPHIFhqtSjRQM6SM5NSjRFNGttZfqqAnZ9tOl026ppPlPv6gFszEDhkBVxTS2xPP8L/s1600/ciklopsaber.jpg",
+      "url_skins": "xxxsaber/CyclopsSaber.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mkbcwjdr4ej79bt/Cyclops+Saber.zip/file",
+      "size_skins": "5.66 MB",
+      "coins": 300
+    },
+    {
+      "title": "Freya Saber : Saber Manhunter",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi28rpKyVTQFownVTN3oTSd8V3svKArsOeROo8EPROf0aHAYhVdpn1u7cU5RhEJMb2FvvFhqLbMi6Tod9kNec-jbFkSb_XYJMYBOwT7CciSNHAcTodTsny6Dp1twf6fkIZOfh2oh3olqHAD1MCWeniRoNBMHZJWdhCu7yG6EcGuHB7hiLJq7s4LULuK/s1600/freyasaber.webp",
+      "url_skins": "xxxsaber/FreyaSABER.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/eu5j6dt3jxxcurc/Freya+SABER.zip/file",
+      "size_skins": "9.29 MB",
+      "coins": 300
+    },
+    {
+      "title": "Johnson Saber : Saber Automata",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK6JRdn3CPRaK4azbplMlh-Qk6MYHkqM2i9JxSAFktWwd1ahh-rZWgmzonMS0XZfASbtEkdo57ZdV5SZTzuOKgrEuU6K0sOMivhvunOZ-cL6CApX3eFuEIkrVQPj1JrQnDcVXPRoPAcrUbiKy-UNyhvsi0mkL0vS2oc4Ohhte0SIcGqbdL-yu8GtlL/s1600/jonson.jpg",
+      "url_skins": "xxxsaber/JohnsonSaber.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5yty7q6570p2s8t/Johnson_Saber.zip/file",
+      "size_skins": "8.74 MB",
+      "coins": 300
+    },
+    {
+      "title": "Layla Saber : Saber Breacher",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfqA3OIYQIEFHCW7CP8ZzBDeqO-WktEzsoZ46GaLfmqCpzMP84NRaKf1_uvDK4y1S97NGsvCCqB6RHyGY6Vk_0wiumGb5nqSnp7jew4IuwCDK6Ks_cIYwJBGEMQesSM099y8WKblQVsgue7FBLf9qc5_ZpQwVfi5ZwNds5fUf70tyrQ2NQYsKxl9PC/s1600/laylasaber.jpg",
+      "url_skins": "xxxsaber/LaylaSaber.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/h2wt89jytkfsgwl/Layla+Saber.zip/file",
+      "size_skins": "7.74 MB",
+      "coins": 300
+    },
+    {
+      "title": "Rafaela Saber : Saber Savior",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwHT_8nR-LG7EcM_I5E3XwF5iZSViZutyZ_KbqJ6Est7H9qctqkh7VdX5noWjdmg1bQpSOAuRQrF3Z4tGsUoV1zwqfvxW_9WaiYYil3VhJcPfvLRGDu-V7Ttv9T6N1NEcuzYcdMDDp76h-bW9-oNK_qV5Rn1FZo-OKPv0kppCzbFokODzxRX74-5Oc/s1600/rafa.jpg",
+      "url_skins": "xxxsaber/RafaelaSaber.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/vq052llhuly2u4h/Rafaela+Saber.zip/file",
+      "size_skins": "5.1 MB",
+      "coins": 300
+    },
+    {
+      "title": "Saber Saber : Saber Regulator",
+      "image": "https://2.bp.blogspot.com/-EU-YzhC2wGQ/XSeolVRWv0I/AAAAAAAAA0E/rN3SfvMdAuYHl2Tzj5rn8sLto08fus8lwCKgBGAs/w3840-h2400-c/saber-regulator-skin-mobile-legends-uhdpaper.com-4K-148.jpg",
+      "url_skins": "xxxsaber/SaberRegulator.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/wor5xuq5xsg3fj6/Saber+Regulator.zip/file",
+      "size_skins": "5.17 MB",
+      "coins": 300
+    },
+    {
+      "title": "Brody Stun : S.T.U.N Brody",
+      "image": "https://1.bp.blogspot.com/-48EpZShFlQE/YIWXbfSh95I/AAAAAAAAH7w/Qj2IpcHxt0EhXGrkXGb177m5V-EqWkAXgCPcBGAsYHg/w919/brody-stun-skin-mobile-legends-uhdpaper.com-4K-5.3395-wp.thumbnail.jpg",
+      "url_skins": "xxxstun/BrodyStun.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2tecmwich3oewu2/Brody_Stun.zip/file",
+      "size_skins": "5.73 MB",
+      "coins": 300
+    },
+    {
+      "title": "Chou Stun : S.T.U.N Chou",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjDvJc3Ns2FfDzVkwyy_e_Q4uPlOYulqtxkBIGvXk_vzCP6BPobYQ96JmFLGqjB6IFEH3RFZcMbb9Qf9053FRcmCEwSiQE0NN6DgeyMg91Xv1UcnfGqxHAFgAAtZA1afELk3qKox3VLgcxvFzueaXRzXUwZP52wKu5dypmTetiTyCGFw6tVUdoAyw/s1600/chous.webp",
+      "url_skins": "xxxstun/ChouSTUN.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/bdm4kvf6qb18xds/Chou+STUN.zip/file",
+      "size_skins": "13.06 MB",
+      "coins": 300
+    },
+    {
+      "title": "Selena Stun : S.T.U.N Selena",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBFFbE2ONtNeYgFGkMXDbs_g6XA75iPJDlIWRL878S8yP2JPUuXGsVZzdGSZUESdqyPmHiG2ySrKKtsFBWB7LL2b52pXfDRD0RmJbTtfDuIu7nB7QmTxZ3dDoiQc6vPvdoGDGV6_fsWIBzvVRZdg2CjSj9-PrIlQblupQYvcm7QTOgZj9e-P8gm7_A/s1600/selena.jpg",
+      "url_skins": "xxxstun/SelenaStun.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/budzzry6vgf2e4j/Selena+Stun.zip/file",
+      "size_skins": "19.24 MB",
+      "coins": 300
+    },
+    {
+      "title": "Alucard Starwars : Obi-Wan Kenobi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6LbfwIVGzS0Iey8EkfuBkkz8-5pL6K_ApGxQ5WImOAOd_XYOvxQm8CbX9VWXK2-It7YJubE82k2QAwr3rMi_2DI9trzbjCGOBnz2Uk3Uwj4Re1VXa7E3GtIxN41uyyXPULD-cEJ-h4OTyrDjfiYz3Zw4Ypbrrle_Yb0ZGZJWjJ_bEUfOZJaN52OJH/s1600/alustar.png",
+      "url_skins": "xxxstarwars/AlucardStarwars.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/8j9276pdjllqx9c/ALucard+Starwars.zip/file",
+      "size_skins": "9.68 MB",
+      "coins": 500
+    },
+    {
+      "title": "Argus Starwars : Darth Vader",
+      "image": "https://1.bp.blogspot.com/-LGyWmmMcY_A/YOTD5SXrAwI/AAAAAAAAJNE/y9YCvVrbtZMnsg_G0Ht8sVPa2y3dEx-SgCPcBGAsYHg/w919/argus-darth-vader-skin-mobile-legends-4k-uhdpaper.com-122.0_b-thumbnail.jpg",
+      "url_skins": "xxxstarwars/ArgusStarwar.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/d29dbdr1ga88z13/Argus+Starwar.zip/file",
+      "size_skins": "8.02 MB",
+      "coins": 500
+    },
+    {
+      "title": "Cyclops Starwars : Master Yoda",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Zn64Zs40UCFyHT_iwX4bl9jEm5EnKc0aNgBEeLZpZd-nP8qWngapYmSa4akOkVaGH4BleIPm647InTY4FRXbUHcz1UCOtIkDqlxfF95wpisIKreupgTXyX6IvbbC_ZcuLkBVC3Gm6dLHTWEPDzIHO7DKlUUqqUT-qM9E_VAWOLqAkPqxi0pDqFqi/s1600/cikop.webp",
+      "url_skins": "xxxstarwars/CyclopsStarwar.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0i0ecdkuxecr4v7/Cyclops+Starwar.zip/file",
+      "size_skins": "7.72 MB",
+      "coins": 500
+    },
+    {
+      "title": "Kimmy Starwars : Jet Trooper",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3CSO0X9AOF6Xtf15G1K8bxmueZzQoIa5fTdGlFVL5miFY0Jnwuy8xzGklKT8x1nkjg80RQFB-9iKv5hhrX1HOpcb2p3E7R24yrNBbQ68Y7wy0NvPJQ18q-f_9x8clmDSGWGzr6Oo_zmmo9l9StfY-xpDnayW5AmLd7W1VC0wi_JuR0jfmkANUduZg/s1600/kimmy.jpg",
+      "url_skins": "xxxstarwars/KimmyStarwars.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ksdc8h5hxaxcy5a/Kimmy+Starwars.zip/file",
+      "size_skins": "6.57 MB",
+      "coins": 500
+    },
+    {
+      "title": "Aldus Transformers : Starscream",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw-Ejcd57RffgP1rCj4DEIbuSkeJ7fGL3jSwJA5U4Gfz0O6ZZX73W_thHc8pbJCAdsjYnCTQW2KL2Xn5Kgqq0JTIAXMPLH__GCVPgrg0TwymfSnNDQRXnzYlMUA77iVHeQbxIA00wFb_zjWzY0mNz3i7zaSIUpGQB9nde6cxlnsYYsJThAXNKrdEET/s1600/aldustrans.jpg",
+      "url_skins": "xxxtransformer/AldousTransformers.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/fqh60i58vlwe390/Aldous+Transformers.zip/file",
+      "size_skins": "10.98 MB",
+      "coins": 500
+    },
+    {
+      "title": "Granger Transformers : Starscream",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihgSe6m-KZSODhMtIRnFqfxVlEmvf6LGt18B6QkVw18Vc3M6vbfmN4IyxVYBv8EhjrR2W1H9FrK-cbMVPHDFj3X7Ker30wxYApimU8mtSxsADl7jcWhajFDwmN5l2iiQ2wLFPEJWHcJP9HCbN0Lzc9XTXoInWiV7AeZxC_K_meLywmGJcspbUzNlIQ/s1600/grangermega.jpg",
+      "url_skins": "xxxtransformer/GrangerTransformer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/1hj4tayi5rsdble/Granger_Transformer.zip/file",
+      "size_skins": "30.76 MB",
+      "coins": 500
+    },
+    {
+      "title": "Johnson Transformers : Optimus Prime",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgikC0N1957HRJ-55CkevoYArint-za4oVbXp8-uu65bWcOHotHxKxrEZO-D6hsJyiVKZFxRQo4LfQAy2GrN5kENd-DNT0HcMAP2bRM0cU0b8kzqWNf5Ot3mBnKJ6R_DJnZw8JyIKijEw0PZAU1Yyztt4H_cd_kSFLZJAmHZDUmTlYxM9IfldfVV23K/s1600/jnson.jpg",
+      "url_skins": "xxxtransformer/JohnsonTransformer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/642q7t4nuz5r1ke/Johnson_Transformer.zip/file",
+      "size_skins": "9.89 MB",
+      "coins": 500
+    },
+    {
+      "title": "Popol Kupa Transformers : Optimus Prime",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXyfI6ycIrOG7H-7yexHSLXprIIzugUlJSgYD48UPqV-HF5EBnBbCmd9UhuUUIzcKELoyBv8ss23MVZDd_9PXziR2p2r6g0q3HSqa7nKGnLhNDZD1MrE7uRS6DDcVeZXR6rogLch5Y0mUjuMwx2ThN7tIlFJz3qaz_mLeG_opj2b7iTvYAAvh9RH_2/s1600/popol.jpg",
+      "url_skins": "xxxtransformer/PopolKupaTransformers.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/1sc6vhtszynpzy1/Popol+&+Kupa+Transformers.zip/file",
+      "size_skins": "21.01 MB",
+      "coins": 500
+    },
+    {
+      "title": "Roger Transformers : Grimlock",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLOI9QyH0d_Npo_UVZbLg1oijfJwnM7hKXMHPveeqE_dfKaW7Fx07AaMIxrxqrvfLUa18aoBd36P-DpWyiuUqyZrfDKM4jHqGz3T5H4dFkXjj9OqZE79ba7cUnGSx3o73T-0yaa1Ee6bMrka6zyB8zCjJkTyyiGA6su79Q6KvOBe0qncnHIYZSY1XV/s1600/roe.jpg",
+      "url_skins": "xxxtransformer/RogerTransformers.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tkhvohuz9223da7/Roger+Transformers.zip/file",
+      "size_skins": "14.26 MB",
+      "coins": 500
+    },
+    {
+      "title": "Xborg Transformers : Bumble Bee",
+      "image": "https://1.bp.blogspot.com/-iyhnN_qvSSM/YR-xm6I-3sI/AAAAAAAAKDg/g2WqrACpO9EuhbAFcSoi3Cmgq6lL6myGACPcBGAsYHg/w919/x-borg-bumblebee-transformers-skin-mlbb-4k-uhdpaper.com-786.0_b-thumbnail.jpg",
+      "url_skins": "xxxtransformer/XborgTransformer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ql8z5e0vdz8y0hs/Xborg+Transformer.zip/file",
+      "size_skins": "23.68 MB",
+      "coins": 500
+    },
+    {
+      "title": "Dyroth Venom : Cobra",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGrO5Lt03QFuuxVw1xlGLmMMA-TEAES3K58I1_hs2-csUeRyDHYDNhz8MfqAYMKZpvyiuq-Zx7xuWXSuYMyxX2eJJRvIliN4LskgDfR2v_5-ApFoxv0CwrOAVORj_xNZKRfJZ9WFXATA88DTCkKn6a8xjTE9BX2yJIwvNragyB0WiORtrynvyFdjo/s1600/dirot.jpg",
+      "url_skins": "xxxvenom/DyrothVenom.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/oeow76s13tfznm1/Dyroth+Venom.zip/file",
+      "size_skins": "14.75 MB",
+      "coins": 300
+    },
+    {
+      "title": "Angela Venom : Vespid",
+      "image": "https://2.bp.blogspot.com/-71o7EwJ_vhM/XSeliZG7lNI/AAAAAAAAAyc/BbAi1XEzExwsZyanE88o8h8kFRl3VZn7gCKgBGAs/w0/angela-venom-vespid-skin-mobile-legends-uhdpaper.com-4K-41.jpg",
+      "url_skins": "xxxvenom/AngelaVenom.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/96yzyvq6hnigneu/Angela_Venom.zip/file",
+      "size_skins": "5.81 MB",
+      "coins": 300
+    },
+    {
+      "title": "Grock Venom : Monitor Lizard",
+      "image": "https://3.bp.blogspot.com/-niqKeBH9XTA/XSeliY-cHOI/AAAAAAAAAyc/DyCIF1Bknhs7xHmbpqfyM93soHgPAALZwCKgBGAs/w0/grock-venom-monitor-lizard-skin-mobile-legends-uhdpaper.com-4K-60.jpg",
+      "url_skins": "xxxvenom/GrockVenom.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/eqam64pv2c4mh2p/Grock+Epic+Venom.zip/file",
+      "size_skins": "4.4 MB",
+      "coins": 300
+    },
+    {
+      "title": "Gusion Venom : Emperor Scorpion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdkLGufL6gT_2CJn0_ix069L5ofA0R7dSOApb3xrWpzDoEcXGI_4bZjiuOvqXAX9iraH0XCqzX9k4oZLStxsBoZnNX22ODaA1ju_AC3pTNVLhegfRIQqtqvejctIiQiVc7lcLitBD-xjncwa-sNFLWzZ2fzWK0_gH6GqFuqh7C5QcC71UZJaRECtgy/s1600/gs.jpg",
+      "url_skins": "xxxvenom/GusionVenom.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/khmdpdi3osgmapw/Gusion_Venom.zip/file",
+      "size_skins": "10.06 MB",
+      "coins": 300
+    },
+    {
+      "title": "Hanabi Venom : Nephila",
+      "image": "https://1.bp.blogspot.com/-2zb4gn1quUw/XWYHv1GiVrI/AAAAAAAAMC8/7rLrEPYjrKYofiQkp8QxPBgum92V__wnwCLcBGAs/w919/hanabi-venom-nephila-skin-mobile-legends-girl-uhdpaper.com-4K-3.831-wp.thumbnail.jpg",
+      "url_skins": "xxxvenom/HanabiVenom.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/e7ban7cuokf5gf2/Hanabi_Venom.zip/file",
+      "size_skins": "7.23 MB",
+      "coins": 300
+    },
+    {
+      "title": "Harley Venom : Octopus",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9RhrwTmAJN7xbxPbX2usXHb3qaGazVu9wYl70sSNVXMO7S-erbTnz3KBBVjSV3ApUoVR_y8E86vmSfg38o8PJgACequo7ShvhaUwOZEUb5aSNoTk81YbWYN2VMHbo81lx8O4XufSk4LKxqkguk0a47efWTbMkVniannBcVEw8s3So2tcjGrUIa52W/s1600/haley.jpg",
+      "url_skins": "xxxvenom/HarleyVenom.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kqynnupucx0a9yo/Harley_Venom.zip/file",
+      "size_skins": "4.64 MB",
+      "coins": 300
+    },
+    {
+      "title": "Fanny Aspirant : Blade of Kibou",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ1MIkY9XRCBVHsB_zJToK4QwmNZXdH2gLM-FZJUxvO3wMV4GzbUKkfu-ppolDf-FrRsZ8Bz8Tqa-Q6Ly4Mia6sUJY68ssAAY5LardKCaarUHOWz0mbvrL9UXzfC9IxGElpsfxb88AQwYeq1Kl3qHP1do5WxJHUG9UgDDB7wsFlsmPEwUh4y_AAO0v/s1600/fan.jpg",
+      "url_skins": "xxxaspirant/FannyAspirants.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/93z08vfsl5ncm9y/Fanny_Aspirants.zip/file",
+      "size_skins": "10.35 MB",
+      "coins": 500
+    },
+    {
+      "title": "Layla Aspirant : Miss Hikari",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAS8iBl8wR7q2hSKHy4foivm85oFWHCfHke5h6sUAUexuZ56Dd3pITNdnPrUGfKRS6zOEIu5NxcAGD4-mBAdqXLhtfRv83dFO7IIEWa7n9iOFKNbY0rgRuBnnS-n-FOJsbQoKFubT1h3BEh_xoHoJK7_hGZX2unmQMM5LTUh-8jMpHkny9wKaXlrBS/s1600/mi.jpg",
+      "url_skins": "xxxaspirant/LaylaAspirants.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/gntz1o5bot67dsr/Layla+Aspirants.zip/file",
+      "size_skins": "10.54 MB",
+      "coins": 500
+    },
+    {
+      "title": "Aurora Zodiac : Aquarius",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJka3J4L9oel8FcW2Qjq5puGWF3x2Bb_AiYW_4VveYq89JvsfQBIOGXF8Ekx_fed3hzSr1hMl3Cu0rNCZLdEmZSA0PC1DIMmEggeK1z5ltKl_vYCcDkOdWrDj42ezXiEjdThZ7_oc1YTk1l6fdYHbGaoYUzqzq7V8QYazTyyh4_Jjk6_ZNWLz7HseN/s1600/auro.webp",
+      "url_skins": "xxxzodiak/AuroraZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/utbbz499spxucvp/Aurora_Zodiac.zip/file",
+      "size_skins": "3.06 MB",
+      "coins": 350
+    },
+    {
+      "title": "Badang Zodiac : Leo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWJLYbhytdX092P-hKA9zEAj3CYTTbLbUHt0GVkl6PXprelqrSDsxXASK23LsZ_CoDH5K2TsEfx_X8uEjmsRD73W1hc7mrEtVjXIQjGsGeJay_4OVwCsBdvpDjEmdVzetYTS4YLWdrIStWNfPanuCcx51ZIef-SVMub1xr6sPwe8gWHyX1JyC6IKJH/s1600/leo-zodiac-badang-mobile-legends-ml-wallpaper-2560x1920_27.jpg",
+      "url_skins": "xxxzodiak/BadangZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/8hgjmklimgo04py/Badang+Zodiac+Leo.zip/file",
+      "size_skins": "7.88 MB",
+      "coins": 350
+    },
+    {
+      "title": "Helcurt Zodiac : Scorpio",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwOT7WG5QJuG8jYDryfhypMAJrkpYsWnPWdVyo1fzaRyvrLNoSalZAXosP9Dw_PS3Af9GkTPbRQLC6JHdnUGBN3d4eTBwqykHjV6KnPR7V0p5CEBpC-xnF2zZH-e2KrxaDsaWBFI8_sPp_nwVUtvyn6KTxBAiSlAuX1GcaqdZul2byxnkqmlrPaJOC/s1600/hc.jpg",
+      "url_skins": "xxxzodiak/HelcurtZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/yaru276rzk88qbc/Helcurt+Zodiac.zip/file",
+      "size_skins": "5.56 MB",
+      "coins": 350
+    },
+    {
+      "title": "Hilda Zodiac : Aries",
+      "image": "https://2.bp.blogspot.com/-HWGl8Jn7EgI/XSeoldkVUzI/AAAAAAAAA0E/NyNbXm3R9pEib6i3S-Sxe11vsZnPNhenACKgBGAs/w3840-h2400-c/hilda-aries-skin-mobile-legends-uhdpaper.com-4K-104.jpg",
+      "url_skins": "xxxzodiak/HildaZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/3vbfdci3xw5n7yx/Hilda_Zodiac.zip/file",
+      "size_skins": "7.33 MB",
+      "coins": 350
+    },
+    {
+      "title": "Irithel Zodiac : Sagitarius",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEU3jM16jWYNT28yh6OwZRPBEycUd9xkPWBt5rfGVNlyLDrPMTBKVtwjA1DRBL-n7v4GYQsuSJwJQoQ4SnO2VBhHJsliWxmWLj3qb5nYjTL5QCY-SF2bDolQK-hJxNTNi-yqc6jcrx3UtE8yZkSFib5Vo5gHlKrPNfe9ZVPYKxbyqMi1FRvD23VV10/s1600/irit.webp",
+      "url_skins": "xxxzodiak/IrithelZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/m580elvezz2bcsj/Irithel_Zodiac_Sagitarius.zip/file",
+      "size_skins": "7.06 MB",
+      "coins": 350
+    },
+    {
+      "title": "Karina Zodiac : Gemini",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAgb_A1dmc-ENWbht7oGPNBaeBDzmB7iWAR6nZ4ZxZZ_EFn1oo1M3CBCgjjv2KMUjcFdibzsvwFiaKgEFM-nUKLIDSJwx8ykKm4V063AE33WR6mRjkr2n-AFpBR6FiJTTYZZceqgclqx4t5VX1bZbN7YLmM-7QRu5TnSYQ9jOEREQuP2tr1L_NdmdL/s1600/kar.jpg",
+      "url_skins": "xxxzodiak/KarinaZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/3jasjvpfdswhsfw/Karina_Zodiac_Revamp.zip/file",
+      "size_skins": "4.52 MB",
+      "coins": 350
+    },
+    {
+      "title": "Lancelot Zodiac : Pices",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjASCa7o8WZDJVqnsg3CSFsKbew4bDao6z0vBA0C8EwfEOs-aGkSAHqTciukWOY1HgffYROUbvwEXdTl_uVO4wKN1lB3Nezls5MEI8iswTw-qqWeooaUt3CykTuk0h6qpw3OiVdL2pC5G643YShnj0Q2kPyTSiqwxX411Xqj_8nRLlkb_3C5t1bv4Pd/s1600/pis.jpg",
+      "url_skins": "xxxzodiak/LancelotZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/azrjwbrpiuxlymh/Lancelot_Zodiac_Revamp.zip/file",
+      "size_skins": "4.69 MB",
+      "coins": 350
+    },
+    {
+      "title": "Lunox Zodiac : Libra",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjew_CuRiASgoKwgBvtbtfxQcNVcb7utjG-wnn7edmw7cTU7fm8H4wjv3ut8bYmTtvgfOlYs3nQvJ9OVrn7pMittud9u_20_LvZwuuL9LhrSN6IE7rhDwj2tTm4d7RwizOlgr_G4qkjaJPTDlVPE20BXHW8AfqVYdZR7T6VFpgxl5ke12UI424Gyie8/s1600/lun.webp",
+      "url_skins": "xxxzodiak/LunoxZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/igojf7r8p3evmak/Lunox_Zodiac.zip/file",
+      "size_skins": "6.11 MB",
+      "coins": 350
+    },
+    {
+      "title": "Martis Zodiac : Capricorn",
+      "image": "https://4.bp.blogspot.com/-WO_asF_gHOo/XSelicSSGpI/AAAAAAAAAyc/SWuufqT53IQfSrdAY_rCk0VWJ1sPGoK2wCKgBGAs/w5120-h2880-c/martis-capricorn-skin-mobile-legends-uhdpaper.com-4K-10.jpg",
+      "url_skins": "xxxzodiak/MartisZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/oi3jnf823gs5xcx/Martis+Zodiac.zip/file",
+      "size_skins": "5.76 MB",
+      "coins": 350
+    },
+    {
+      "title": "Minotour Zodiac : Taurus",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhViL-JFOT7aLl_AwCfPlTwVOKbPTMqU5wJG5tI_zVthZmd5GVes39tHKydzLviU10Tb7gy80Ikswvk3ks1iPfyMEkrOw4gfoSo-6sKQwfNo-23ZUd58KqvwohUytb61adqgNEvWp78DliEf2v_Reu5CrGDbsLC0bLacKaYPrHtmoGe9DtKqIe-kZ1R/s1600/mino.jpg",
+      "url_skins": "xxxzodiak/MinotaurZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ttoxgjauj9n97kn/Minotaur+Zodiac.zip/file",
+      "size_skins": "4.36 MB",
+      "coins": 350
+    },
+    {
+      "title": "Odette Zodiac : Virgo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5HQwVaYjPHB7hTbCc3EhzYgVEC4qaaMcC-DvDm6O8c4TUvOiD0EWt1V4uWTQaZSyhiemSd_HGODQKjgDFWPIhgB2KN55H74dwd8zYfBOQR7GglQkeZn0WctxnYRhKvjzljwH4aogleN8zKL96g9JDzBg0ShlA-MdpqonIayq2AN6cNM_qNlIT5OoG/s1600/oet.jpg",
+      "url_skins": "xxxzodiak/OdetteZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/p246dmmszyviawg/Odette+Zodiac+Revamp.zip/file",
+      "size_skins": "4.15 MB",
+      "coins": 350
+    },
+    {
+      "title": "Selena Zodiac : Gemini",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAgb_A1dmc-ENWbht7oGPNBaeBDzmB7iWAR6nZ4ZxZZ_EFn1oo1M3CBCgjjv2KMUjcFdibzsvwFiaKgEFM-nUKLIDSJwx8ykKm4V063AE33WR6mRjkr2n-AFpBR6FiJTTYZZceqgclqx4t5VX1bZbN7YLmM-7QRu5TnSYQ9jOEREQuP2tr1L_NdmdL/s1600/kar.jpg",
+      "url_skins": "xxxzodiak/SelenaZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ii5jqmyypmek91n/Selena+Zodiac.zip/file",
+      "size_skins": "8.03 MB",
+      "coins": 350
+    },
+    {
+      "title": "Zask Zodiac : Cancer",
+      "image": "https://3.bp.blogspot.com/-oEvDbuwe_t8/XSelibzPuoI/AAAAAAAAAyc/wsyshba5xTEfIZXP4B1bXHn01ctvRNy3gCKgBGAs/w3840-h2400-c/zhask-cancer-skin-mobile-legends-uhdpaper.com-4K-32.jpg",
+      "url_skins": "xxxzodiak/ZhaskZodiac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/gg19anwvmsb9he3/Zhask+Zodiac.zip/file",
+      "size_skins": "20.84 MB",
+      "coins": 350
+    },
+    {
+      "title": "Alucard Legend : Obsidian Blade",
+      "image": "https://3.bp.blogspot.com/-YFnxCT1vyBE/XSeliSfsTFI/AAAAAAAAAyc/C5SWhVeHDhwrmaB6tJVAO6O-dI5fQ3n6QCKgBGAs/w5120-h2160-c/alucard-obsidian-blade-skin-mobile-legends-uhdpaper.com-4K-39.jpg",
+      "url_skins": "xxxlengend/AlucardLegend.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7c8j2h4tvkwf3s2/Alucard+Legend.zip/file",
+      "size_skins": "8.54 MB",
+      "coins": 450
+    },
+    {
+      "title": "Gord Legend : The Conqueror",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvVtq-nof7wmv9XUYgVXPhqNEceQGuxEkciNHkzcacyNiMtOAQf9rc1zJ3DbZqksT9tE9FJ_hCtJhgh91Stnmx5qNwJD7o43tn2NUypbm_DZZO5VURsLfHHItk_wGLFrVaR_Oa1eGZPVWWBotWkE8Hx5FrackMhUgLKhh1zjZqNfaxmSvdzBZhdfeD/s1600/gord.webp",
+      "url_skins": "xxxlengend/GordLegend.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6h97ek0m4f60hgf/Gord+Legend.zip/file",
+      "size_skins": "11.46 MB",
+      "coins": 450
+    },
+    {
+      "title": "Granger Legend : Starfall Knight",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxp3T-MHRcqoVJizQkaC-TvJR-t_wpORW8WF96l4yL2gGI1N8k_vfph3-oupaV-G-6ChkUdaekOkY3Cx4iy1UVxLdh1gYcr2qPthNgNpawE8UMfiI0Jy1mmFtTt4l-jobdx0-qKeGQ8yj2b6bXAoYsNp1GS2OXle4vU2c0PXakPN17UDwCW5B8Uufa/s1600/granger.jpg",
+      "url_skins": "xxxlengend/GrangerLegend.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/yvzcpadgmhmnzz0/Granger+Legend.zip/file",
+      "size_skins": "18.01 MB",
+      "coins": 450
+    },
+    {
+      "title": "Guinevere Legend : Psion of Tomorrow",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlNzsowuuMEaQ2S169o9-GKtrPGTJM1gB5UsMbQwDMI1vaUZH6vOypKhGJtT1nPS79-5R7drdhbs2R-pYfNKoRxa0zJGYDL3lIW1P-8JlIv9Slu1BIUPuvy-7ODMuW0Up75RbU493APKoHOM5ZcU4SY8wibhP-YW1V2WG1DFvGKoGWGXQtYuRwWAkV/s1600/guin.jpg",
+      "url_skins": "xxxlengend/GuinevereLegend.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/02ciu6eo5xunf3j/Guinevere+Psion+Tomorrow.zip/file",
+      "size_skins": "18.52 MB",
+      "coins": 450
+    },
+    {
+      "title": "Gusion Legend : Cosmic Gleam",
+      "image": "https://4.bp.blogspot.com/-YmtOQVXnHuM/Xsq7i4bwyeI/AAAAAAAAY7s/268RP9S79XUHe0c9hyT08NI6vtdw4Wu-QCLcBGAsYHQ/w919/gusion-cosmic-gleam-mobile-legends-skin-uhdpaper.com-4K-5.1960-wp.thumbnail.jpg",
+      "url_skins": "xxxlengend/GusionLegend.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/va647ws2us22uqv/Gusion_Legend.zip/file",
+      "size_skins": "8.17 MB",
+      "coins": 450
+    },
+    {
+      "title": "Miya Legend : Modena Butterfly",
+      "image": "https://1.bp.blogspot.com/-mrOeMfVMjt4/YKUfe1XWMKI/AAAAAAAAIRY/k6xGyMIaK8MEMsx-jMU0qAXhJLQb-6HRACPcBGAsYHg/w919/miya-modena-butterfly-legend-skin-mobile-legends-4k-uhdpaper.com-171.1_a-thumbnail.jpg",
+      "url_skins": "xxxlengend/MiyaLegend.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ktrclfd9hmb8qeh/Miya_Legend.zip/file",
+      "size_skins": "11.25 MB",
+      "coins": 450
+    },
+    {
+      "title": "Lesley Legend : Angelic Agent",
+      "image": "https://2.bp.blogspot.com/-ZVdbYBWO_GU/XcALoc2eWhI/AAAAAAAAQws/4HH4yjLZc5MHEfPJfTGomJOF_z1cRsBNACLcBGAsYHQ/w919/lesley-angelic-agent-skin-mobile-legends-uhdpaper.com-4K-7.298-wp.thumbnail.jpg",
+      "url_skins": "xxxlengend/LesleyLegend.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9x3fabf9bt16uo3/Lesley+Angelic+Agent.zip/file",
+      "size_skins": "9.22 MB",
+      "coins": 450
+    },
+    {
+      "title": "Saber Legend : Codename Storm",
+      "image": "https://1.bp.blogspot.com/-0TT-6Jvu-Bk/XSeliVeMa9I/AAAAAAAAAyc/a8MpJUfI-TIECCEnhv37ZNRj9XjQX3SWACKgBGAs/w0/saber-codename-storm-skin-mobile-legends-uhdpaper.com-4K-21.jpg",
+      "url_skins": "xxxlengend/SaberLegend.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9qaoa0o98owk1ds/Saber_Legend.zip/file",
+      "size_skins": "5.9 MB",
+      "coins": 450
+    },
+    {
+      "title": "Valir Legend : Infernal Blaze",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5VeUMZT0qFJRFiypXBipMcChfr_hTikh3Vy5vwB-LTMcT90rt7A5EPxi1xjPmuXbwqz2LtSY-HzPuxFCoTlnoigk3d35nzNnSGUNtueYVdsaEST9JHzUj6ZsCYO4Bbv5FNN9VLZ1TJiXVKjK-zZsGbTTPLZfoExlFeghDKYFcu6f1IDCSFqpBs7q/s1600/valir.jpg",
+      "url_skins": "xxxlengend/ValirLegend.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/htpzaikrcz72rsr/Valir_Legend.zip/file",
+      "size_skins": "13 MB",
+      "coins": 450
+    },
+    {
+      "title": "Aurora Lunar : Foxy Lady",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6hIksS-Lhz9RZGVDsglsvfL45FSswf9bIV-nqHfw7Z4mwYM6x4hyLvPmtMNrqdK3ajISfgM2kTJIwgQsqDSmoG8ATPaS2A6x-AhNlRA1Yb5FeoPq_MJ7n0nPZlZsDjjZyASL0Y1f8q6o2hQwd9mGrTn7Mr7aWzqyHrMUHeo75ASIW6vTIvXjR6R3/s1600/auro.jpg",
+      "url_skins": "xxxlunar/AuroraLunar.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/q9udcylev2j9qny/Aurora+Lunar+Revamp.zip/file",
+      "size_skins": "9.72 MB",
+      "coins": 350
+    },
+    {
+      "title": "Lolita Lunar : Lion Dance",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDNZnBECqL6olV3ELMXqfKROTNM_FCCxpyue3fh4oignk408tFm6OxkUo1aLRP2whNeD65SRBcRlXJLE42Cmc700COZEt-OrW3kui9pGnBxDy39rCStTdu5K3KP_tqa3A0sF7MYHFNt4JgoL__iL_iGw6lTShJMET3USPenVpmAXxsLjxqwmfCtJh8/s1600/lol.jpg",
+      "url_skins": "xxxlunar/LolitaLunar.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/1fzwlmsotnhn7ka/L0lita_Lunar_Fest_Revamp.zip/file",
+      "size_skins": "3.32 MB",
+      "coins": 350
+    },
+    {
+      "title": "Luo Yi Lunar : Dawning Fortune",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguY44TdiiDSukbsRgS8As4Pak426tu62YgGY8vvLCjyDNxEpqkO82x4rHp55CZE1pzE7LFdX4qvAosgB2TrVK1DcKARJ0lMYU98B01R2aqyNB1t6pax7R_AeABfkBqpU53EfUHAgauKS0vzy7vfghzG6TknZUsp8F1qWdbGCR8-QVWtrRzdyPo7Zt2/s1600/luo.jpg",
+      "url_skins": "xxxlunar/LuoyiLunar.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/jc5pt30k4bbkblv/Luoyi+Lunar+Fest+Revamp.zip/file",
+      "size_skins": "8.04 MB",
+      "coins": 350
+    },
+    {
+      "title": "Odette Lunar : Auspicious Charm",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVlpNEkuWaX_UEEwpaxEU70urOCyQphrx99bbYgjnkgV-ajhCnOjSFpjCFh-OI_lEfRvZzGMuSfVO46ISDe6RgzUUoWaE4Vcr2YcaOXh5-Ubo0MMcD_uSueZCV2_zy9anpXlgI1YRR8ST9vLpubh_yjUMiFvNGu55ZO2pDoAZVJyB0uPdoXCaKBPu8/s1600/odet.jpg",
+      "url_skins": "xxxlunar/OdetteLunar.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ayrtdf6lxws7lgc/Odette+Lunar+Fest+Revamp.zip/file",
+      "size_skins": "6.03 MB",
+      "coins": 350
+    },
+    {
+      "title": "Sun Lunar : Spring Blessings",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRKqo1DSVBDitW1nkS1y54v4jG74F6gaVEwySayfV8JDAYjov-Pqh9SScpJ6AkqgmQdXngbGkYqsmierfAS9mVNEz5Ve5KhaX2hgypoE4Gly1dZ-DfhL4RKfR50wGKjOxlz8g6RiGkBASVG0URMb8wlU8p0LA7pwCm1oP7KHptRgWDHHaU8IUcWqIS/s1600/sun.webp",
+      "url_skins": "xxxlunar/SunLunar.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7xl6ts0ld4zde2x/Sun+Lunar+Fest.zip/file",
+      "size_skins": "8.13 MB",
+      "coins": 350
+    },
+    {
+      "title": "Alpha Abss : General Void",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAnz5FAScD78XCic89aZorRey67DybNQ5NEVMkHc84o0KxXYu-JPpjQlZS8MQ0KCvTpfYxE2l8FlyTC9Tl7u_CMo0yHjLFQKl-I4-fliSze2ZghJr5iKmgJ91PgT8FyUZq8iSvNYmsIxa9CTmUS5h0muPGUDmomcTov_r_w3eCbveO5t4H5Q4OjExT/s1600/alpha.webp",
+      "url_skins": "xxxabs/AlphaAbyss.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/k40nshe1nsod0kw/Alpha+Abyss.zip/file",
+      "size_skins": "13.24 MB",
+      "coins": 500
+    },
+    {
+      "title": "Moskow Abss : Doom Incarnate",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizwro4geh5TVfz2zKGrG9pxarMcfk7mtGzvx5SAN0PoSfnz066RrHiDQ43GxHNzM00l8w2yCFXIjnJ2Wm72mFdRKUbVUzyiTfqBBR7go_fNehqP-HxxMGTqWOwbLoJAR0lyXxOsFL5_4-oye3IGNyr-h7AASl5vJl6UAkW-KHD3KhPOw8DKCESA7Ke/s1600/moskop.jpg",
+      "url_skins": "xxxabs/MoskovAbyss.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/x2wtczoii83fe55/Moskov_Abyss_Doom_Incarnate.zip/file",
+      "size_skins": "15.63 MB",
+      "coins": 500
+    },
+    {
+      "title": "Selena Abss : Lady Vengeance",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyjKc38Z84PKvDXPfe80EcNtFVQcC5-w5GG82U-Hare0McfJV6J2AD_ujEKs7fx31Iu85ZBQDETeTkcdoDGuX7w28-hPOh7aur09-sdm2Lem-cw26SryVr6HGa_ryqnZpFwHfW4VkABNKvsDCZ6PPbfSHtVbcvU4Jmqh8pgxHtMBx4USwE_SCzSusw/s1600/sel.jpg",
+      "url_skins": "xxxabs/SelenaAbyss.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7u1a393a2uz3hvl/Selena+Abyss.zip/file",
+      "size_skins": "20.21 MB",
+      "coins": 500
+    },
+    {
+      "title": "Angela Sanrio : Hello Kitty",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiELmf4mt8IyqgIuSyLolbnRFMgEjKIDs9PABMfH_KfXn8yv-zWUmwx1QRzI2PUgyIamRk7Ob6ChVLWbiPn4WIVLlgiik4YDMaDg6vC5Yv1klcZjW3pucDD9tHBzqpI7CXzliA05fIr3ABVjb1Q4FnToN6LB0fpbtCPlLxaz-YfxGX48RYznlNxKW0B/s1600/angel.jpg",
+      "url_skins": "xxxsanrio/AngelaSanrio.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0l12l5ck8xobjlo/Angela+Sanrio+Hellokitty.zip/file",
+      "size_skins": "18.23 MB",
+      "coins": 500
+    },
+    {
+      "title": "Change Sanrio : Pompompurin",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjclZnrf6euWOLNNzfHa4ykUjWJXNPx_VCjk_1bnXvNkq5qi_jDfBcLVREUDyX71HyExo7Ke7EY0BgURNhGtWXEP2vgL9SByvnDYewIBJtcUwLasTSX9NqvRnJmM47PetRfO90wdWFsUsGv9ASvqHsqzr2A4DUPP23mVnVWwdtsQiSDSAsBAA_8zNpS/s1600/change.webp",
+      "url_skins": "xxxsanrio/ChangeSanrio.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/q09rb2yy8016y8t/Change_Sanrio.zip/file",
+      "size_skins": "17.95 MB",
+      "coins": 500
+    },
+    {
+      "title": "Claude Sanrio : Badz Badtz-Maru",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbN7VGP0X5GaoEgPGxjrE_iCVU-EMY2Zdif1Gu9UsaApwVLlN0b9X283yXitBLawC5Rnddtxo6b0QAVYV00COMjWqclchsMZUQppVHumakO67euInROdId-eHPDGeINpjZK5gtc1Q85NbB3grnYGyBiAjnCZumyCgS8J94qa-PZ-5fO-ejL1dZV4wY/s1600/claut.jpg",
+      "url_skins": "xxxsanrio/ClaudeSanrio.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7xm97b2ys4z5gk3/Claude+Sanrio.zip/file",
+      "size_skins": "15.61 MB",
+      "coins": 500
+    },
+    {
+      "title": "Mathilda MPL : Dream Groove",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXWqunFGXvU9v_rER6SidnsPLOUB3NBz2Ki9wPi3IP4b4hjktwO6QEPoIelEi1wA1s7ctfUkUrJfJt1ASTOkfRIIqVfS_81ZNLFsPtKqaI3J2sNUvERAkooRbfrnoA3cLldUosiI0SBwl4rU9ee3OZ0ny_m-Y220iWkSB8oc0KN6HY8IKluLgDPYvy/s1600/math.png",
+      "url_skins": "xxxmpl/MathildaMPL.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/rj4mnokyyjc8zki/Mathilda+MPL.zip/file",
+      "size_skins": "7 MB",
+      "coins": 350
+    },
+    {
+      "title": "Wan Wan MPL : e-Girl",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9SVfxNumKjwmdUzLdBhxm8edYMRSqkKpxLtPfoa6035Q1uJWLMa2Xxrp2ANIH36rN05txA0PTHD4JlWxUuJD410zjkYonFNRKRar6PiQXsu-r6Y6AF4bisdFNUXKObwyVB3pnqQuP1VpszNQFbVB4MrDhT0d1mAeQ4EbIqan0MHfAevfm4pft_RhC/s1600/wan.jpg",
+      "url_skins": "xxxmpl/WanwanMPL.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/jl8dajfvz3d5zcj/Wanwan+Special.zip/file",
+      "size_skins": "4.72 MB",
+      "coins": 350
+    },
+    {
+      "title": "Ling MWorld : M-World Ling",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHTM0b4FMGbSicizp7nBZ6dMXnWV3G_1_9OGXaJ5PzXVOYkaPfDiCKhvkfTLHZi0ijt2rp6yx5qzbEpBXPBTVDVLNj81gNO8ZdH7fP11KvZxk7SNk0dcsoZ8sPvHuRQ7ftUgxmfolGnA3hmryo5JHboq17b7ga-aMjz8sxfWYO405Xw-7QDPpj8T7/s1600/mling.jpg",
+      "url_skins": "xxxmworld/LingMWorld.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tec5hivlps4ugy0/Ling_MWorld.zip/file",
+      "size_skins": "19.37 MB",
+      "coins": 400
+    },
+    {
+      "title": "Wan Wan MWorld : M-World Wanwan",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimIQAZ_s08q2r78kcfTV87vcUIuqPqPcJS5KKV53LhNdVfsSCp6gjniaDDtNZnTCcVR3UWhvoEniKciRlvzxov54HavFPWyXd_rBQGXU_wQiTTph64fz6Ec_kyDNIbfqH5doIOoEMku9kQ6FHnPA9LMZe8-jjD8MM1ACFq1o7hO02xDr76xW5udCs7/s1600/wanl.jpg",
+      "url_skins": "xxxmworld/WanwanMWorld.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qpy8biy57gsg04a/Wanwan+515+M+World.zip/file",
+      "size_skins": "6.8 MB",
+      "coins": 400
+    },
+    {
+      "title": "Yin MWorld : M-World Yin",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVC1hDM32CPeZQprPyD0tfIRCc8Hl-RhjfsPcnGBX9I8ViVKVQewhLMBUD5qJwQ0n0eMzXKmmcLrdTT9EHrTxCHpd9VslvjDeReWaRFBY0NbWmuCtv1W-5zC2GCxB5QFjhzXf14wU3k-3JaO4NeYnBNpwTnEWHj2AWpiHyGe-eSX4pK2nVdsp5BH8c/s1600/yinl.jpg",
+      "url_skins": "xxxmworld/YinMWorld.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mllcxv8yj3fxc4t/Yin+515+M+World.zip/file",
+      "size_skins": "16.2 MB",
+      "coins": 400
+    },
+    {
+      "title": "Kimmy Starlight : Bio Frontier",
+      "image": "https://3.bp.blogspot.com/-4BhgTWwxWDQ/XSeolafyc5I/AAAAAAAAA0E/tl5G3pGBVKUknTlgkIXUtrU_WqVUVTsjQCKgBGAs/w0/kimmy-bio-frontier-skin-mobile-legends-uhdpaper.com-4K-119.jpg",
+      "url_skins": "xxxstarlight/KimmyStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/siw00q1s2ilftfb/Kimmy_Starlight.zip/file",
+      "size_skins": "3.26 MB",
+      "coins": 350
+    },
+    {
+      "title": "Akai Starlight : Akazonae Samurai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXJjjc7wrAPralELMkKsG8IgbuS3A7Ahe4O7gdgdIoJGcFrxdziXBw7mjlKWoJ_wcSdJ7AAhSgJfgcP-Dp-JYPoQy5cqmflgrMxEmg-pVqiIUUDytisRHCE-RCnBink09jU3oECSzfsPfBHs2xhg2bqDz-wE5cszRdkJfFZpVRBFXEhz1GnuLLdxcL/s1600/akai.jpg",
+      "url_skins": "xxxstarlight/AkaiStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6y620dglrqhxkms/Akai+Starlight+Revamp.zip/file",
+      "size_skins": "7.46 MB",
+      "coins": 350
+    },
+    {
+      "title": "Aldus Starlight : The Insentient",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSGvIJkQiZ-LsS4GA6G5T7vpmjgKh7s3vWUuOvg2tkyIYXTpUPZtHOHhP5UvdFfC8MNw6sXerfuxmPIkcJwPdA8QH7QLV4_S7ZI9m4f9twGa9UqqcGn4aovVKlWek5urcBRobLoi9I5bxg1daEQQRo3fhPI7r-kTVQu7HFzjzyGcIiezpwWoTu4Wih/s1600/alds.jpg",
+      "url_skins": "xxxstarlight/AldousStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/1nh74h0zz1bcdc2/Aldous+Insentien+Starlight.zip/file",
+      "size_skins": "2.46 MB",
+      "coins": 350
+    },
+    {
+      "title": "Alice Starlight : Steam Glider",
+      "image": "https://2.bp.blogspot.com/-K3KSP1mJOaM/XSelibgNHCI/AAAAAAAAAyc/leN2_uEMJGI9ypowIfGC9bmRIFZ-SLwAQCKgBGAs/w3440-h1440-c/alice-steam-glider-skin-mobile-legends-uhdpaper.com-4K-35.jpg",
+      "url_skins": "xxxstarlight/AliceStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/b8nrgw9755i6g64/Alice+Starlight.zip/file",
+      "size_skins": "3.25 MB",
+      "coins": 350
+    },
+    {
+      "title": "Alucard Starlight : Viscount",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh51n8Gq92ligdzTFoIigEU68bs67Wwidroz3n63o1iNiM5GbPOJULUOi4c0sXdzJXheGN6mmVjZqX_3HCljfri7WkNxpyI6GcU3A4IVnNIr7Wp5vRHNZ4ygPWP8FcbR8DodoRYl8cc2lxxLr7oqKt8Jci2Ks69r7voMAWzbeOfoGlchHBVyXffOSqE/s1600/aluc.jpg",
+      "url_skins": "xxxstarlight/AlucardStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dkjawdbq85689zh/Alucard+Starlight.zip/file",
+      "size_skins": "6.33 MB",
+      "coins": 350
+    },
+    {
+      "title": "Angela Starlight : Shanghai Maiden",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfz9pDREx4HjnbMVFThMFq4c5un9_vyRNt1IadzLPyOehhLW62m4K5saTWBGSOG0LeBBBShu3LKnqMQ6J4zWLnqK2TW3dfZpvah-MvjhPu8RsrsQqM3Lb-FD1jN9h_MwKqYXqg4atv_q9QHxGjS8pxXyHvW5WDV2az9Uj4ub8mk6EmAUd9SbTW182-/s1600/agel.png",
+      "url_skins": "xxxstarlight/AngelaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/350abehkl9jhscx/Angela_Shanghai_Maiden.zip/file",
+      "size_skins": "4.36 MB",
+      "coins": 350
+    },
+    {
+      "title": "Argus Starlight : Dark Draconic",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdnj7OTmZj_AE-c0xPlfimo96p4a48fRCjld3iA5Trhj3uxJX-Y3p5iQjsHB-LFdrkax-G42KUjxuw9XSMDM6qmYZ4U9B4uWz2X0vatMzIRxi7qZHgEYbVQufeNyevoCApyoaSo3uk2ud21xr3PtzcgXVzUu_EMrYC3tvUuwBTamr5VaTXPekhd-dZ/s1600/gus.webp",
+      "url_skins": "xxxstarlight/ArgusStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tu93f6n28tafdzy/Argus_Starlight.zip/file",
+      "size_skins": "8.2 MB",
+      "coins": 350
+    },
+    {
+      "title": "Arora Starlight : Heartbreak Empress",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCNnrrccgCp_wuI5wEbZlD18LRbV-9hjGKXr5pURKMZtRz5UAcPdbUZyzzUEs2vnR4gF26a84ZjyeuCEu8SZrd2X3f6Z-cT9eVTtwwL68bCBe7CqN5MyGRau84f8Mn5qnqoS6HxpLNDBledY1p3YsFPoyx7p_o1HdzRnAODH0gn3BaCdYykYGxen0h/s1600/aur.jpg",
+      "url_skins": "xxxstarlight/AuroraStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/z822vcdp3rit2w3/Aurora+Heartbreak+Starlight.zip/file",
+      "size_skins": "2.57 MB",
+      "coins": 350
+    },
+    {
+      "title": "Balmond Starlight : Bioroid",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ25QxdE1Hhf5H5-CxxkWU8bdk6AkJsPmEO8k3wUgx6pxQ2zgb6tUypIq6D0XZzPm0g6WK-bvGrPuB1vM_p4gBqSz_tfVlWZidJal7KwghjCXeT4C313BN7hVr-u-W7m5uPbeC4j1jtC-sIi987ortl94tVjLhLDSbM3HX85yTURVSYr7_iUoOyn4P/s1600/bal.webp",
+      "url_skins": "xxxstarlight/BalmondStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tzhzvc6y6215a2y/Balmond_Starlight.zip/file",
+      "size_skins": "12.86 MB",
+      "coins": 350
+    },
+    {
+      "title": "Beatrix Starlight : Dawnbreak Soldier",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3i4r_28vAozsaaObKzq75Ox5oGZYyoCSysF0r_Ubz5LRsayKLOHFIedEqcBmYMkh5v1MNXYgYGZsqlHYKTl19ehQJbrB39mHrfC-AxXWBhlH4WF5ETO1aHWFYvAqAJCrNz4pl-fgiFrnta6RXj_8xOLAZ3KSra1jSIT2KkqIrp7SO0deAVupsdZw2/s1600/be.jpg",
+      "url_skins": "xxxstarlight/BeatrixStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/847r0f7o01y8s64/Beatrix+Starlight.zip/file",
+      "size_skins": "13.12 MB",
+      "coins": 350
+    },
+    {
+      "title": "Benedetta Starlight : Street Blow",
+      "image": "https://1.bp.blogspot.com/-z-RlulBJa9o/X-nsgH8pNNI/AAAAAAAAGPY/zlQoYhpkDDU737B8z2xaLdKm3M71G4cpACPcBGAsYHg/w919/benedetta-street-blow-mobile-legends-starlight-skin-uhdpaper.com-4K-8.2574-wp.thumbnail.jpg",
+      "url_skins": "xxxstarlight/BenedettaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/zw1br75bt3eycde/Benedetta_Starlight.zip/file",
+      "size_skins": "8.73 MB",
+      "coins": 350
+    },
+    {
+      "title": "Brody Starlight : Lethal Fang",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLflIq85tN_mfLqDvJvaz83RIMqSIWiQickwMof8RVsZlm3MM-PPK_hMUxYVPYt_sTTZYoHDAUzRFopSMzULxS_l7IRqRKCk6oI0wKW1dhbbmUl_HNRxzSosusS18MYsJ6ehCThJ8rWQZkzXhn5LfLG-bHePLeCYKGiLFqAtL3rdw7uDnVGl9X1o1z/s1600/brot.jpg",
+      "url_skins": "xxxstarlight/BrodyStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/k8fkzxgqynggxbh/Brody+Starlight+Revamp.zip/file",
+      "size_skins": "5.48 MB",
+      "coins": 350
+    },
+    {
+      "title": "Cecilion Starlight : Stargazer",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQEr9IhpK0NotCMEbaFsqL9FiWVZZGlbIa2vm2tJA_ZtH7yR08ZtFTEpiGARJORgXpZ7ZIZuJA_fF9NFV6jEgzHtEznoXK2h9CNs8fXOlGwCQn1C6RtR1Fu_9I-JJxD7_9XXNFI9FEfts4zjnr34VxjVBJIDCdbZ66z4EMJPyDsZWZcqK9vfh7nxse/s1600/ses.jpg",
+      "url_skins": "xxxstarlight/CecilionStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2z0kygmco5dgpcz/Cecilion+Starlight.zip/file",
+      "size_skins": "7.65 MB",
+      "coins": 350
+    },
+    {
+      "title": "Change Starlight : Straberry Parfait",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIF8naFYfsQB8K3dLqHaUZiFoZHNS_BSOo-8kmr6QQKPyXddNjph6185l3P4vRWCv5hL4llHCg-o1dQZXs7Qs3rhAKPBqTmJNV-Wlw1jhWy5XxBYkoBfHL-dDJ3V6N99wshIawGon5i5XyNJloQEf_BMyt5Hf-Zg8_Z0XgdIlsTM02XGHPYoHWji7/s1600/cah.jpg",
+      "url_skins": "xxxstarlight/ChangeStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/550c3r2hjfex7sy/Change_Strawberry_Starlight.zip/file",
+      "size_skins": "4.33 MB",
+      "coins": 350
+    },
+    {
+      "title": "Chou Starlight : Go Ballistic",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1N9uMX7JfI-66d4hhAZO9pL0QS5tzcFFHDZjgtseRJ-NKtmU0gQUciX4whJh5uVEJZL4KRn8AL8_fDzu4eDjKCM2e3tgrChQzRXAmaCygbAKJIFJKg4Q5FonlvjzoZ-FUVnI7QcKiwOYmKZRrw0iVgpJgNMwf67-68ujCMBsH2sOF8i4drY2890pV/s1600/cou.png",
+      "url_skins": "xxxstarlight/ChouStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kbrd2tcot4muar8/Chou+Starlight.zip/file",
+      "size_skins": "8.41 MB",
+      "coins": 350
+    },
+    {
+      "title": "Claude Starlight : Plunderous Pirate",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW_HF20v0TwyADwA8ckTxUq205QU2e2_2_V_QrQ3DBDeb1KdsM6NqkTnc9cRS-F2LuLGQ5ZwRgkH8IJN-9o3AL2pFZ92EZnKZI0WNsAmEak2pEaBRzb-kmZWzJHQXSf4MgHCQXZZx3qqP2wBAqR-4tZbf4u8QTDgDS0lKQeKxt5SCB822BzYsoPHAd/s1600/klot.jpg",
+      "url_skins": "xxxstarlight/ClaudeStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/v9pje8icn4a2g6t/Claude_Starlight.zip/file",
+      "size_skins": "4.75 MB",
+      "coins": 350
+    },
+    {
+      "title": "Clint Starlight : Full Metal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLHJcGdc92S-4H5WzG3dZHUHrFXloohuDi7gmHbkrkVrBtRi3foTyCwMzEyfgv7R7XOyzQbSi-59wj_DbYAuffOurASV5-vXTH5fcJTLMb_68ZY-uA5_V575w2amn014GaA6igUqhDEhXi5GIbP9coj7PiV4Crmowj07MYkbMVyYowVfWYLUbuWm8O/s1600/klin.jpg",
+      "url_skins": "xxxstarlight/ClintStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/vconqtb7j2gzfaw/Clint+Starlight.zip/file",
+      "size_skins": "2.36 MB",
+      "coins": 350
+    },
+    {
+      "title": "Clint Starlight : Operator CL",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiue5bWzoJyRa-3JT6Q1STRM4bCOGZOq1nY9uzPg9GegmvTOg1GddCmxlnRDsxPiuK7cm7TuJFN_SIoKWkpwNjVKVFlnvRAdXu6hAd2lpYORaYPuFxrwqW7ZO6jFVk2B6YQp42crm3ozXjTk87N7upsCPHodCiuY_l9Uh5fWhLzSzxdM3ixSffH5xvj/s1600/kin.jpg",
+      "url_skins": "xxxstarlight/ClintStarlightCL.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/er7ho4s2wacqwnm/Clint_Starlight_Operator_CL.zip/file",
+      "size_skins": "6.32 MB",
+      "coins": 350
+    },
+    {
+      "title": "Dyroth Starlight : Ruin Scavenger",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKsCZvvOiaingPye-YiPAos92SnX-IUvFpEN-IDbq6ILhFbmdw8YILt704JLJiPfgN1S6TZpg6Iq9QfDa3mnECvFGe3Xl0UXKP56hhDm2dqOEkKUORlMdkGjXlybvkyPaQY6iOHXJGrsacYY0YT799Yt-BAxPATFIXiWr7xYfNSHU-DQBd2ErLH90m/s1600/dir.jpg",
+      "url_skins": "xxxstarlight/DyrothStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2dli4ji92h3fbpf/Dyroth_Starlight.zip/file",
+      "size_skins": "4.04 MB",
+      "coins": 350
+    },
+    {
+      "title": "Esmeralda Starlight : Cleopatra",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWl8lOIxAdlUpH4ZyU1ucBnAOvQgQNqsiKosqKkrtPtO7ss0ZsKaBciKE9ERe-Kwp9azGfavItubYoh9bon7uT9Os3wUCe4X3w447rUhwTZMk9eY4pZQbpLWFVCGlxQ2smppH0oHKq06Qc14cTdjF5tPJHKgmR2Oy586jGUaaItTtSS-2qzUxipYnK/s1600/esme.jpg",
+      "url_skins": "xxxstarlight/EsmeraldaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/s2jti1thsgups63/Esmeralda+Starlight.zip/file",
+      "size_skins": "3.99 MB",
+      "coins": 350
+    },
+    {
+      "title": "Franco Starlight : Apocalypse",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjMmBnC6bzeXzpdf1CcLf4BV_Z3IR7ca-DixAwVJ0dkkEbYY8fN1ZILFrvGiAQwrB0OGQnJhnPzwfaphm0u7Eim8GptGDsD-Q2Cqtl01mcIjoEEW240RqYjsMKe1LZzbNcMOKH_Pr8hlvYSHxJTA8mnit0olagtb7MydN11hdJMlDH2VYwnVREeIi/s1600/papi.webp",
+      "url_skins": "xxxstarlight/FrancoStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kipw0epm88fel9k/Franco_Starlight.zip/file",
+      "size_skins": "2.94 MB",
+      "coins": 350
+    },
+    {
+      "title": "Freya Starlight : Monster Hunter",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPcaR1Qifbq-pNGIlNRrN5F1AJEjpJBWwF_XVkPTf-lyg7EG9KwRCrMvucmJUn4fUHNYsFgchGQ4fkfBjosdCFeW6rjhIMj7LcC_8VgcjcdT54eT8JsJfjc0Yyw2B_fKk3yp7tne37K4hL7zfLn6Labk3r6PKTrUBPH0Uf_gsMHXATLuedX8GEFCVb/s1600/pre.webp",
+      "url_skins": "xxxstarlight/FreyaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/wfp96bsoi4akk8m/Freya_Starlight.zip/file",
+      "size_skins": "4.23 MB",
+      "coins": 350
+    },
+    {
+      "title": "Granger Starlight : Biosoldier",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXBDQTQOnTiYT2AOV453e58hbHbUmDgoweUVpiloJtj4bUi4KZFXtJTWY24BnXKHyukhbfBsN0y8Bghru9PNXKxBsJ3qLNzN5lH_MmcV7HVx-qn1DkM8asGG19fndxiL2SGGeSy-CbTahcLTTFQZxFsoryD_LRrNKBczCGNLkRM92OWFlkyxCKiKUJ/s1600/gg.jpg",
+      "url_skins": "xxxstarlight/GrangerStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/h9h4w69wn98f5m8/Granger+Starlight.zip/file",
+      "size_skins": "4.96 MB",
+      "coins": 350
+    },
+    {
+      "title": "Grock Starlight : Iceland Golem",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_cwnn1Un1eFRqvTJjeoCeb3QGYRfjGKwGUX9mCkQS-cJshP974ErT4Xu3OtTMAzHFjyiAkRwMU2jDnIswobn5HacQsPcOcCyqiByC0v-6fwzU2X7HH15kWk5Wq0Sx0nuJOr-0ISXfFlR8r7haESy6wnGh-gqcPRiYwWvKmZnfLLchRMF9UXO1tRq/s1600/gc.jpg",
+      "url_skins": "xxxstarlight/GrockStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5pojv4dz7k3eebi/Grock_Starlight.zip/file",
+      "size_skins": "7.68 MB",
+      "coins": 350
+    },
+    {
+      "title": "Guinevere Starlight : Lotus",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisZd1FXZQkKVLxFrExNkaBlO-2B366AeANZxLroqFbzmqkJbZAFMH4d92PpvCqKYJcyrQ0qsp6MtoPkPaCXoKUMbLVzCVo-9KT3Dd4jBjRAs6Orrvars-uihSl6g5A1L6bTVhQ_YzBEgxwD5hAzoHRsJlE8A3ybl16TZS6tC0ZGasydIJU5OGU1lvU/s1600/lot.jpg",
+      "url_skins": "xxxstarlight/GuinevereStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/c9puba6s8fcnr8r/Guinevere+Starlight.zip/file",
+      "size_skins": "5.44 MB",
+      "coins": 350
+    },
+    {
+      "title": "Gusion Starlight : Cyber Ops",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rT9Zj1hJa1Gl60NBc1axURysX7E-kB1-WAcuLa9DlX7jQnRwqS5L1xhRvt29TCVfXGARNXN0NjD73KgOBx7VSYvCibfVlp1WDAng1Z3TezYCEXjwg-1mLpKgAFLu5m3KkCLtfLwsPJ3HUuhmZZdy3lfV_p91EIgcF22Gz_agn5mF8opAvrSDgTtt/s1600/sip.jpg",
+      "url_skins": "xxxstarlight/GusionStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/87q5gjozsjt4i69/Gusion+Starlight.zip/file",
+      "size_skins": "4.03 MB",
+      "coins": 350
+    },
+    {
+      "title": "Hanabi  Starlight : Fiery Moth",
+      "image": "https://1.bp.blogspot.com/-nkV486zeqZk/XJ7FF686OqI/AAAAAAAABNM/uiPUjt93fdESlRV_tnEX1xwMpgsEgLxZQCLcBGAs/s640/Hanabi-starlight-skin-fiery-moth.jpg",
+      "url_skins": "xxxstarlight/HanabiStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kff73ofaehaq2kw/Hanabi_Starlight.zip/file",
+      "size_skins": "2.96 MB",
+      "coins": 350
+    },
+    {
+      "title": "Harley  Starlight : Royal Magister",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPBudpLnUsuDIJvVgNGPFE7LANosp09GnbcdwxPxIAEQ_q1qtEINmcafdgWumz03P4VqAy3PdoJ0ART0r6KMdJNivRomwNnO-pGpq3BRXv9kD4nXlTWqi8-hfsIfWRGPc8EP5w0X7m23aOjbMWBvb4nEJBAeCNBH1FuzXj9enQE3hys8Clfs8gAQit/s1600/har.png",
+      "url_skins": "xxxstarlight/HarleyStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/e37135rpzo5m2rm/Harley_Starlight.zip/file",
+      "size_skins": "4.29 MB",
+      "coins": 350
+    },
+    {
+      "title": "Hayabusa  Starlight : Biological Weapon",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2McZxRYz9XMOp7naFRWyVDPOgavVZMNTgtHSN3k2os65W_T4Pw8siOEV1cVet8nFygIDul0YxepQ_JjIx145Zi02kWAe2jSR-15o1wsrghh-dX8AACEl6wIMrmvZWqeGhKZvmiAWm2v_TIs-TYrCyyZp6VVbH17T46EidP5Ni0NrCyrzbqTRKJKJ_/s1600/haya.jpg",
+      "url_skins": "xxxstarlight/HayabusaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/njarliz35jm0hl4/Hayabusa_Starlight_Revamp.zip/file",
+      "size_skins": "11.05 MB",
+      "coins": 350
+    },
+    {
+      "title": "Irithel  Starlight : Nightarrow",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5_PxhmBdVCQYV-Bf_OEtR_9wwmJOoLUfG_EFAKvS9JgNSFJaoTPZ74GfAMrD6ju2EngItSxJibGIQ6-R-uvFDhE3hVSETL_VUEUvEjAzhdiJQ_ssuoceX9BAyiTRTkwWyJ5qi7xNuxFwUmiK76mV6YfkrcAl_8B-SHhBNE9ThKF6nkgS-mnHtOvJf/s1600/iri.jpg",
+      "url_skins": "xxxstarlight/IrithelStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/nh9f1e7nddgutn3/Irithel+Starlight.zip/file",
+      "size_skins": "7.62 MB",
+      "coins": 350
+    },
+    {
+      "title": "Jawhead  Starlight : Candy Bear",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHAtlQen9cFClb9SamO03nmKGHz-abrTCq4qOI7PUpUcdk-7aR5TCWI8YcjRUGi_THNca4_LYhxlWcFRAUjB7a_uhYwOzLbDOKEtP8Lnt5UyvetHc8oBOPte_6KCNP8FDJknELpC0dasZK4qGliN6jm4m1EqodrPFHejpsIzPMtxyVFFJ9Rn6cTMzt/s1600/jaw.jpg",
+      "url_skins": "xxxstarlight/JawheadStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/e2hiwjncohz3u5x/Jawhead+Starlight.zip/file",
+      "size_skins": "5.71 MB",
+      "coins": 350
+    },
+    {
+      "title": "Kagura Annual  Starlight : Water Lily",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEbQ_WEZzifiHWg0nRjBGPCz7eIAlqInI_JQTBt2PXlKhbT_ju966RmLPdbHayfoHhCBvtOan0STEWbKw2PWNORN2FT_sNwgNBQ7ZXR-4N_sKhcTRZ2LToXytZZABpCZOD5LB8oSMdmO4rnwTh9u-joSWN0iNpUW8jES9C_4Ykezn2l4TNRKscF0sK/s1600/kag.webp",
+      "url_skins": "xxxstarlight/KaguraAnnualStar.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6vujkgsn3b8e9hh/Kagura+Annual+Star.zip/file",
+      "size_skins": "19.15 MB",
+      "coins": 500
+    },
+    {
+      "title": "Kagura  Starlight : Rainy Walk",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61CELntAM6Nbdu-wMqHHE8U9rtW_jxmbosZuPpdx_42HKrrO-r0vlQMDwxk5f3PKkfslR9MWaPLDi8dumdMJMbZBaHi_ef6IJLZlOGsSpniEbHa0pONyOyPNSEDwsQG6aBb4VoEAYNbxoeo0fJZErTJTa4Z7lNa7K_j8zU8q-zqtp0HpTV8h3em4u/s1600/ren.jpg",
+      "url_skins": "xxxstarlight/KaguraStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/l8a4n6kzp4gyg1p/Kagura+Rainy+Walk.zip/file",
+      "size_skins": "10.35 MB",
+      "coins": 350
+    },
+    {
+      "title": "Karina  Starlight : Black Pearl",
+      "image": "https://1.bp.blogspot.com/-ffA3MWMxIbk/XVS-ItibzgI/AAAAAAAAC2M/C9YmMgrU5zomXqylRp9hIP0EqCe-uxr5wCLcBGAs/s640/Karina%2BBlack%2BPearl.jpg",
+      "url_skins": "xxxstarlight/KarinaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6zrcq78q9aa9r78/Karina+Starlight.zip/file",
+      "size_skins": "4.92 MB",
+      "coins": 350
+    },
+    {
+      "title": "Khufra  Starlight : Dreadful Clown",
+      "image": "https://1.bp.blogspot.com/-niVc_kZrSY0/YDVeg2Sk74I/AAAAAAAAHD0/z1vG2I4i9HgBhlF2ePRlAhjiNMqnJqu-gCPcBGAsYHg/w919/khufra-dreadful-clown-starlight-mobile-legends-uhdpaper.com-4K-5.3198-wp.thumbnail.jpg",
+      "url_skins": "xxxstarlight/KhufraStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ytbrpb297jd5akn/Khufra+Starlight.zip/file",
+      "size_skins": "4.66 MB",
+      "coins": 350
+    },
+    {
+      "title": "Lancelot  Starlight : Dark Earl",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrNfqgf7Yin-8E0Fc8f04oPKPZn5dvqTN4t961q5rLDUHG06uUm9uTunc8BAxDB2HdYpGiV4ukHv1nTlANYf_hrU2qiM1BwTcPVSddCmhC9mWR6oEobvULOLeveaIMLDB2-7dpTCNze9H7bGFTE-T2dF514fuxNkNNhRH5raErHS09Xg05vc2h2Pat/s1600/lance.jpg",
+      "url_skins": "xxxstarlight/LancelotStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kejo0wzlglq1am2/Lancelot_Starlight_Revamp.zip/file",
+      "size_skins": "14.01 MB",
+      "coins": 350
+    },
+    {
+      "title": "Lapu Lapu  Starlight : Special Force",
+      "image": "https://1.bp.blogspot.com/-PAYkaLwK6rA/YBT_IInOdlI/AAAAAAAAGuY/_i5eyemCG0QCvxN_-7qwTTkRv6IhJi6dgCPcBGAsYHg/w919/lapu-lapu-special-force-mobile-legends-skin--uhdpaper.com-4K-5.3116-wp.thumbnail.jpg",
+      "url_skins": "xxxstarlight/LapuStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/bm73sn9mlvcevkm/Lapu+Starlight.zip/file",
+      "size_skins": "14.01 MB",
+      "coins": 350
+    },
+    {
+      "title": "Layla  Starlight : Bunny Babe",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjDfinRD9P5np-zOFIFq950_zUJyU4kapNJHreOfacTKPy2_S5z7dfCqnQ2Ywfapr8CU898f4xiyIkO5iZAMF9mjLtAvt9lzpWEOJZF54EvqMUF1Lev3JEcsR9SPHemLmq7arpsQ1tGsHO45dW6RN1TNLjyubTTYDg3nDnW1f3g58vkGl_9AGqXLjy/s1600/lala.jpg",
+      "url_skins": "xxxstarlight/LaylaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/p4wrd1tbvpsk0ca/Layla+Starlight.zip/file",
+      "size_skins": "3.92 MB",
+      "coins": 350
+    },
+    {
+      "title": "Lesley  Starlight : Lethal Lady",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicMxvKJF1Hr0UGbo6fZtRLaeIi8ZJnm20jqx6CIrdc9sKPYQglONq7_TRh7YCpgWFZVCFIolwI2JK_R1zFTq1PLaVB6p0IuOcRWcH3aO21gkynZ2YaHZeGNz2AB3qwbm8Q_5Xn3V_zMbVjUlx82hjzPTlkl3J2VGE5a4HB6vFWxl90P-mLR0PckF98/s1600/lethal-lady-lesley-mobile-legends-ml-wallpaper-2560x2048_33.jpg",
+      "url_skins": "xxxstarlight/LesleyStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/thzj2v524egdg2h/Lesley+Starlight.zip/file",
+      "size_skins": "2.33 MB",
+      "coins": 350
+    },
+    {
+      "title": "Ling  Starlight : Street Punk",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie0mgDrwVJfEjU0O7oUO2XS6mmDgGkH1gM7lkXrF7ZLEq_1pDqkqPJmXLs9b63qet9tDYpW9eFFLuueqQibXxERNsitTQnWGpHwpyET1SgYWCT_fzxGeKeM1iY1o1plnzkqGg97fXHYOaGY3E7wqEbhe_vikIWxmB9xS2QIFl1pzclz0HRk2ZDZJqs/s1600/ling.jpg",
+      "url_skins": "xxxstarlight/LingStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/a45uzkf619t5p92/Ling_Starlight.zip/file",
+      "size_skins": "14.37 MB",
+      "coins": 350
+    },
+    {
+      "title": "Lunox  Starlight : Ash Blossom",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinv9J53_CB3xaxoDJWFYoP8_GsTQ7ar3AAzyFbcFB31xqp5ibBEi0n94myupcZf2t3ALe_xIEcz5TB2etB1CQX0ZES5Pm7ggPzEDHGpcUQbh9oA3ZjnQ_3btYrsLVZw0bcGmQT6yWAomfQiytfj17nd6lr5b8KPX_o4SxekGyUmuz_aoyauYenPvOl/s1600/lun.jpg",
+      "url_skins": "xxxstarlight/LunoxStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/o0y0y4wkjih4bk9/Lunox_Starlight_Ash_Blossom_.zip/file",
+      "size_skins": "4.09 MB",
+      "coins": 350
+    },
+    {
+      "title": "Luo Yi  Starlight : Siren Priestess",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmHP5vqVLJeZ4L5eO3AaOK3i442lsEHOXIULa_3jyhm6-NKAlra67TCsyge6vwdobQMjeR3C18ssRTSjeHDSV71szXM3874XSqicGY_42HCzPfihHfCDQTN-16qHiiqD2JPtOasg9j_1Zjhv7RRsJa40dbDnPGm4icbksYH_HuSB6TpeipQTS4udyS/s1600/luo.jpg",
+      "url_skins": "xxxstarlight/LuoyiStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ee1pwcbm0plpmzd/Luoyi+Starlight.zip/file",
+      "size_skins": "5.46 MB",
+      "coins": 350
+    },
+    {
+      "title": "Martis  Starlight : Searing Maw",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxQgcazZhufyU1jOBJqYSX76iv2C0ZQtJhayo3r8p3NEGKb7wLdGAriWO05KwvSbvd3feCrYGTW3MeAMS1WKw2AIp00qmrFJnUlyrwRjrkaFvuhigJBmHm-g0FN_NkBDOZLGLmQr1E1qpFeIO8yKnBcHY4Fj6AXxftWxCUYb2HP5m7Z7SUryEbeBD/s1600/mar.jpg",
+      "url_skins": "xxxstarlight/LuoyiStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/q65mvctupvqyu9c/Martis_Starlight.zip/file",
+      "size_skins": "6.95 MB",
+      "coins": 350
+    },
+    {
+      "title": "Martis  Starlight : Searing Maw",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxQgcazZhufyU1jOBJqYSX76iv2C0ZQtJhayo3r8p3NEGKb7wLdGAriWO05KwvSbvd3feCrYGTW3MeAMS1WKw2AIp00qmrFJnUlyrwRjrkaFvuhigJBmHm-g0FN_NkBDOZLGLmQr1E1qpFeIO8yKnBcHY4Fj6AXxftWxCUYb2HP5m7Z7SUryEbeBD/s1600/mar.jpg",
+      "url_skins": "xxxstarlight/MartisStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/q65mvctupvqyu9c/Martis_Starlight.zip/file",
+      "size_skins": "6.95 MB",
+      "coins": 350
+    },
+    {
+      "title": "Masha  Starlight : Combat Maiden",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIX5scDIesaGmKFOYocJA-hskq5eDeiVPdiPWQitEMYCMLgyeIlWmzpRcdyk5HStdhHHxLHW6UQ7sIWk1CXnBvsiWx3aDlXeU9l33OchumYfJJDz8tGiAnAfkwc4j_UPE5yClh2rOLGx_-mt4A6SwB0fjqwRTgJ_gdfH531KDjbwSqhD8KLMxILKvy/s1600/mas.jpg",
+      "url_skins": "xxxstarlight/MashaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/vm44gu6n6476a79/Masha_Starlight.zip/file",
+      "size_skins": "3.88 MB",
+      "coins": 350
+    },
+    {
+      "title": "Miya  Starlight : Captain Thorns",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPrsVBdX05ogQyQk0NFkIHaQtasFQu11UXdAzRmsVk6JE5RmcJ1e1o2stsgsN5EFrO4l3sbvQfSSGDeKe-l_i8trBjXxYQHLFSCPlPN3h4Znb0wux9G_zqkFDuYw0T0Rv4efA4ny-OytkLtkW9DIarsA50iHPtiTJU8vVdAlvUK1b-6PCxBz1mMPyu/s1600/mia.jpeg",
+      "url_skins": "xxxstarlight/MiyaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/jntn3rnrcih0764/Miya_Starlight.zip/file",
+      "size_skins": "2.37 MB",
+      "coins": 350
+    },
+    {
+      "title": "Moskow  Starlight : Snake Eye Commander",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP_wmW10ltOA6_j-lch8T3pqGaQE3LZfANUk63vfkpycsSmfvtF7mO-wtSBB6cBHmynv67HWMzzG3bUG9rSBczgZnjlUhdYSiDYHinRyutitve38DPg_PHl1GSoVutjRRT6fqknr_g-Kl7zI-EYzgcfexp6r_CNrfuM9kwMH2iHwZKFmvuxS6S9uAJ/s1600/mok.jpg",
+      "url_skins": "xxxstarlight/MoskovStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7ialo3phzyrgpnq/Moskov+Starlight.zip/file",
+      "size_skins": "4.12 MB",
+      "coins": 350
+    },
+    {
+      "title": "Nana  Starlight : SCyclone Clash",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQe6iLht5Jlv9j6bkdrZntPInWNsiTV1SXLhyp_kSfQ4frc2zL0XwOb_dOsNNiOrNLXzds8y8MNd3EMhuSBDeuq-DPwRTif6-Hgmx-wwOF8OB3yQiyGO3LgkQxaucIhinsYJ7UEx5e4hGlpuq6fX9AFjDNzTUzzC0TRaipA4Q849QtTkGp_PszD5S9/s1600/nan.webp",
+      "url_skins": "xxxstarlight/NanaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/edvfdt1kw7o4c36/Nana_Starlight.zip/file",
+      "size_skins": "11.49 MB",
+      "coins": 350
+    },
+    {
+      "title": "Paquito  Starlight : Fulgent Punch",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-3Db4HGPrjui3fVNCSP3MyJQBTgXBpnmohsnBbEQWeFQGO3NS0UPrTeJOPbzbfEawWuDkPU4-5mkObggd6_7D31HZK6CCISU-bzkOMVOJZ5Clpla-Jk1Cs5_Kie5zW-9BrXBI00x7e3EQ_w-hMGXNIIoAeIBLjs8I-iNgcC3gXXd8VQDwM-FQVI1J/s1600/pak.jpg",
+      "url_skins": "xxxstarlight/PaquitoStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/unwk4y9dbu1wvlq/Paquito+Starlight.zip/file",
+      "size_skins": "5.99 MB",
+      "coins": 350
+    },
+    {
+      "title": "Pharsa  Starlight : Peony Bloom",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV5R0Grf75OmEMQ5gic0y5TFmY6ru0Ef739C2qFlL1G-GWuC-IkvWsHeMEEcvWKDuQ09sMBK9refApN3h4o7dRzcDyeK3_2dtoidaB58vu0_IiTo8MyDOqYeJIjTrg7ae3hx-uacrDyaCVP7INpwiOTrns_o79m1NzSiVlQXgHR6UcZrq1IaWbJTy3/s1600/par.jpg",
+      "url_skins": "xxxstarlight/PharsaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/oekmbfegvinn4az/Pharsa+Starlight.zip/file",
+      "size_skins": "2.84 MB",
+      "coins": 350
+    },
+    {
+      "title": "Roger  Starlight : Anubis",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_PRDupOHzreYUeD_j_915yGlMUi1pm8Jgl6uZnckwtIrrdQNe47IwKkiyIqPegTP3CLN3AwQmAlTlzmw-iQ1u0R8Lx1-mQxKsOfmBK8Vljles_smmff-HUSunWadBigAPC00pgmAktLjGYjQ53kgWFH-dByRK88zvukKpbqA0S8e6oIf0TkphlR5t/s1600/roer.jpg",
+      "url_skins": "xxxstarlight/RogerStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/x9z9995vjstfmvs/Roger+Starlight.zip/file",
+      "size_skins": "9.98 MB",
+      "coins": 350
+    },
+    {
+      "title": "Ruby  Starlight : Pirate Parrot",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG2ZUTmA3fBMt61X02q64fsJoKmsLqstL71d0xokyHm6Evx0ht6v3FVgILPxWWL6cJwkzPCG5Nm1k6DAWp8NqTShOrBJv5GGDvDyI5EMAlYKvwxLH8cGsTZgapOAUKNtbsjwlQqTx1ANbmpLR3roOf0pJkANAhCv0DTpn4WkOw80BwDJZ-O0bUpjt2/s1600/rub.jpg",
+      "url_skins": "xxxstarlight/RubyStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/47l7h9mtx0myysb/Ruby_Starlight.zip/file",
+      "size_skins": "5.11 MB",
+      "coins": 350
+    },
+    {
+      "title": "Saber  Starlight : Force Warrior",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9yiRuKqtvsiH4OsCML-Xw0PHVPbBJyPqkmGZ6pWIbtKmFaaTpEEDHZHztcDyV1M9oNI9Ggy9rSjDxfbALA89d9weu5X5T5pX9UN0lY3xxmn-S_jpFxjAYGUHiyNPLYq3SkfhK6xelaYSqLMwUOXBzQcvIwh19kvR2vmnnXOLaay5i3ZtNrIUpo2P-/s1600/sab.jpg",
+      "url_skins": "xxxstarlight/SaberStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/jc74txl9pfw6xsn/Saber+Starlight.zip/file",
+      "size_skins": "5.46 MB",
+      "coins": 350
+    },
+    {
+      "title": "Selena  Starlight : Double Idenitiy",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizIFZUHi_YO1tOs7m0EOYqX2OTgv35jJG_VB5gIhKpm-lgPZ0q_W5ukcDgH1ymkSUMwpBaTAX_3UcWC26LdJg7BmYfiap2JHg7hp0elmC32c-2JKn-1kyxLe50MibqB_HWeEas8mXA9n78qADHsVmJKgLeztQNd9bOdRHmRMfrcZjJ00z_NzlqZF8g/s1600/sel.webp",
+      "url_skins": "xxxstarlight/SelenaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/z0f2mnhd1njsm6f/Selena+Starlight.zip/file",
+      "size_skins": "7.62 MB",
+      "coins": 350
+    },
+    {
+      "title": "Silvanna  Starlight : Pure Heroine",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTJ_neIG-RqU71Ui4rExnUJMGZvZ9smniMb6LZBiTNY86kOiYc5MRwHpz-nqz5BS2Mhp75QU3jfk5_mnl3UZpxlDlARuyit3o7-ixggKdZYLH1fe1D_Iiy3HzSRGPEfwonX3vGNi7sdIG70xlqVEfNgdxb4EYK2j8vLEohRU54aDnsFC6aOylyaK8D/s1600/sil.jpg",
+      "url_skins": "xxxstarlight/SilvannaStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/bcgr7b1sxx7h5lz/Silvanna_Starlight.zip/file",
+      "size_skins": "6.27 MB",
+      "coins": 350
+    },
+    {
+      "title": "Sun  Starlight : Simian Curse",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs0Q7rxPybQolT_GtPm6zHTWih4uvnN6A5HOYK1aM4ws20n-wwaC4av5ch4RHcZgp0QizPfawPDo-VsyYOUEF4Vijq4uzuHWNubIoprJVWKoVSt1x2ks2WnbzCYKjTcFARihI7larF7pgInY7DJT-8fpX3eU8ejz3VBBQR5ITB9ytRGFTi-LimEbNj/s1600/sun.jpg",
+      "url_skins": "xxxstarlight/SunStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ysfoeqrjz5hwf1i/Sun_Starlight.zip/file",
+      "size_skins": "8.7 MB",
+      "coins": 350
+    },
+    {
+      "title": "Tigreal  Starlight : Galactic Marshal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSYwkTuLIULH8cjpFbIG_9fcU9o7RrNFazXQQ34kNTyrHQjPnYBo5wDzkz23jEm2VnuwvbJWuyGHJcDEK2_uXadWTTEhYQNlrqAwEIH_vGEfl52GYsotP5r1cZ5AVImakzr1PBh5fbrLZxPZz7V_VFk2_eOhP8G7JBBZhT9treQ3T6BatoN3F8LUQ/s1600/tig.jpg",
+      "url_skins": "xxxstarlight/TigrealStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6c4qt729r0yx259/Tigreal_Starlight.zip/file",
+      "size_skins": "10.8 MB",
+      "coins": 350
+    },
+    {
+      "title": "Vale  Starlight : Soaring Devata",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWsiN_HTo1_tY8CsX-EfgQuop3jIpKdv7Q6FZnz1exVMlO2wD9q7pBfnay77RYBUi-aHZ1ogmJq7WzKNhZuoM8LO2F9pYxS9o6bfhjMWkS73pfq6yjNFcwck12MKnXI79MArdJa8cgVukAiDKs76xMsa8yWHUP72c8spPEjFcLaRZulSRbBwt6rm2/s1600/val.jpg",
+      "url_skins": "xxxstarlight/ValeStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/z2yg1c2k9fww71b/Vale_Starlight.zip/file",
+      "size_skins": "6.41 MB",
+      "coins": 350
+    },
+    {
+      "title": "Valir  Starlight : Dictator",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaw6NteS-KyP3NYzr407PwYzSfnwLesv1UOyjrlmnfalcH8rvb53wF39fUvpF7zeDlUDUBd0l8bg-1_R8RTelRI_DEd56S1kM4T2ITUou38FvLITLBXdcRYFFMtD84Ofwxgmjuli9pKJ1jPvdDC9dGqArnj1GD9VG8I4MJjd1xWUPf333QVmYMGmjw/s1600/pal.jpg",
+      "url_skins": "xxxstarlight/ValirStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/pxvl68tkk2d6tbc/Valir+Starlight.zip/file",
+      "size_skins": "5.44 MB",
+      "coins": 350
+    },
+    {
+      "title": "Wanwan  Starlight : Teen Pop",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Uvn2ixC4hke4KdhWRC5RshHwaSJIMu1nsaM97Yjpq3xG6xBfKHjSPHRwUJwhy2NnTkLLToBwuPKyVCyvKFMH_2bMCi61SidEkiKviq3KvEqDL6rfja4_5mQzzC_7T_KF-u6pF9LWd4DSFA5EwxjGkZ5a9gAS57ZI7jryQVjemckAGsKA3TBWkbP3/s1600/wan.jpg",
+      "url_skins": "xxxstarlight/WanwanStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/afob6dk0ujelahc/Wanwan+Starlight.zip/file",
+      "size_skins": "3.71 MB",
+      "coins": 350
+    },
+    {
+      "title": "Yi Sun Shin  Starlight : Azure Sentry",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKFz5oFWYccVM1Axg7JlUz83-UoU4n5YNt1QmCo4GlCTl6KtJYz0LqHXCods9Yt6unCQKLzTOqEqzdS83Q7Ijkprv1JhRmKEBpQiXgQXwKJ3D9jnqR5Mu0cPriEq2aBJG2Zv-guWng9XM1M88dIctBKSffWzcHK1KH2WFBLrvkGNjwO1bJrMuB_OaM/s1600/yss.jpg",
+      "url_skins": "xxxstarlight/YSSStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/x3ysxexmvi0j2x0/YSS+Starlight.zip/file",
+      "size_skins": "10.42 MB",
+      "coins": 350
+    },
+    {
+      "title": "Yu Zhong  Starlight : Biohazard",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5Mo3U5EZosM4YkLvo04RBQ_lPEyzyxRIVUSik6lLUwB57b9HdRPqFATcU5FVmBFPn-6XbfUawEw0CTZqnjmWbp13zDINWfLm5HlmX2zN1Qj6_lfhywaeLvwNQXtaOm2rEH9cdqnVKzGnfYMqD3WRY00gvDAfk1OydCMlLNvkTLVZaaXVVevvCOfTW/s1600/yz.jpg",
+      "url_skins": "xxxstarlight/YuzhongStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qks6yr56yg3jk5a/Yuzhong_Starlight.zip/file",
+      "size_skins": "6.58 MB",
+      "coins": 350
+    },
+    {
+      "title": "Zilong  Starlight : Eastern Warrior",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi41oK3KUAKyYq2ZEz2LJZgRVKZtb6z3XBRk3SfXkT0CvtjwD2MbejuHGa-xHm55TRqS_XD7qrgFICbRHBE0raZk5Phfbnh22w2VM009t8t5a7midmXudrU2SchNrT8ZjD6I5cUM18aD9OU-m83m-wH3KxWzd4j2yqYg32vD9T-5uhOk3J_NAT9OUbO/s1600/zl.jpg",
+      "url_skins": "xxxstarlight/ZilongStarlight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/fl11lzosfz6bqhv/Zilong_Starlight.zip/file",
+      "size_skins": "3.08 MB",
+      "coins": 350
+    },
+    {
+      "title": "Akai : Po Kung Fu Panda",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjeTesDsDc0Zb6ST6lH0aWpj6D4-Kf7Rs1Q5U2qpQDTEVIO_nony6zZvnYD2K8UusbyeFoks7xFjHB9uoHt5FxhJWS2Jrl-63a8tmDQv7cqzCWMSjrRNlXf4UwlxolU8uoE-2ePrBTSoqFQs3h9_4o6pyznfNpYKBLg-bQZZHGeQv9jMx42zg2VJJw/s320/panda.jpg",
+      "url_skins": "xxxkungfupanda/AkaiPoKungfuPanda.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6psmw8oubzjwcgn/Akai+Po+Kungfu+Panda.zip/file",
+      "size_skins": "14.28 MB",
+      "coins": 550
+    },
+    {
+      "title": "Ling : Lord Shen",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3VyTuijwnnoHylO-7av9DPMpnl74incHZ6iOKyTAv-ZGi__ld4fCBm_kUFfXIj8-st1djjga_gmEAZbVusI7VVB7xqWh2wHtt343dG73g_uv6B6IQg2eDIoV3zyiDrrUiW_w3-XP75pyJx7EpmUaaVjM5ReciFrX5NpeUCf1RjS7tkfmWYrgqEE0k/s320/lingkung.jpg",
+      "url_skins": "xxxkungfupanda/LingLordSen.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/k17j40l5bbsbgn0/Ling+Lord+Sen.zip/file",
+      "size_skins": "10.55 MB",
+      "coins": 550
+    },
+    {
+      "title": "Thamuz : General Kai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjieLRt4UKxN83MotOLHr2qyW9iD-XdMB3dKoUtGnnBpN0P8UcgrQ809oPNZdbZIvWIG-P-T_4oDbRnwnCasZ7H0iLBZlxhyYzYI2ib117KjBLXflZGe-aWAw9FheMo3NP2Uk-dvbk5DMbi0s_Tgz7FnF1mngmRd0FL7GzlHlBQOrWnF85zgLNJUGa9/s320/kai.jpg",
+      "url_skins": "xxxkungfupanda/ThamuzGeneralKai.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6cyn5kou6quk6fl/Thamuz+General+Kai.zip/file",
+      "size_skins": "14.49 MB",
+      "coins": 550
+    },
+    {
+      "title": "Akai Epic: Imperial Assasin",
+      "image": "https://4.bp.blogspot.com/-KwXwO3AgwbM/XSeolfLF-0I/AAAAAAAAA0E/nJPXs-d0VmgvsWrT9gLDVlJko-UnidXPgCKgBGAs/w2560-h1080-c/akai-magistrate-skin-mobile-legends-uhdpaper.com-4K-166.jpg",
+      "url_skins": "xxxepic/AkaiEpicRevamp.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/j048f7kr6s27mwj/Akai+Epic+Revamp.zip/file",
+      "size_skins": "10.85 MB",
+      "coins": 350
+    },
+    {
+      "title": "Alice Epic: Wizardry Teacher",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0-u9P-uA6D9UTZZnn3D_U9sKip_MdAYkjXf-oO097cJ50buN8Zby6z8H73Wa4mjhTQXRqeYRqI6WVR6qkMKq6T05tc2uw1S3CqGwK_rY7emdcQiNQ28R_J4ev57bNLkAIrRB0hFLPVtOMzvD28ys4XdnM1JWbd_pKNURvlxoDZCsdpVsAT_IpGvxU/s320/alis.jpg",
+      "url_skins": "xxxepic/AliceEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/h0eocsun998hhud/Alice_Epic.zip/file",
+      "size_skins": "5.92 MB",
+      "coins": 350
+    },
+    {
+      "title": "Alpha Epic: Onimusha Commander",
+      "image": "https://i.ytimg.com/vi/G4Ds_Q6PsMs/maxresdefault.jpg",
+      "url_skins": "xxxepic/AlphaEpicRevamp.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/bh5dd360te30hwt/Alpha+Epic+Revamp.zip/file",
+      "size_skins": "11.16 MB",
+      "coins": 350
+    },
+    {
+      "title": "Alucard Epic: Child of the Fall",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwKp2m2er0pc1KDF584I8uSijg2sUcjhaAyCSSMTQlgwbx_dXqodvAQvGfvQA8iKbAwrSgdOfV0Wq4VJWZ9r8wTnKDSdqLzMNQ0Yf2c9UvkDfWAXb8nQ_xe92SqRK3rOysT55TMV_qJsgdBOjdZOfccAjC5VR2ILqhAeeKEoyIphFSria2eLnMJvHP/s320/alu.jpg",
+      "url_skins": "xxxepic/AlucardEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/yyou3n8mda9j6r7/Alucard+Epic.zip/file",
+      "size_skins": "6.67 MB",
+      "coins": 350
+    },
+    {
+      "title": "Bane Epic: Count Dracula",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYecjKFNuN8rB0JqPqmCbKscfEF-f8Hp3Xl59lTP5At3Aj5drEXaa-q_e0cP3ZgMRpG0Exo5a7TRRX2-ALVW7y0H3rXvoSqwyHrfSu67tNCsRPJx-X6vlM9Cn7BTh7Xn7kjUQDawyaW8xaQZBXb12EvLF6QHX4Pn-LhvqaF1tb2WNVQyFIc4IYw27Q/s320/bane.png",
+      "url_skins": "xxxepic/BaneEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5vopmeuy6kqont0/Bane_Epic.zip/file",
+      "size_skins": "8.47 MB",
+      "coins": 350
+    },
+    {
+      "title": "Change Epic: Lunar magic",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmLgycw9U48L3I1Wio7mTwKEXVkCYLnH2X5EKQC2kJJnZg4Yb6xuvysVrmBUvPDUWEg9s_4X3xHm51jaKnzhvj6npYhwkDfxqGL9eVI2qzU99cJMtCP5IdEN5BR6_I774_sVZpbEMlFQK8ebHZDe6HamMQhfmT-zXJ5K7QoAxqgWvHmoX0mB5aF6zE/s320/cange.webp",
+      "url_skins": "xxxepic/ChangeEpicLunar.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/3tdz44ol44wtp71/Change+Epic+Lunar.zip/file",
+      "size_skins": "12.7 MB",
+      "coins": 350
+    },
+    {
+      "title": "Chou Epic: Dragon Boy",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV2tE6Zf9NxfT5EydA1PnRbkwJOuIthm7F96hjH2p9H-NZ6Ea_RNNHhHIUGQGyTQYTYnHY7IQvpfYuN13w8WXCzcANunKqwqIHIH0ge0elMWD8t7YokA3X8rrKBrlN2q4Xct4nuLr41rvDCIc66a4wihWFeAKl1P3ScmZX-ErbhtVa-ouUcbZLtbLC/s320/cou.webp",
+      "url_skins": "xxxepic/ChouEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ek3m7xuc2937hke/Chou+Epic.zip/file",
+      "size_skins": "10.44 MB",
+      "coins": 350
+    },
+    {
+      "title": "Eudora Epic: Emerald Enchantress",
+      "image": "https://3.bp.blogspot.com/-FYSL9S4VQ6Y/XSeolYIRWjI/AAAAAAAAA0E/a5uYShcvoKgnrTFjJ55qQNtWyMJhfWz6wCKgBGAs/w3840-h2400-c/eudora-emerald-enchantress-skin-mobile-legends-uhdpaper.com-4K-81.jpg",
+      "url_skins": "xxxepic/EudoraEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/fukkes1iwa6vtey/Eudora+Epic.zip/file",
+      "size_skins": "4.9 MB",
+      "coins": 350
+    },
+    {
+      "title": "Freya Epic: Raven Shogun",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu0PhMdQyIzVaxbfu_HKJoMYGc57DkmkJ2gSzgUmeaKEqJsbUBEuv55_GfnThzmOG75u3z6zolYeid9vJYn2vLUCBTMn7pjtbBqohvjBCtq7v_axV0nNIZxzPNQwtWs2vkHBOJ7BOx0o3EmT_UkXHBWANiXDO3vK2Q_r5nHmef5QfbYeBSLlB3K8HN/s320/frey.jpg",
+      "url_skins": "xxxepic/FreyaEpicShogun.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/hmmxmqaf83f91dr/Freya_Epic_Shogun.zip/file",
+      "size_skins": "7.38 MB",
+      "coins": 350
+    },
+    {
+      "title": "Gatotkaca Epic: Sentinel",
+      "image": "https://1.bp.blogspot.com/-WXaNZuV2Ero/XSeolS9agII/AAAAAAAAA0E/USToWphRjMMmq97xcjE9DJv4DZphNO5WwCKgBGAs/w0/gatotkaca-sentinel-skin-mobile-legends-uhdpaper.com-4K-89.jpg",
+      "url_skins": "xxxepic/GatotkacaEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/c5gk7mbpsk680wg/Gatotkaca_Epic.zip/file",
+      "size_skins": "3.68 MB",
+      "coins": 350
+    },
+    {
+      "title": "Grock Epic: Codename Rhino",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-qYlXnbAK_N7AEsxJlUR_NjCXqCXx85QgtjyxeLU9-ogfxGTW5A72qJGoL080hEQbu8oMFbG7moPv9wH0VDOFwtxkBvd-v6XmIL-RIqA4xmnCmGx0uijY-8exXnMcy9kmqzKxAjAQHN2I6x3krAAQuyqQSD50oy4E3V5YHRV-NQ-UseAKP9DpXh92/s320/grok.png",
+      "url_skins": "xxxepic/GrockEpicCodaname.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/po3gkxc2iwwn2m6/Grock+Epic+Codaname.zip/file",
+      "size_skins": "9.36 MB",
+      "coins": 350
+    },
+    {
+      "title": "Guinevere Epic: Lady Crane",
+      "image": "https://i.ytimg.com/vi/ud6iN2MwsNI/maxresdefault.jpg",
+      "url_skins": "xxxepic/GuinevereEpicRevamp.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ddbtoo3l2h4em07/Guinevere_Epic_Revamp.zip/file",
+      "size_skins": "10.41 MB",
+      "coins": 350
+    },
+    {
+      "title": "Gusion Epic: Soul Revelation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9WAvFg6WdZQBcLEMKkCVodofCLk03Y57VqPUz6mmhneUfPNeE02RXz5YK_cDtuTsGetkZXmok3CIy4FnGu7wV348G_a0EO2sd5QI2TfPWIAVovPl85St9DkUf2ZHUCNTvqZI-Ia-MKSQPz35_6FOpyPo2eV0aGZpDYecSy7e4U0fAvJtQxyCSh4nr/s320/gs.jpg",
+      "url_skins": "xxxepic/GusionEpicSoulRevelation.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/4r4b7g5mtfd93ln/Gusion+Epic+Soul+Revelation.zip/file",
+      "size_skins": "7.77 MB",
+      "coins": 350
+    },
+    {
+      "title": "Harley Epic: Great Inventor",
+      "image": "https://2.bp.blogspot.com/-0LUvoLVBAB8/XSeolRFb90I/AAAAAAAAA0E/NS5NopK4DwAdutkktmFmNLHuW2VHyDTVwCKgBGAs/w0/harley-great-inventor-skin-mobile-legends-uhdpaper.com-4K-102.jpg",
+      "url_skins": "xxxepic/HarleyEpicRevamp.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/w5wp231q793gjjh/Harley+Epic+Revamp.zip",
+      "size_skins": "8.01 MB",
+      "coins": 350
+    },
+    {
+      "title": "Hayabusa Epic: Shadow of Obscurity",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfrysDzhh501m5UmzoFlI7ZHto99RkIJBVJcH7yJmLoG8lJHGii52Is--bedBRXWdIYafIFgOMWMQ1bORNno3wFa8rGRsgwLwH0zh7sWOGTQPd5XY_DzchkUR666BerVTL_-JPhTa6KFZ8QTDx3a1Rvk7TvJenPixHUTFv5YYXky_-9hNzY8e9fnEE/s320/haya.jpg",
+      "url_skins": "xxxepic/HayabusaEpicRevamp.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/hgubldg3qvas8f9/Hayabusa+Epic+Revamp.zip/file",
+      "size_skins": "7.03 MB",
+      "coins": 350
+    },
+    {
+      "title": "Hayabusa Epic: Shura",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsAZX1OQhr_jtH-Lxhad2IGyzaAcW3EisJ3kVbyDDPUr8x-xiYWDvyX_DMGxQqxeyrquQkddQnJKEJLP7phZX2M4sVftrwio-kSVtdpzwvDdtPkEjkN_hobPmv8LVp1M0ZWnCfMuo2RdTVoRhcTRXwwd3QtbdcIVaXpLNwCSK6YMALt0EdmOTk01IQ/s320/ash.jpg",
+      "url_skins": "xxxepic/HayabusaShuraEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/rgf7ass9q9nkynh/Hayabusa+Shura+Epic.zip/file",
+      "size_skins": "10.25 MB",
+      "coins": 350
+    },
+    {
+      "title": "Hylos Epic: Iron Steed",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ8HlImuLr9D-suOore6CgQ8hY9iQb8dk3r3IWsjHjDV9FAIrclna4Kqrug3M2dF_YgzbC9Iw1AOh7CI5QOd-rc-6deUsQal1oLACrL6hasHaI07ihOkHr-VaX5PgRBAjKMCoBgrP3PX2Jo654lBE3mI85la5_O359Y7KqdR73KIDeKoc1-Rf7Lcu9/s320/hilos.jpg",
+      "url_skins": "xxxepic/HylosEpicIronSteed.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mkdte82wjlmcipu/Hylos_Epic_Iron_Steed.zip/file",
+      "size_skins": "5.36 MB",
+      "coins": 350
+    },
+    {
+      "title": "Irithel Epic: Hellfire",
+      "image": "https://2.bp.blogspot.com/-oR3QXzFB1Rg/W5xnhxg7SrI/AAAAAAAACiQ/-DDP4XrSAz81NoBhD2oJG0mKQH-6QQK1wCLcBGAs/s640/Screenshot%2B%2528239%2529.png",
+      "url_skins": "xxxepic/IrithelEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6b1lbnlm6k17bb3/Irithel_Epic.zip/file",
+      "size_skins": "4.51 MB",
+      "coins": 350
+    },
+    {
+      "title": "Johnson Epic: Wreck King",
+      "image": "https://3.bp.blogspot.com/-OtMeUpugZ7I/XSeolcv_SiI/AAAAAAAAA0E/Xd9wrigEHL0HMmXQ_etFL5KVRWNs-azCwCKgBGAs/w0/johnson-wreck-king-skin-mobile-legends-uhdpaper.com-4K-114.jpg",
+      "url_skins": "xxxepic/JohnsonEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/41uxmrbe1byq7rh/Johnson_Epic.zip/file",
+      "size_skins": "4.44 MB",
+      "coins": 350
+    },
+    {
+      "title": "Kaja Epic: Skyblocker",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlill9hYlk5Xk2c9uUJtGC9l2k0v6hbKQw1IpIwtJP8WaQybVUJsj-XRcvPtbN4SaGzqjt7u60noyHCBCEoD-I08jF3LlUkQAESQ8vm3vAAMSzlGQgPxyVTvZCGsRr8kVZRO3GMbbYnhK3QcA8gPU89QkAsh5qPgb_0tS7hXmNMBMckmbdjRYWf_GM/s320/kaj.webp",
+      "url_skins": "xxxepic/KajaEpicSkyblocker.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tf4ugii1684tju4/Kaja+Epic+Skyblocker.zip",
+      "size_skins": "4.75 MB",
+      "coins": 350
+    },
+    {
+      "title": "Karina Epic: Doom Duelist",
+      "image": "https://1.bp.blogspot.com/-enNTqEuQJpU/XUyebMk66yI/AAAAAAAAKrI/RD-wQ5O7BUUXHrDoNde2Exea6UjGCP2tACLcBGAs/w919/karina-doom-duelist-skin-mobile-legends-uhdpaper.com-4K-3.142-wp.thumbnail.jpg",
+      "url_skins": "xxxepic/KarinaEpicRevamp.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2z28q5z33nuh3zp/Karina_Epic_Revamp.zip/file",
+      "size_skins": "5.3 MB",
+      "coins": 350
+    },
+    {
+      "title": "Karrie Epic: Gill Girl",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPLz9JvDRqz9ULNErw3OzCAX1VmPKG5le0vKdjgXUhH7qRFQz5AZbfczNvrKcw71DaxMbfMwCio54rXT1gC5yLqmPS2sAnVk14MQpSCBrFkOn56iFDUr0EolWn4D6x74pPw7WNzSjL5hvujaMdK46LNbvbWzKLLBuMwMomKAeJoz28BHpVayNdjZKd/s320/ker.webp",
+      "url_skins": "xxxepic/KarrieEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/id9sdm827gcreiy/Karrie_Epic.zip/file",
+      "size_skins": "3.79 MB",
+      "coins": 350
+    },
+    {
+      "title": "Leomord Epic: Inferno Soul",
+      "image": "https://i.ytimg.com/vi/6qDZi4cE3X0/maxresdefault.jpg",
+      "url_skins": "xxxepic/LeomordEpicRevamp.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/bol9zzojjg3rui0/Leomord+Epic+Revamp.zip/file",
+      "size_skins": "14.61 MB",
+      "coins": 350
+    },
+    {
+      "title": "Lunox Epic: Dawn Revelation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0mQAgauxuOnKiybxgkC03CPU2AoEetKgs7PlWAgEKy9rWbXZQ6REDT4k2LUXtVt13x_883F-v2w2nxoN_pde1UVztX3sE-PF8P6ux0AV9E5RHFvL0-0p8G6miTzrn6W_ynrxRNpBuqEwqGZY0ee6HgbRb8Zrg5ACobYRKj4kDshDW4_pIOi1c78lf/s320/lu.jpg",
+      "url_skins": "xxxepic/LunoxEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/yzfvx2crt69jwep/Lunox_Epic.zip/file",
+      "size_skins": "8.51 MB",
+      "coins": 350
+    },
+    {
+      "title": "Lunox Epic: Eyes of Eternity",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJwpHysp1epnV9mSUjlodQpLhiRBXk0TubUqPA1zTD9xv5CO-FeXDldmkLNJr6hjvGPGgA9sXIwl3PyMIOkTsdbzaebEu3Z0wvlVg8BRTLqcGMSXGiw1hX7RyHRNeunmb8sGY9xAWbKvkuCGKog0mhHgtRj5rdXVergH_6RJomqBBbQ0FcnN--vfDc/s320/lue.jpg",
+      "url_skins": "xxxepic/LunoxEyeEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/88cf03yt0fs1uak/Lunox+Eye+Epic.zip/file",
+      "size_skins": "13.11 MB",
+      "coins": 350
+    },
+    {
+      "title": "Martis Epic: God of War",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkFmm9qScr8Vj1iFIsfUfhJmuoE922wZuzwxB0Cv2Kb440GwAykUxB99MIIWImcuOJ94hGlFf-lZP4L7pbv7BYrLomNhoBf6kLP0FhFXE3MJBpCpix1EpTIpvBUb667Cpfu--zLHIVnXQ3b7x7fS7z2ivVTcXSakL3BcD_vGAyD4d2Hhl20PPI6KyB/s320/mart.jpg",
+      "url_skins": "xxxepic/MartisEpicRevamp.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/yt47ks92bec0paj/Martis+Epic+Revamp.zip/file",
+      "size_skins": "9.9 MB",
+      "coins": 350
+    },
+    {
+      "title": "Moskov Epic: Blood Spear",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwWCl7ANSI4W2GJVmBR6gzjLDHC17nAlFSvuQJh5wpJ0igjB8hBYHsmvEreedMErz31IPyodXiXVah-JairDyXLV13oycfR1Z9NKWvBykE9nEvY6Agd1xT17AX4bsy6RIqmVT8CTAWdA8No5wo6nKgGIVxT2aX6XMV4HiKuMutvPK0z4X_HvELhg69/s320/mo.png",
+      "url_skins": "xxxepic/MoskovEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/71k5qcey6juy1ru/Moskov+Epic.zip/file",
+      "size_skins": "6.84 MB",
+      "coins": 350
+    },
+    {
+      "title": "Nana Epic: Mecha Baby",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPduRfeqV4rEulgoTjqH0AiMd1szO4Biduj9Y35oum-li0cEDYm2nHXPqpHdEQs3BJrgSnKVRFQhvCqCvRn3dC6vR6G5151wJaQcW7bU-tmm0TIVKrRsFdOsNGjDJ3sAXyNNIaTxg6YTAysudMgDT2fWuZ47f_yFqQAGH-2CjmQ0ZUaLwWLKTlycZN/s320/nan.jpg",
+      "url_skins": "xxxepic/NanaEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/hgv1h4bbz9403im/Nana+Epic.zip/file",
+      "size_skins": "6.54 MB",
+      "coins": 350
+    },
+    {
+      "title": "Rafaela Epic: Flower Fairy",
+      "image": "https://i.ytimg.com/vi/2PsKf1P7wnk/sddefault.jpg",
+      "url_skins": "xxxepic/RafaelaEpicFlower.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/o9jiqej4883byd8/Rafaela_Epic_Flower.zip/file",
+      "size_skins": "5.84 MB",
+      "coins": 350
+    },
+    {
+      "title": "Ruby Epic: Flower Fairy",
+      "image": "https://2.bp.blogspot.com/-PSSV4kZYGnM/XSeolVZWVDI/AAAAAAAAA0E/vAbZAn9PhKkVVFl9WBigGx4bLIkIrIvTACKgBGAs/w3440-h1440-c/ruby-lady-zombie-skin-mobile-legends-uhdpaper.com-4K-144.jpg",
+      "url_skins": "xxxepic/RubyEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5g2azw3o65g14yi/Ruby+Epic.zip/file",
+      "size_skins": "4.89 MB",
+      "coins": 350
+    },
+    {
+      "title": "Saber Epic: Onimaru",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0d5j8glHZ9-kK-6Gu-li-PT5OvMXsRg9kwJMhuef1XeJ8UDpshCXcEcq-UT3Y_iZ3J5c6-Vj6Yp10bVGz5JoEJ5rarGyZ5Nahm1O6Nfk2h3qUGuTJ1ivSD3bBj5gqiopjuYeYPRWZhTezjRcJe_uRHwShAGstgrCYBWBAybeSS2Hb66jfGi_O9Sgj/s320/oni.jpg",
+      "url_skins": "xxxepic/SaberEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kd493xpr5749azq/Saber_Epic.zip/file",
+      "size_skins": "7.34 MB",
+      "coins": 350
+    },
+    {
+      "title": "Selena Epic: Thunderflash",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0psss9ZloRv1fQL7VuaCJCJOsHy7nLujjricMAN8w1lKMy0xwpQUpbNZmKt94FnDzaEnk8p84HUayh7ps6J42klu71gRPdeYb251rwF6rFj46lUF1u4kn-3nhhZJ61hYFtQJUgbNZzjKYwzanm48RQLQ6htll2kKh-nfepCJ-TxcTzCuxMElLuvSg/s320/sell.jpg",
+      "url_skins": "xxxepic/SelenaEpicThunderflash.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6opxii96tecejye/Selena+Epic+Thunderflash.zip/file",
+      "size_skins": "13.64 MB",
+      "coins": 350
+    },
+    {
+      "title": "Uranus Epic: Calestial Bastion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6oJ6-MosnhALhpuEds8M2cXSpQfF6McfHRfJNWV-sW-hnMuQtfcftDZjk-dUFbfnUrz84pFKQNwPypjHxWqc9AnIkEDg_7ET8RAbM8P8fRjk51qn536hs09gN6jZVfL2cuhghjqSzWNt7aDdlsOqA-UbTHo4PQPmKVHn97Mk-vsIwnsQYJJ2_wYbH/s320/Uranus-Epic.webp",
+      "url_skins": "xxxepic/UranusCalestialEpic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ehdrlgubwdqclfo/Uranus_Calestial_Epic.zip/file",
+      "size_skins": "11.26 MB",
+      "coins": 350
+    }
+    
+    
+
+  ],
+  "GUIDE":
+  [
+    
+    
+    {
+      "title":"Install Manual",
+      "image":"https://cdn.oneesports.gg/cdn-data/wp-content/uploads/2020/08/MobileLegendsBangBang_MLBB_appstore_officialart-1024x584.jpg",
+      "description":"file:///android_asset/install.html"
+    }
+  ]
+}
